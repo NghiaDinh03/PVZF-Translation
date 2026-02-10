@@ -599,6 +599,12 @@
             "name": "Gargantua Invocateur",
             "introduce": "<align=justified><size=36><color=black>Le Gargantua Invocateur brandit son panneau de signalisation MAGIC !, et des diablotins surgissent du sol en essaim. Ces petits fauteurs de troubles apportent beaucoup d’amusement — mais aussi bien des maux de tête — à la vie de leur maître… surtout juste après qu’il a fracassé une Noix.</color>",
             "info": "<size=36>Un Gargantua qui invoque des diablotins à chaque coup.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Chaque fois qu’il écrase avec succès une plante, un diablotin est invoqué.</color>"
+        },
+        {
+            "theZombieType": 121,
+            "name": "Gargantua Mystère",
+            "introduce": "<align=justified><size=36><color=black>Le Gargantua Mystère titube avec une boîte sur la tête, peut-être pour vous laisser dans le doute, ou peut-être pour protéger ses précieux yeux rapiécés du monde. Quoi qu’il y ait dedans, c’est un mystère enveloppé dans un coup de poteau !</color>",
+            "info": "<size=36>Qui sait ce qui nous attend sous ce masque en papier ?\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Écrase les plantes et se transforme en Gargantua aléatoire lorsque son masque est détruit.</color>"
         }
     ]
 }
