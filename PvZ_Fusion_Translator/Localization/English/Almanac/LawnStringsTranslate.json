@@ -3469,7 +3469,7 @@
             "seedType": 1338,
             "name": "Aurora Plantern",
             "introduce": "<align=justified><size=36><color=black>Winter is the season for meditation. The cold sharpens the mind. With gnawing winds and silent nights, such a perfect time for reflection should not be wasted. For days on end, the night-watching Aurora Plantern has been pondering what he should be thinking about. Oh wait, that's it! Thinking about what to think about!</color>",
-            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.5-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn cyan and gain the ability to apply Chill after passing through.</color>",
+            "info": "<size=36>Freezes zombies with a cold aura and enables lasers to gain chilling effects.\n\n<color=black>Damage: </color><color=#8B0000>20/1s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Plantern traits.\n<color=black>•</color> Once per second, deals 20 damage and applies Chill to zombies in within a 1.5-tile radius, and prolongs the Freeze duration of the zombies already frozen by 1s (cannot be reapplied to the same zombie).\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn cyan and gain the ability to apply Chill after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Ice-shroom + Plantern</color>"
         },
         {
@@ -3490,7 +3490,7 @@
             "seedType": 1341,
             "name": "Blacklight Plantern",
             "introduce": "<align=justified><size=36><color=black>Blacklight Plantern doesn't consume darkness to create light. Their light is fueled by their contempt for the Zombies, and a couple grams of plutonium. \"My light burns with rage. Pray you don't find it pointed at you.\"\n\n-Written by Goober</color>",
-            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn purple and gain the ability to trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
+            "info": "<size=36>His UV light re-ignites embers and grants lasers explosive effects.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Inherits Plantern traits.\n<color=black>•</color> Every 3s, supplies Doomwoods in a 3×3 area with 3 Ember value.\n<color=black>•</color> Anti-ground Lasers from Lumos Cactus/Ray-shroom turn purple and gain the ability to trigger a 1-tile explosion dealing 10 damage on hit after passing through.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Doom-shroom + Plantern</color>"
         },
         {
