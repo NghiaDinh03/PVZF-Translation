@@ -361,8 +361,8 @@
     },
     "Travel_noNut": {
         "achievement": 1005,
-        "Name": "Terminez le mode Odyssée sans utiliser Cherryzilla, Obsidian-nut, Méga Mecha-noix et Twin Solar-nut.",
-        "Text": "La meilleure défense, c'est l'attaque"
+        "Name": "Terminez Odyssey : Classique sans utiliser Noix ni ses fusions.",
+        "Text": "Combat à mains nues"
     },
     "Travel_sun": {
         "achievement": 1006,
@@ -376,12 +376,12 @@
     },
     "SuperMachineNut_health": {
         "achievement": 1008,
-        "Name": "Soignez Méga Mecha-noix jusqu'à ce que sa santé dépasse 100 millions.",
-        "Text": "Pourquoi fais-tu ça alors que tu n’as rien à faire ?"
+        "Name": "Soignez Méga Mécha-noix jusqu'à ce que sa santé dépasse 100 millions.",
+        "Text": "Juste pourquoi"
     },
     "SuperDamage": {
         "achievement": 1009,
-        "Name": "Éliminez un Gargantuar abyssal en moins de 10 secondes sans buff de corruption.",
+        "Name": "Éliminez un Gargantua Abyssal en moins de 10 secondes sans buff de corruption.",
         "Text": "Puissance absolue"
     }
 }
