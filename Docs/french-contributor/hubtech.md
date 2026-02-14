@@ -21,8 +21,8 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **28**
-* Traductions ajustées : **42**
+* Nouvelles traductions : **40**
+* Traductions ajustées : **43**
 
 
 ---
@@ -30,6 +30,37 @@ Ce document retrace l’ensemble des contributions effectuées par **Hubtech** a
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `09/02/26 → 15/02/26`
+> [PR#98](https://github.com/Teyliu/PVZF-Translation/pull/98) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **12**
+* Traductions ajustées : **1**
+
+---
+
+#### Détail
+
+## 🧩 **Modified Plants**
+* **Noix Pastèque** (`seedType: 1261`)
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Zombie Jockey au Poulet** (`theZombieType: 68`)
+* **Zombie Cavalier** (`theZombieType: 69`)
+* **Zombie Hydrovolatile** (`theZombieType: 71`)
+* **Sous-marin Bombéluga** (`theZombieType: 237`)
+* **Necroflamme** (`theZombieType: 73`)
+* **Cryoborg Exécutrice Mk. Alpha** (`theZombieType: 228`)
+* **Arche Canard de l’Empereur** (`theZombieType: 234`)
+* **Empereur** (`theZombieType: 235`)
+* **Disque Givré de la Légion** (`theZombieType: 236`)
+* **Maître des Bêtes de la Légion** (`theZombieType: 238`)
+* **Zombie Chevalier Capitaine du Football** (`theZombieType: 70`)
+* **Zombie Échelle Maudite** (`theZombieType: 72`)
 
 ---
 

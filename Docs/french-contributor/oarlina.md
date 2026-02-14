@@ -23,13 +23,41 @@ Ce document retrace l’ensemble des contributions effectuées par **Oarlina** a
 > Statistiques cumulées sur l’ensemble de la période.
 
 * Nouvelles traductions : **11**
-* Traductions ajustées : **35**
+* Traductions ajustées : **44**
 
 ---
 
 ## 🗓️ Historique des contributions
 
 > Les contributions sont regroupées par semaine civile (ISO).
+
+---
+
+### 📅 Semaine — `09/02/26 → 15/02/26`
+> [PR#98](https://github.com/Teyliu/PVZF-Translation/pull/98) 
+
+**Résumé de la semaine**
+
+* Traductions ajustées : **9**
+
+---
+
+#### Détail
+
+
+## 🛠️ **Modified Zombies**
+* **Michael Superstar** (`theZombieType: 207`)
+* **Zombie Méga Mécha-bowling** (`theZombieType: 210`)
+* **Yeti Baleine Sulfateuse** (`theZombieType: 214`)
+* **Pozeidon** (`theZombieType: 218`)
+* **Ultra Mécha-noix** (`theZombieType: 219`)
+
+## 🔧 **Modified Achievements**
+* **Combat à mains nues** (`achievement: 1005`)
+* **Speedrunner** (`achievement: 1007`)
+* **Juste pourquoi** (`achievement: 1008`)
+* **Puissance absolue** (`achievement: 1009`)
+
 
 ---
 

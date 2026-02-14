@@ -28,9 +28,74 @@ Ce document retrace l’ensemble des contributions effectuées par **Charles LIN
 
 > Statistiques cumulées sur l’ensemble de la période.
 
-* Nouvelles traductions : **209**
-* Traductions ajustées : **116**
-* Reviews effectuées : **289**
+* Nouvelles traductions : **212**
+* Traductions ajustées : **117**
+* Reviews effectuées : **312**
+
+---
+
+### 📅 Semaine — `09/02/26 → 15/02/26`
+> [PR#98](https://github.com/Teyliu/PVZF-Translation/pull/98) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **3**
+* Traductions ajustées : **1**
+* Reviews effectuées : **23**
+
+---
+
+#### Détail
+
+## 🌱 **Newly Added Translations**
+* **Pot Radiant** (`seedType: 936`)
+* **Nénuphar Radiant** (`seedType: 950`)
+* **Ombrelle de Pharos** (`seedType: 937`)
+
+## 🧩 **Modified Plants**
+* **Double Noix-solaire** (`seedType: 905`)
+
+## 🌿 **Reviews**
+
+## 🧩 **Modified Plants**
+
+[Hubtech](./hubtech.md) :
+* **Noix Pastèque** (`seedType: 1261`)
+
+### 🧟‍♂️ **Newly Added Zombie Translations**
+
+[Same-ael](./same_el.md) :
+* **Gargantua Mystère** (`theZombieType: 121`)
+
+[Hubtech](./hubtech.md) :
+* **Zombie Jockey au Poulet** (`theZombieType: 68`)
+* **Zombie Cavalier** (`theZombieType: 69`)
+* **Zombie Hydrovolatile** (`theZombieType: 71`)
+* **Sous-marin Bombéluga** (`theZombieType: 237`)
+* **Necroflamme** (`theZombieType: 73`)
+* **Cryoborg Exécutrice Mk. Alpha** (`theZombieType: 228`)
+* **Arche Canard de l’Empereur** (`theZombieType: 234`)
+* **Empereur** (`theZombieType: 235`)
+* **Disque Givré de la Légion** (`theZombieType: 236`)
+* **Maître des Bêtes de la Légion** (`theZombieType: 238`)
+* **Zombie Chevalier Capitaine du Football** (`theZombieType: 70`)
+* **Zombie Échelle Maudite** (`theZombieType: 72`)
+
+### 🛠️ **Modified Zombies**
+
+[Oarlina](./oarlina.md) :
+* **Michael Superstar** (`theZombieType: 207`)
+* **Zombie Méga Mécha-bowling** (`theZombieType: 210`)
+* **Yeti Baleine Sulfateuse** (`theZombieType: 214`)
+* **Pozeidon** (`theZombieType: 218`)
+* **Ultra Mécha-noix** (`theZombieType: 219`)
+
+### 🔧 **Modified Achievements**
+[Oarlina](./oarlina.md) :
+* **Combat à mains nues** (`achievement: 1005`)
+* **Speedrunner** (`achievement: 1007`)
+* **Juste pourquoi** (`achievement: 1008`)
+* **Puissance absolue** (`achievement: 1009`)
 
 ---
 
