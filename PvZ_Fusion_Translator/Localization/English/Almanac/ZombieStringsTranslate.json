@@ -164,7 +164,7 @@
         },
         {
             "theZombieType": 27,
-            "name": "Whale Rider Yeti",
+            "name": "Beluga Rider Yeti",
             "introduce": "<align=justified><size=36><color=black>The white whale that Yeti Zombie rides has impressive jumping skills. Dolphin Rider Zombie is quite envious and has always wanted to borrow it for a ride, but Yeti Zombie refuses each time. \"Yeti Zombie has no control over his white whale,\" Dr. Edgar said. \"He always wants to hide behind me, but the white whale ends up going the other way.\"</color>",
             "info": "<size=36>Jumps forward three tiles and turns back, attacking your plants from behind.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Cannot be blocked by tall plants.</color>"
         },
@@ -424,7 +424,7 @@
             "theZombieType": 70,
             "name": "Football Knight Captain Zombie",
             "introduce": "<align=justified><size=36><color=black>Jed and his horse Spiky are superstars in the Seven Undercontinents Zombie Football League. With Spiky's speed and Football launchers he bought at high prices from plants, they sweep through the field. Even though this is a serious foul, and the projectiles aren't even footballs, no one cares as long as he targets the few referees who actually understand football first.</color>",
-            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
+            "info": "<size=36>Calls reinforcements and goes berserk when his horse dies. \n\n<color=black>Damage: </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>1800 (self) + 1400 (horse)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Only appears in flag waves, immune to knockback.\n<color=black>•</color> Summons a Zombie Horseman in every lane when body HP drops to 50%.\n<color=black>•</color> While alive, provides a 66% damage reduction to the summoned Horsemen.\n<color=black>•</color> The horse can trample plants and protects the rider like Type 2 Armor.\n<color=black>•</color> If the horse dies first, the Captain dismounts as a Giga Buckshot Commando with fully restored HP, and starts to fire Iron peas every 0.1s.</color>"
         },
         {
             "theZombieType": 71,
@@ -490,7 +490,7 @@
             "theZombieType": 101,
             "name": "Cherryshooter Zombie",
             "introduce": "<align=justified><size=36><color=black>Cherryshooter Zombie is a 17-year-old high school student with a plant head growing from his neck. His favorite fruit is cherries, and due to his papal family background, the zombies affectionately refer to him as the \"Leaf King.\"</color>",
-            "info": "<size=36>Shoots cherry bullets to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>60/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
+            "info": "<size=36>Shoots cherry bullets to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>40/1.5s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
         },
         {
             "theZombieType": 102,
@@ -561,8 +561,8 @@
         {
             "theZombieType": 113,
             "name": "Pea Rider Yeti",
-            "introduce": "<align=justified><size=36><color=black>When asked what sets him apart from the Whale Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
-            "info": "<size=36>A variant of the Whale Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20/0.75s</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
+            "introduce": "<align=justified><size=36><color=black>When asked what sets him apart from the Beluga Rider Yeti, Pea Rider simply shrugs and grins. \"Oh, nothing much. I just really, really love playing Boomerang.\"</color>",
+            "info": "<size=36>A variant of the Beluga Rider Yeti!\n\n<color=black>Damage: </color><color=#4B0082>20/0.75s</color>\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Shoots peas at your plants before and after jumping.</color>"
         },
         {
             "theZombieType": 114,
@@ -722,7 +722,7 @@
         },
         {
             "theZombieType": 210,
-            "name": "Giga Mecha-nut",
+            "name": "Giga Mecha-nut Bowling Zombie",
             "introduce": "<align=justified><size=36><color=black>\"Fish balls? Mecha armor? That's all that matters,\" says Giga Mecha-nut. Sporting an impressive mechanical suit, he feels that's all he really needs.</color></size>",
             "info": "<size=36>The new electric steam roller robot designed by Gfishtus Corps.\n\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Inherits traits from Mecha-nut Zombies. Super fast. Drops a Giga Mecha-nut Fragment upon defeat.\n<color=black>Odyssey Modifiers:\n</color><color=#4B0082>1. For the first 50 hits, all zombies take only 1 damage\n2. For the first 100 hits, zombies gain 0.1s of damage immunity after each hit\n<color=black>Weakness: </color>Umbrella fusions.</color></size>"
         },
@@ -922,7 +922,7 @@
             "theZombieType": 243,
             "name": "<u>Omega Assassin Squad</u>",
             "introduce": "<align=justified><size=36><color=black>Their blades can cut through anything. They can infiltrate any defense. Their coordination and teamwork have long since reached perfection. When they mobilize, they become a legion capable of sweeping aside all obstacles, rendering the garden's so-called impregnable defenses completely meaningless.</color>",
-            "info": "<size=36>Elite Assassin Zombies that deploy as a coordinated unit.\n\n<color=black>Damage: </color><color=#4B0082>500 × 2 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>30000 +30000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Comes in a unit with 5 in each lane.\n<color=black>•</color> Has no resistance against insta-kills. When taking lethal damage, if another squadmate in the same unit is not incapacitated, they remain at 1 HP and enter an incapacitated state instead (up to 2 times).\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first time), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.</color>"
+            "info": "<size=36>Elite Assassin Zombies that deploy as a coordinated unit.\n\n<color=black>Damage: </color><color=#4B0082>500 × 2 (non-bite)</color>\n<color=black>Toughness: </color><color=#4B0082>30000 +30000 (Type 2)</color>\n<color=black>Traits: </color><color=#4B0082>\n<color=black>•</color> Comes in a unit with 5 in each lane.\n<color=black>•</color> Has no resistance against insta-kills. When taking fatal damage, if another squadmate in the same unit is not incapacitated, they remain at 1 HP and enter an incapacitated state instead (up to 2 times).\n<color=black>•</color> While incapacitated, they're immune to damage and knockback (only for the first time), block projectiles, but won't be targeted by plants.\n<color=black>•</color> After 10s of incapacitation, they revive with full health, charge forward 2.5 tiles, which deals 500 damage to all plants they collide with, and trigger a Jack-in-the-Box Explosion.</color>"
         },
         {
             "theZombieType": 300,
