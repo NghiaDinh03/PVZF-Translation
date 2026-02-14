@@ -369,8 +369,8 @@
         {
             "theZombieType": 207,
             "name": "Michael Superstar",
-            "introduce": "<size=30><color=black>Superstar Zombie, une idole légendaire du monde des zombies, a des normes extrêmement élevées pour lui-même. Après avoir terminé ses études à l'Edgar's Dance Academy, il a maîtrisé le Super Moonwalk, surnommé \"La sixième merveille du monde des zombies\", ce qui lui a valu une large base de fans.</color>",
-            "info": "<size=32>Un zombie rapide qui se glisse dans votre défense, un adversaire difficile à affronter.\n\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>Se glisse sur le champ de bataille, réduit les dégâts de 90% en glissant, puis invoque des Zombies dansants.</color>"
+            "introduce": "<align=justified><size=36><color=black>Michael Superstar, une idole légendaire du monde des zombies, a des attentes particulièrement élevées envers lui-même. Après avoir terminé ses études à l'Edgar's Dance Academy, il a maîtrisé le Super Moonwalk, surnommé \"La sixième merveille du monde des zombies,\" ce qui lui a valu une large base de fans.</color>",
+            "info": "<size=36>Un zombie rapide qui se glisse dans votre défense, un adversaire difficile à affronter.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Se glisse sur le champ de bataille, réduit les dégâts de 90 % pendant la glissade, puis invoque 4 zombies danseurs à la perche.</color>\n<color=black>Modificateurs Odyssey:\n</color><color=#4B0082>1. Michael Zombies and Michael Superstar ignorent désormais les plantes lorsqu'ils pénètrent dans la pelouse.\n2. Ils invoquent désormais 4 Super Dancing Pole Vaulters à la place.</color>"
         },
         {
             "theZombieType": 208,
@@ -386,9 +386,9 @@
         },
         {
             "theZombieType": 210,
-            "name": "Zombie Méga Mecha-bowling",
-            "introduce": "<size=36><color=black>\"Des boules de poisson ? Une armure Mecha ? C'est tout ce qui compte\", déclare Méga Mecha-noix Zombie. Arborant une combinaison mécanique impressionnante, il estime que c'est tout ce dont il a vraiment besoin.</color></size>",
-            "info": "<size=36>Le Méga Mecha-noix Zombie peut changer de direction.\n\n<color=black>Robustesse : </color><color=#4B0082>1350</color></size>"
+            "name": "Zombie Méga Mécha-bowling",
+            "introduce": "<align=justified><size=36><color=black>\"Des boules de poisson ? Une armure Mécha ? C'est tout ce qui compte,\" déclare Zombie Méga Mécha-noix . Arborant une combinaison mécanique impressionnante, il estime que c'est tout ce dont il a vraiment besoin.</color></size>",
+            "info": "<size=36>Le nouveau robot rouleau compresseur électrique conçu par Gfishtus Corps.\n\n<color=black>Résistance: </color><color=#4B0082>1350</color>\n<color=black>Spécial: </color><color=#4B0082>Hérite des caractéristiques de Zombie Mécha-noix. Ultra rapide. Laisse tomber un fragment de Méga Mécha-noix lorsqu'il est vaincu.\n<color=black>Modificateur Odyssey :\n</color><color=#4B0082>1. Pour les 50 premiers coups, tous les zombies ne subissent qu'un seul point de dégat. \n2. Pour les 100 premiers coups, les zombies gagnent 0,1 seconde d'immunité aux dégâts après chaque coup.\n<color=black>Faiblesse: </color>fusion d'Ombrelles.</color></size>"
         },
         {
             "theZombieType": 43,
@@ -411,8 +411,8 @@
         {
             "theZombieType": 214,
             "name": "Yeti Baleine Sulfateuse",
-            "introduce": "<size=32><color=black>Gatling Explod-o-rider Zombie se réveille toujours de mauvaise humeur, surtout lorsqu'un collègue chevauchant une baleine l'entraîne au travail. Alimenté par la rage, il est prêt à faire sauter toutes les plantes sur son passage avant de retourner faire une sieste.</color>",
-            "info": "<size=32>Saute et démolit votre défense par derrière en tirant sur des cerises explosives !\n\n<color=black>Robustesse : </color><color=#4B0082>1500</color>\n<color=black>Spécial : </color><color=#4B0082>Comme à tirer des cerises explosives 3 secondes après être entré dans votre pelouse.</color>"
+            "introduce": "<align=justified><size=36><color=black>Yeti Baleine Sulfateuse se réveille toujours de mauvaise humeur, surtout lorsqu'un collègue chevauchant une baleine l'entraîne au travail. Alimenté par la rage, il est prêt à faire sauter toutes les plantes sur son passage avant de retourner faire une sieste.</color>",
+            "info": "<size=36>Saute et démolit votre défense par derrière en tirant sur des cerises explosives !\n\n<color=black>Dégats: </color><color=#4B0082>1000</color>\n<color=black>Robustesse: </color><color=#4B0082>1500</color>\n<color=black>Spécial: </color><color=#4B0082>Commence à tirer 4 cerises explosives toutes les 1,5 secondes, 3 secondes après être entré dans votre pelouse.</color>"
         },
         {
             "theZombieType": 215,
@@ -470,15 +470,15 @@
         },
         {
             "theZombieType": 218,
-            "name": "Pozeidon",
-            "introduce": "<color=black></color>",
-            "info": "<size=27>Lance son divin trident pour votre défense !\n\n<color=black>Résistance : </color><color=#4B0082>8000+24000</color>\n<color=black>Spécials : </color><color=#4B0082>Apparaît uniquement en mode Purgatoire après avoir sélectionné son effet correspondant, immunisé contre Hypnos et Mordeurs, et ne subit pas plus de 5 000 dégâts à chaque coup. Lorsqu'ils sont présents, tous les zombies Giga-trident attaqueront en continu, et tous les tridents infligeront désormais 5 fois plus de dégâts. Ses tridents sont lancés selon un angle fixe, peuvent tuer instantanément la plupart des plantes (les dégâts peuvent être redirigés) et lors de l'atterrissage, bloquer les projectiles jusqu'à un maximum de 300 tirs, ou disparaître après 30 secondes. S'ils ne sont pas détruits, ils infligent d'importants dégâts aux plantes voisines lors de leur disparition.</color>"
+            "name": "<u>Pozeidon</u>",
+            "introduce": "<align=justified><size=36><color=black>La mer se fend alors que Pozéidon surgit, l'eau ruisselant de son corps imposant. Son trident, crépitant de la fureur des profondeurs, est déjà prêt à frapper. \"Les marées m'obéissent au doigt et à l'oeil,\" rugit t'il, sa voix couvrant le hurlement du vent. D'un mouvement rapide, l'arme fonce vers l'avant, s'écrasant sur les lignes ennemies comme un raz-de-marée. \"Cours si tu veux, mais personne ne peut échapper la mer.\"</color>",
+            "info": "<size=36>Roi des noyés.\n\n<color=black>Résistance : </color><color=#4B0082>24000 + 24000 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Invoque Zombie Méga Trident-noix sur toutes les voies dès son apparition.\n<color=black>•</color> Tant qu'ils sont présents, tous les zombies Trident Odyssey attaquent sans relâche. Renforce tous les tridents pour qu'ils infligent 5 fois plus de points de dégâts que d'habitude.\n<color=black>•</color> Ses tridents sont lancés à un angle fixe, tuant instantanément la plupart des plantes. Ils peuvent toutefois être redirigés vers des plantes qui réduisent les dégâts.\n<color=black>•</color>Le trident explosera et détruira toutes les plantes à proximité 30 secondes après son atterrissage.</color>"
         },
         {
             "theZombieType": 219,
-            "name": "Ultra Mecha-noix",
-            "introduce": "<color=black></color>",
-            "info": "<size=30>Dégâts des chars pour tous les zombies sur votre pelouse !\n\n<color=black>Résistance : </color><color=#4B0082>12000</color>\n<color=black>Spécials : </color><color=#4B0082>Apparaît uniquement en mode Purgatoire après avoir sélectionné son effet correspondant, immunisé contre Hypnos et Mordeurs, et ne subit pas plus de 5 000 dégâts à chaque coup. L'Ultra Mecha-Nut Zombie permet d'absorber les dégâts pour tous les zombies (à l'exception des Zombies Mystery-box). Il a un cadre d'invincibilité, ne subissant des dégâts qu'une fois toutes les 0,2 secondes.</color>"
+            "name": "<u>Ultra Mécha-noix</u>",
+            "introduce": "<align=justified><size=36><color=black>Ultra Mécha-noix devait être une version plus petite et plus précise de Méga Mécha-noix, mais une erreur dans les plans l'a rendu beaucoup plus grand. Les ingénieurs s'en sont aperçus trop tard, alors ils ont simplement <i>fait avec</i>.</color>",
+            "info": "<size=36>Artefact secret de Gfishtus Corps.\n\n<color=black>Robustesse: </color><color=#4B0082>300000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Mini-boss.\n<color=black>•</color> Hérite des caractéristiques de Méga Mecha-noix.\n<color=black>•</color> Subit un maximum de 300 points de dégâts par coup après calcul des réductions de dégâts.\n<color=black>•</color> Zombie Ultra Mecha-noix réduit les dégâts subis par tous les autres zombies (à l'exception des Zombies Mystère) à 1, mais redirige les dégâts d'origine vers lui-même.</color>"
         },
         {
             "theZombieType": 220,
@@ -599,6 +599,84 @@
             "name": "Gargantua Invocateur",
             "introduce": "<align=justified><size=36><color=black>Le Gargantua Invocateur brandit son panneau de signalisation MAGIC !, et des diablotins surgissent du sol en essaim. Ces petits fauteurs de troubles apportent beaucoup d’amusement — mais aussi bien des maux de tête — à la vie de leur maître… surtout juste après qu’il a fracassé une Noix.</color>",
             "info": "<size=36>Un Gargantua qui invoque des diablotins à chaque coup.\n\n<color=black>Robustesse: </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Chaque fois qu’il écrase avec succès une plante, un diablotin est invoqué.</color>"
+        },
+        {
+            "theZombieType": 121,
+            "name": "Gargantua Mystère",
+            "introduce": "<align=justified><size=36><color=black>Le Gargantua Mystère titube avec une boîte sur la tête, peut-être pour vous laisser dans le doute, ou peut-être pour protéger ses précieux yeux rapiécés du monde. Quoi qu’il y ait dedans, c’est un mystère enveloppé dans un coup de poteau !</color>",
+            "info": "<size=36>Qui sait ce qui nous attend sous ce masque en papier ?\n\n<color=black>Robustesse: </color><color=#4B0082>3000 + 1100 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Écrase les plantes et se transforme en Gargantua aléatoire lorsque son masque est détruit.</color>"
+        },
+        {
+            "theZombieType": 68,
+            "name": "Zombie Jockey au Poulet",
+            "introduce": "<align=justified><size=36><color=black>Préféreriez-vous affronter 10 poulets de la taille d’un zombie ou 100 zombies de la taille d’un poulet ? Inutile d’y réfléchir : les deux arrivent désormais en même temps.</color>",
+            "info": "<size=36>Chevauche un poulet qui fonce vers l’avant pour picorer les plantes.\n\n<color=black>Résistance : </color><color=#4B0082>500</color>\n<color=black>Spécial : </color><color=#4B0082>Se déplace et attaque extrêmement rapidement. Lorsque le poulet meurt, un diablotin tombe de son dos sur le terrain.</color>"
+        },
+        {
+            "theZombieType": 69,
+            "name": "Zombie Cavalier",
+            "introduce": "<align=justified><size=36><color=black>Peter adorait lire des récits de chevalerie durant son enfance. En grandissant, il rejoignit la cavalerie du Dr Edgar, chargeant bravement à travers le champ de bataille. Rien ne pouvait l’arrêter — ni l’absence d’armure, ni la douleur, ni même le poids qu’il portait sur son dos. Oui, Peter est un Zombie Cavalier.</color>",
+            "info": "<size=36>Chevauche un cheval de guerre pour charger les plantes.\n\n<color=black>Résistance : </color><color=#4B0082>720</color>\n<color=black>Spécial : </color><color=#4B0082>Très rapide. Immunisé contre le recul. Piétine et écrase la première plante rencontrée lors d’un impact. Marque ensuite une pause d’environ 3 secondes pour récupérer avant de charger à nouveau.</color>"
+        },
+        {
+            "theZombieType": 71,
+            "name": "Zombie Hydrovolatile",
+            "introduce": "<align=justified><size=36><color=black>Difficile de croire qu’un si petit hors-bord puisse présenter de graves fuites. Que pouviez-vous attendre d’autre sans faire appel à Gfish Corps ? Mais pas d’inquiétude — le fabricant propose une excellente solution : le convertir en aéroglisseur ! La consommation de carburant est plus élevée, mais un carburant premium est également disponible.</color>",
+            "info": "<size=36>Glisse à grande vitesse sur l’eau ; percute les plantes et éjecte le pilote avant de s’autodétruire.\n\n<color=black>Résistance : </color><color=#4B0082>1350</color>\n<color=black>Spécial : </color><color=#4B0082>Extrêmement rapide. Écrase la première plante lors d’un impact, éjecte un diablotin sur la terre ferme à proximité puis s’autodétruit.</color>"
+        },
+        {
+            "theZombieType": 237,
+            "name": "Sous-marin Bombéluga",
+            "introduce": "<align=justified><size=36><color=black>Peint en rose, cet imposant navire était censé se dissimuler parmi les Requinmarins, mais toute la peinture rose fut prise pour du jus de cerveau et dévorée par les zombies. Pas une seule goutte n’est restée.</color>",
+            "info": "<size=36>Exploite les explosions de cerises alliées pour accroître sa propre puissance.\n\n<color=black>Résistance : </color><color=#4B0082>9000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Engloutit les plantes.\n<color=black>•</color> Lorsqu’une explosion de cerise côté zombies touche des plantes et inflige des dégâts de zone, chaque Sous-marin Bombéluga affecté restaure 150 PV et gagne 0.3× vitesse de déplacement, cumulable jusqu’à 8×.\n<color=black>•</color> La valeur d’enchevêtrement sur ce zombie ne dépassera pas 10.</color>"
+        },
+        {
+            "theZombieType": 73,
+            "name": "Necroflamme",
+            "introduce": "<align=justified><size=36><color=black>Nul ne sait pourquoi elle apparaît parmi les morts-vivants, ni comment elle peut invoquer des vagues infinies de zombies. Certains disent qu’elle est la pierre tombale d’Endoflame ; d’autres la considèrent comme une traîtresse parmi les plantes. Quelle que soit la vérité, Necroflamme l’enterre profondément en elle. Peut-être a-t-elle déjà tenté de s’expliquer, mais personne n’a jamais pu la comprendre.</color>",
+            "info": "<size=36>Une fleur maléfique qui invoque des zombies et peut remplacer les plantes comme une pierre tombale.\n\n<color=black>Résistance : </color><color=#4B0082>300</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Apparaît uniquement dans les 5 colonnes les plus à droite de la pelouse. Privilégie les cases vides ; sinon remplace une plante aléatoire.\n<color=black>•</color> Ne peut pas être retirée à la pelle ni déplacée avec des gants. Ignorée par les zombies.\n<color=black>•</color> Absorbe les projectiles du camp des plantes qui la traversent, subissant 30 dégâts à chaque impact.\n<color=black>•</color> 10s après son apparition, invoque une Zombotanique aléatoire ; en invoque une autre toutes les 15s par la suite, puis une dernière à sa mort.\n<color=black>•</color> Lorsqu’elle est fertilisée, elle laisse tomber un Cadeau Florale puis disparaît.</color>"
+        },
+        {
+            "theZombieType": 228,
+            "name": "<color=#4B0082><u>Cryoborg Exécutrice Mk. Alpha</u>",
+            "introduce": "<align=justified><size=36><color=black>Armée de lames de glace et drapée d’un manteau de blizzard, elle sculpte des statues dans la chair brisée et façonne un pouvoir divin d’une volonté inflexible. Divinité artificielle, spectre de la toundra. Lorsque l’enfer nous réunira, se souviendra-t-elle de cette terre de désolation ?</color>",
+            "info": "<size=36>Souveraine de la Toundra Gelée.\n\n<color=black>Dégâts : </color><color=#4B0082>1000</color>\n<color=black>Résistance : </color><color=#4B0082>64000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immunisée contre le gel, le recul et les étourdissements.\n<color=black>•</color> Écrase les plantes. Ses attaques gèlent les plantes pendant 5s.\n<color=black>•</color> À son entrée, effectue une entaille qui inflige des dégâts à toutes les plantes devant elle (peut être bloquée par une Citrouille), puis libère 5 boules de neige autour de sa ligne, chacune infligeant des dégâts dans une zone de 3×3.\n<color=black>•</color> Ensuite, elle effectue une entaille ou une attaque normale toutes les 3s — plus ses PV sont bas, plus la probabilité d’entaille augmente.\n<color=black>•</color> Les attaques normales projettent 4 lames de glace vers l’avant.\n<color=black>•</color> Sur carte Neige, a une chance d’invoquer instantanément un blizzard.</color>"
+        },
+        {
+            "theZombieType": 234,
+            "name": "<color=#4B0082><u>Arche Canard de l’Empereur</u>",
+            "introduce": "<align=justified><size=36><color=black>En tant que chef suprême de tous les diablotins, il règne en maître sur leur monde. Pas besoin d’être aussi érudit que le Zombie Érudit, ni aussi élégant que le Zombie Michael — il fait simplement ce qui lui plaît : chevaucher son hors-bord doré bien-aimé surnommé l’Arche du Canard et semer le chaos chez ces maudites plantes. Inutile d’expliquer davantage : levons l’ancre et partons à l’aventure !</color>",
+            "info": "<size=36>Dernier diablotin à la fin de votre Odyssée. Pilote la luxueuse Arche du Canard, dirigeant la flotte des morts-vivants.\n\n<color=black>Résistance : </color><color=#4B0082>48000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immunisé contre les étourdissements et l’enchevêtrement.\n<color=black>•</color> Écrase rapidement les plantes.\n<color=black>•</color> Bénéficie d’une réduction inhérente de 80% des dégâts subis.\n<color=black>•</color> Tant qu’il est présent, tous les zombies gagnent 20% de vitesse de déplacement et ont 20% de chances de réduire les dégâts reçus à 1.\n<color=black>•</color> À sa mort, éjecte l’Empereur sur la terre ferme à proximité.</color>"
+        },
+        {
+            "theZombieType": 235,
+            "name": "<color=#4B0082>Empereur",
+            "introduce": "<align=justified><size=36><color=black>Même au cœur des batailles les plus féroces, l’Empereur aspire encore à quelques instants de loisir : aucun cerveau à pourchasser, aucune plante à affronter, juste une promenade tranquille, réfléchissant à la prochaine farce qu’il infligera à ses sujets pour Halloween. Mais l’appel du devoir en tant que membre de la royauté le ramène toujours sur le trône, prêt à mener la prochaine charge.</color>",
+            "info": "<size=36>Empereur en retraite, mais une fois échappé, il reviendra assurément.\n\n<color=black>Dégâts : </color><color=#4B0082>80/0.1s; 100 (morsure)</color>\n<color=black>Résistance : </color><color=#4B0082>18000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Mini-boss. Immunisé contre les étourdissements et le recul, mais perd son bonus de réduction des dégâts.\n<color=black>•</color> Pour chaque autre mini-boss présent, bénéficie d’une réduction de 20% des dégâts subis.\n<color=black>•</color> À l’atterrissage, se retourne et bat en retraite en ignorant les plantes.\n<color=black>•</color> Après avoir quitté la pelouse, revient à bord d’une nouvelle Arche Canard.</color>"
+        },
+        {
+            "theZombieType": 236,
+            "name": "Disque Givré de la Légion",
+            "introduce": "<align=justified><size=36><color=black>Ce nouveau modèle de Disque Cryogénique est équipé d’un émetteur antigravité avancé et d’un capteur de plantes permettant un vol et un combat entièrement autonomes. Son pilote n’a même pas besoin de le contrôler, ni de rester éveillé. Alors pourquoi garder un pilote ? \"Certains zombies sont trop stupides pour faire quoi que ce soit d’autre\", déclara le Dr Edgar Zomboss en soudant le cockpit.</color>",
+            "info": "<size=36>Équipé de deux armes classiques de science-fiction.\n\n<color=black>Résistance : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Toutes les 2s, verrouille la plante la plus proche dans un rayon de 2.5 cases et tire un Rayon Dissolvant, infligeant 300 dégâts, en priorisant les plantes non-Citrouille, non-Pot et non-volantes.\n<color=black>•</color> Lorsqu’il est proche d’une plante, plane directement au-dessus d’elle et déploie un Siphon Drainant infligeant 10 dégâts toutes les 0.02s à toutes les plantes sur cette case. S’il est hypnotisé, les dégâts deviennent des soins d’un montant équivalent.\n<color=black>Modificateurs d’Odyssée:\n</color><color=#4B0082>1. Les Rayons Dissolvants ciblent désormais la plante la plus éloignée à portée\n2. Portée du Siphon Drainant : 1 case → zone de 3×3</color>"
+        },
+        {
+            "theZombieType": 238,
+            "name": "Maître des Bêtes de la Légion",
+            "introduce": "<align=justified><size=36><color=black>Les Givrepoils adultes protègent instinctivement les plus jeunes de leur meute. Profitant de ce trait, le Maître des Bêtes s’est déguisé en Roulourson et est parvenu à en apprivoiser un. Le prix à payer ? Il devra probablement vivre comme un Roulourson pour le reste de sa non-vie.</color>",
+            "info": "<size=36>Chevauche un Givrepoil qui repousse vos défenses vers l’arrière.\n\n<color=black>Résistance : </color><color=#4B0082>9000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Immunisé contre le Froid et le Gel. Vulnérable au Froid Profond.\n<color=black>•</color> Au contact d’un Pot, d’une plante immunisée contre l’écrasement ou d’une plante Titan, tente de l’écraser. Sinon, repousse toutes les plantes connectées de la ligne d’une case vers la gauche.\n<color=black>•</color> S’il ne peut pas repousser (bloqué par des Titans ou sans espace disponible), détruit instantanément la plante la plus à gauche pour libérer de la place.\n<color=black>•</color> Les plantes volantes ne sont pas affectées par la poussée.\n<color=black>•</color> Lorsque ses PV passent sous la moitié de son maximum, bondit de 2.2 cases vers l’avant en ignorant les plantes.</color>"
+        },
+        {
+            "theZombieType": 70,
+            "name": "Zombie Chevalier Capitaine du Football",
+            "introduce": "<align=justified><size=36><color=black>Jed et son cheval Spiky sont des superstars de la Ligue de Football Zombie des Sept Sous-Continents. Grâce à la vitesse de Spiky et aux lanceurs de football American qu’il a achetés à prix élevé aux plantes, ils balayent le terrain. Même s’il s’agit d’une faute grave, et que les projectiles ne sont même pas de vrais ballons, personne ne s’en soucie tant qu’il vise en priorité les rares arbitres qui comprennent réellement le football.</color>",
+            "info": "<size=36>Appelle des renforts et entre en frénésie lorsque son cheval meurt. \n\n<color=black>Dégâts : </color><color=#4B0082>80×4/1.5s</color>\n<color=black>Résistance : </color><color=#4B0082>1800 (lui-même) + 1400 (cheval)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Apparaît uniquement lors des vagues drapeau. Immunisé contre le recul.\n<color=black>•</color> Invoque un Zombie Cavalier dans chaque ligne lorsque ses PV corporels tombent à 50%.\n<color=black>•</color> Tant qu’il est en vie, réduit de 50% les dégâts subis par les Cavaliers invoqués.\n<color=black>•</color> Le cheval peut piétiner les plantes et protège son cavalier comme une Armure de Type 2.\n<color=black>•</color> Si le cheval meurt en premier, le Capitaine met pied à terre avec tous ses PV restaurés et commence à tirer des Pois de Fer toutes les 0.1s.</color>"
+        },
+        {
+            "theZombieType": 72,
+            "name": "Zombie Échelle Maudite",
+            "introduce": "<align=justified><size=36><color=black>\"Les forts ne se plaignent jamais de leur environnement, et moi je ne dépends jamais d’une échelle !\" déclare le Zombie Échelle Maudite en serrant son échelle. \"Ce truc dans ma main est un outil défensif, et celui que je pose reste mon arme contre les dégâts !\" Il pose l’échelle et écoute les noix se fissurer.</color>",
+            "info": "<size=36>Manie une échelle en bois imprégnée d’une malédiction de lien vital.\n\n<color=black>Résistance : </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Après avoir placé une échelle, tout dégât final infligé au poseur est intégralement transféré à la plante située sur la case de l’Échelle Maudit, entraînant une perte de PV équivalente. Si les dégâts transférés dépassent 8k ou si le poseur meurt d’une élimination instantanée, l’échelle est détruite.\n<color=black>•</color> L’Échelle de Lien Vital ne peut pas être attirée par les Champi-Aimants.</color>"
         }
     ]
 }

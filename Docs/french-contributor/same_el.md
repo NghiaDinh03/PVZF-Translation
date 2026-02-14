@@ -32,6 +32,22 @@ Ce document retrace l’ensemble des contributions effectuées par **Same-ael** 
 
 ---
 
+### 📅 Semaine — `09/02/26 → 15/02/26`
+> [PR#98](https://github.com/Teyliu/PVZF-Translation/pull/98) 
+
+**Résumé de la semaine**
+
+* Nouvelles traductions : **1**
+
+---
+
+#### Détail
+
+## 🧟‍♂️ **Newly Added Zombie Translations**
+* **Gargantua Mystère** (`theZombieType: 121`)
+
+---
+
 ### 📅 Semaine — `02/02/26 → 08/02/26`
 > [PR#96](https://github.com/Teyliu/PVZF-Translation/pull/96) 
 

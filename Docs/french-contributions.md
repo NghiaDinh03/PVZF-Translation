@@ -17,9 +17,9 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Récapitulatif des contributions**
 
-* Nouvelles traductions : **209**
-* Traductions ajustées : **116**
-* Reviews effectuées : **289**
+* Nouvelles traductions : **212**
+* Traductions ajustées : **117**
+* Reviews effectuées : **312**
 
 **Réseaux & contacts**
 
@@ -36,7 +36,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **23**
+* Nouvelles traductions : **24**
 * Traductions ajustées : **101**
 
 **Réseaux & contacts**
@@ -49,8 +49,8 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 
 **Statistiques de contribution**
 
-* Nouvelles traductions : **28**
-* Traductions ajustées : **42**
+* Nouvelles traductions : **40**
+* Traductions ajustées : **43**
 
 **Réseaux & contacts**
 
@@ -63,7 +63,7 @@ Ce document a pour objectif de reconnaître et valoriser les personnes impliqué
 **Statistiques de contribution**
 
 * Nouvelles traductions : **11**
-* Traductions ajustées : **35**
+* Traductions ajustées : **44**
 
 **Réseaux & contacts**
 
