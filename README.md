@@ -30,11 +30,11 @@ The download links for the Multi-language Mod and the translation files of the M
 > Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
 > Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258)
 
-The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian** and **Korean**. Other contained languages are empty for the moment.
+The Multi-Language version supports the following languages: **English**, **French**, **Italian**, **German**, **Spanish**, **Portuguese**, **Vietnamese**, **Javanese**, **Indonesian**, **Russian**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
 
 	Up-to-date 3.3.1 - English, Vietnamese
 	Up-to-date partially 3.4.1 - Ukrainian
-	Last Updated 3.3.1 - Korean
+	Last Updated 3.3.1 - Korean, Romanian
 	Last Updated 3.2.1 - Spanish
 	Gradually updating - French, Japanese
 	Last Updated 2.6.1 - Indonesian, Russian 
@@ -111,6 +111,7 @@ Russian | Nekosha, LancerX0 (Coder), Kammerer |
 Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
 Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
 Ukrainian | Easter Wolf |
+Romanian | Rykon-V73
 
 This language team has a detailed contribution report : 
 
