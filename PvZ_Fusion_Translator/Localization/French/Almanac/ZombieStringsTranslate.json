@@ -695,6 +695,18 @@
             "name": "Zombie Docteur Sulfateuse à Cerises",
             "introduce": "<align=justified><size=36><color=black>Pour faire progresser les sciences explosives, le Zombie Docteur Sulfateuse à Cerises part à l’étranger. La réserve de tartes aux cerises attachée dans son dos ? Simplement une question de préparation.</color>",
             "info": "<size=36>Diplômé magna cum bombis — prêt à le prouver.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 3.\n<color=black>•</color> Hérite des capacités du ou des paliers précédents.\n<color=black>•</color> Lorsqu’il est en colère, ramasse son pack de munitions et tire 1 cerise supplémentaire toutes les 0.5s.</color>"
+        },
+        {
+            "theZombieType": 327,
+            "name": "Bombardier Kirov",
+            "introduce": "<align=justified><size=36><color=black>Puisque les parties haut de gamme ne poussent pas sur les arbres, Gfishtus Corps a pensé à un moyen plus économique pour faire un modèle simplifié afin d'effectuer des attaques plus localisées. Fatalement, Ils ont juste fait un vaisseau qui est honteusement similaire au modèle original du Dr Edgar.\n\n- Écrit par Mr. Etc.</color>",
+            "info": "<size=36>Un véhicule aérien Kirov qui laisse périodiquement tomber des Diables à ressort.\n\n<color=black>Dégâts : </color><color=#4B0082>500/1.5s</color>\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 1.\n<color=black>•</color> Heurte le sol après avoir pris 20 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 300,
+            "name": "Zombie Érudit Sulfateuse à Cerises",
+            "introduce": "<align=justified><size=36><color=black>\"Il y a toujours plus dans la vie que de simples énigmes mathématiques… comme le roseau derrière la fenêtre… ou le clair de lune de ce soir,\" marmonne le Zombie Érudit Sulfateuse à Cerises. \"Mais d’abord, il faut vraiment que je résolve ce Sudoku. Il est… étonnamment difficile.\"</color>",
+            "info": "<size=36>Tire une rafale rapide de projectiles explosifs à la cerise lorsqu’il est en colère.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 1.\n<color=black>•</color> Hérite des capacités du Zombie Érudit.\n<color=black>•</color> Après avoir perdu son journal, tire 4 projectiles explosifs à la cerise toutes les 0.5s.</color>"
         }
     ]
 }
