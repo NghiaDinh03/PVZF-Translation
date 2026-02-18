@@ -36,7 +36,7 @@
         "33": "Cornveyor Weed: Now makes zombies on it to continuously slide to the right | Cornposter Pot: Butter Chance for the plant above 50% → 100%",
         "34": "Omni Pumpkin: On entry, grants all connected Magnetic Plants a Shield equal to 30 × number of Magnetic Plants | Quasar: On entry, resets and grants them an Attack buff of 0.5% × number of Magnetic Plants instead",
         "35": "Omni Pumpkin & Quasar: Now counts twice towards the number of Magnetic Plants",
-        "1000": "Gloves' cooldown is reduced by 10s, and can now move Mini-bosses",
+        "1000": "Gloves' cooldown is reduced by 10s (No CD for the plant Glove), and can now move Mini-bosses",
         "1001": "All Plants' recharge is halved",
         "1002": "Each Sun now gives more value | 5 → 15 → 25 → 50 → 75",
         "1003": "Gloves' cooldown is halved, and can now move Mini-bosses",
@@ -233,7 +233,7 @@
         "10": "At the start of every round, your plants gain 3% damage reduction for every type of non-Odyssey plant on the lawn, up to 30%",
         "11": "At the start of every round, the 6 plants with the most damage gain a 20% damage boost",
         "12": "You gain 6 extra rerolls in the Shop if you didn't buy anything from the last visit",
-        "13": "Gain 11 extra rerolls.",
+        "13": "Gain 1 1 extra Shop rerolls.",
         "1000": "Shovel all of your plants, but your Sun is doubled, and at the start of every round all plants gain Shield equal to the total amount of Sun cost of the plants shoveled",
         "1001": "Shovel all of your plants, but your Sun is doubled, and Seed packets have no CD in this round",
         "1002": "Your teams gain an 18% chance to crit",
@@ -259,7 +259,7 @@
         "2008": "You have a 45% chance to gain an extra reroll when you reroll",
         "2009": "At the start of every round, gain 2000 points.",
         "2010": "At the start of each round, gain a Stellar Imitater. If used on a plant with a Stellar form, it becomes that plant's Stellar variant",
-        "2011": "Gain 500 points every time you reroll",
+        "2011": "Gain 500 points every time you reroll in the Shop or when selecting Zombie Modifiers",
         "2012": "Deplete all of your current points. For every 1000 points depleted, your plants gain a 1% chance to crit",
         "2013": "For this round only, you gain 10000 points and win the round if a zombie enters your house"
     }
