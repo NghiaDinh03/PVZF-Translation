@@ -222,7 +222,7 @@
     "investmentBuffs": {
         "0": "Plants do 40% more damage in the first 50% of the round",
         "1": "At the end of each round, gain 50 points for every type of plant that dealt 0 damage this round",
-        "2": "At the end of each round, gain 1000 points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round",
+        "2": "At the end of each round, gain 1k points and 5% more max HP for all your plants if none of your plants reached 0 HP in this round",
         "3": "Turn all plants on the lawn into random plants, gain 1000 points immediately and the Glove will have no CD in this round",
         "4": "Immediately gain 10 random Odyssey plants as seed packets",
         "5": "Every time a Mini-boss is defeated, all plants heal for 10% of their max HP",
@@ -244,7 +244,7 @@
         "1007": "At the start of every round, your teams gain a 25% chance to crit, and 30% reduced max HP",
         "1008": "Your teams gain a 10% chance to crit. At the start of every round, that chance is increased by 1%",
         "1009": "Your teams gain a 10% attack damage boost. At the start of every round, if there are 200 or more plants in your teams, all plants gain an additional 50% attack damage boost",
-        "1010": "At the start of every round and now, gain 1500 points and an extra reroll",
+        "1010": "At the start of every round and now, gain 1,500 points and an extra reroll",
         "1011": "At the start of every round, promote a random non-Odyssey plant to Tier 2",
         "1012": "You gain a Plant Giftbox every time you perform a fusion",
         "1013": "Your plants do 40% more damage in the last 50% of the round",
@@ -254,13 +254,13 @@
         "2003": "Your teams gain a permanent 8% attack damage boost every time a Mini-boss is defeated",
         "2004": "At the start of every round, promote a random non-Odyssey plant to Tier 3",
         "2005": "Increase your teams' crit chance by 30%. If the crit chance is above 100%, crit damage is increased by 40%",
-        "2006": "A super rare Endoflame that holds a ton of Points appears",
-        "2007": "Immediately gain 5000 points. From now on, you gain 3000 points if you enter into the next round without buying anything from the Shop",
+        "2006": "A super rare Endoflame that holds a ton of Points appears (you gain 20k Points)",
+        "2007": "Immediately gain 5k points. From now on, you gain 3000 points if you enter into the next round without buying anything from the Shop",
         "2008": "You have a 45% chance to gain an extra reroll when you reroll",
-        "2009": "At the start of every round, gain 2000 points.",
+        "2009": "At the start of every round, gain 2k points.",
         "2010": "At the start of each round, gain a Stellar Imitater. If used on a plant with a Stellar form, it becomes that plant's Stellar variant",
         "2011": "Gain 500 points every time you reroll in the Shop or when selecting Zombie Modifiers",
-        "2012": "Deplete all of your current points. For every 1000 points depleted, your plants gain a 1% chance to crit",
-        "2013": "For this round only, you gain 10000 points and win the round if a zombie enters your house"
+        "2012": "Deplete all of your current points. For every 1k points depleted, your plants gain a 1% chance to crit",
+        "2013": "For this round only, you gain 10k points and win the round if a zombie enters your house"
     }
 }
