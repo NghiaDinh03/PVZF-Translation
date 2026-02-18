@@ -707,6 +707,12 @@
             "name": "Zombie Érudit Sulfateuse à Cerises",
             "introduce": "<align=justified><size=36><color=black>\"Il y a toujours plus dans la vie que de simples énigmes mathématiques… comme le roseau derrière la fenêtre… ou le clair de lune de ce soir,\" marmonne le Zombie Érudit Sulfateuse à Cerises. \"Mais d’abord, il faut vraiment que je résolve ce Sudoku. Il est… étonnamment difficile.\"</color>",
             "info": "<size=36>Tire une rafale rapide de projectiles explosifs à la cerise lorsqu’il est en colère.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 1.\n<color=black>•</color> Hérite des capacités du Zombie Érudit.\n<color=black>•</color> Après avoir perdu son journal, tire 4 projectiles explosifs à la cerise toutes les 0.5s.</color>"
+        },
+        {
+            "theZombieType": 328,
+            "name": "Vaisseau-Mère Kirov",
+            "introduce": "<align=justified><size=36><color=black>Le Vaisseau-mère Kirov est un des produits phare de Gfishtus Corps, et l'entreprise affirme qu'il utilise une techologie de drone avant gardiste. Mais, si vous examinez les débris de ses larbins attentivement, Vous allez souvent trouver \"Recyclé\" peint en rouge.</color>",
+            "info": "<size=36>Un Vaisseau-mère aérien qui déploie des Drones Kirovs .\n\n<color=black> Robustesse : </color><color=#4B0082>6000</color>\n<color=black> Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 2.\n<color=black>•</color> toutes les 3 secondes, Déploie un Drone Kirov avec 0.1× sa propre robustesse.\n<color=black>•</color> S'écrase après avoir pris 30 coups d'une Carambole Magnétique.</color>"
         }
     ]
 }
