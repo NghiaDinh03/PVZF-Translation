@@ -646,7 +646,7 @@
             "theZombieType": 127,
             "name": "黑曜石高坚果僵尸",
             "introduce": "<color=#3D1400>经过冰霜与火焰的淬炼，黑曜石高坚果僵尸的头变得坚不可摧！\n……当然，前提是温度变化不要太快。</color>",
-            "info": "冰火交融使其坚硬无比，但辣椒和寒冰菇仍是其弱点。\n\n<color=#3D1400>韧性：</color><color=red>1500+4500（一类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>特点：</color><color=red>免疫红温、寒冷、冻结。拥有90%减伤。受到的寒冰菇效果和火爆辣椒效果会转化为1/3倍韧性的真实伤害</color>\n<color=#3D1400>融合要素及场景：</color><color=red>寒冰高坚果僵尸+火焰高坚果僵尸。两者位于同一格时会产生融合</color>"
+            "info": "冰火交融使其坚硬无比，但辣椒和寒冰菇仍是其弱点。\n\n<color=#3D1400>韧性：</color><color=red>1500+4500（一类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>特点：</color><color=red>免疫红温、寒冷、冻结。拥有9点护甲系数。受到的寒冰菇效果和火爆辣椒效果会转化为1/3倍韧性的真实伤害</color>\n<color=#3D1400>融合要素及场景：</color><color=red>寒冰高坚果僵尸+火焰高坚果僵尸。两者位于同一格时会产生融合</color>"
         },
         {
             "theZombieType": 128,
@@ -736,13 +736,13 @@
             "theZombieType": 212,
             "name": "究极黑曜石巨人",
             "introduce": "<color=#3D1400>曾有僵尸言道：根据古老文献记载，那身暗紫铠甲，只有经历了极寒与炽热双重考验的身躯才能承受，每当僵尸一族处于水深火热之中，在最惨烈的战场中心就有可能出现他的身影。“动静太大了，小心把沉睡在大地中的巨人吵醒。”这是对植物们的忠告。</color>",
-            "info": "旅行尽头的巨人。\n\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但砸击时生成黑曜石小鬼僵尸。砸击范围2.5格，对魅惑僵尸伤害7200。在场时，领袖减伤固定为90%（进化模式中为80%）</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、体型缩小、传送。受到伞类大招击退减半。为全场僵尸提供20%减伤（领袖僵尸提供的减伤相加，最高90%），仅在部分3旗以上关卡的旗帜波出场。进化模式中，韧性×2且提供的减伤增至70%</color>\n<color=#3D1400>词条：</color><color=red>死亡时召唤僵王博士</color>"
+            "info": "旅行尽头的巨人。\n\n<color=#3D1400>锤击伤害：</color><color=red>7200</color>\n<color=#3D1400>韧性：</color><color=red>32000+32000（一类）</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。拥有武装巨人僵尸的特点，但锤击时生成黑曜石小鬼僵尸。锤击范围2.5格。使全场僵尸护甲系数+9</color>\n<color=#3D1400>领袖僵尸：</color><color=red>对秒杀伤害限伤5000。免疫魅惑、吞食、溺死、灰烬斩杀、伞类转化、体型缩小、传送。受到伞类大招击退减半。拥有1点护甲系数。仅在部分3旗以上关卡的旗帜波出场。进化模式中，韧性×2</color>\n<color=#3D1400>护甲系数：</color><color=red>受到的伤害降低至1/（1+护甲系数）倍</color>\n<color=#3D1400>词条：</color><color=red>死亡时召唤僵王博士</color>"
         },
         {
             "theZombieType": 213,
             "name": "黑曜石小鬼僵尸",
             "introduce": "<color=#3D1400>翅翼铡刀加死亡翻滚的帅气出场，是黑曜石小鬼僵尸为他出演好莱墓新片《侏罗纪僵尸》中迷你翼龙精心设计的动作。没人知道其实他只是不小心被甩出去了而已。</color>",
-            "info": "冲刺进你的防线大杀四方。\n\n<color=#3D1400>攻击力：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>1500</color>\n<color=#3D1400>特点：</color><color=red>登场时向前冲刺2.7格，冲刺时不会被命中但可被伞类植物的大招击飞</color>"
+            "info": "冲刺进你的防线大杀四方。\n\n<color=#3D1400>伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>1500</color>\n<color=#3D1400>特点：</color><color=red>登场时向前冲刺2.7格，冲刺时不会被命中但可被伞类植物的大招击飞</color>"
         },
         {
             "theZombieType": 214,
@@ -820,7 +820,7 @@
             "theZombieType": 226,
             "name": "见习阿尔法小队",
             "introduce": "<color=#3D1400>他们是僵尸特种部队的年轻血液。他们面对任何危险的敌人，他们踏足所有恶劣的环境，他们在战斗中相识，立志成为究极阿尔法小队的队长。他们吹奏战歌，在战场的迷雾中互相指引方向，约定的歌声一直吹奏到生命的尽头。</color>",
-            "info": "通常两个一组执行作战，其中的精锐则会集结为部队出动。\n\n<color=#3D1400>近战伤害：</color><color=red>500×2（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>6000+6000（二类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>免疫魅惑。两个一组，个体死亡时会使战友死亡。受到致命伤害时若本组有战友不处于濒死，则保留1血进入濒死（限2次），免疫伤害（仅限首次濒死）和击退，不会被索敌但阻挡子弹。10秒后回复满本体血量，无视植物突进2.5格，对碰到的每个植物造成500伤害并安装炸弹，稍后释放玩偶匣爆炸</color>\n<color=#3D1400>弱点：</color><color=red>大嘴花类、超级保护伞类</color>\n<color=#3D1400>词条1：</color><color=red>濒死状态无次数限制且一直免疫伤害</color>\n<color=#3D1400>词条2：</color><color=red>作为一组领袖出场时，每行出现5个且韧性×5，仅能在全组进入濒死时集体死亡</color>"
+            "info": "在同生共死的战友倒下前，可以多次死里求生并突进反击。\n\n<color=#3D1400>伤害：</color><color=red>500×2（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>6000+6000（二类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>免疫魅惑。以队伍的形式出场，一队有2名队员。一名队员死亡时，另一名队员也会死亡。受到致命伤害时，可以保留1点血量并进行紧急休整</color>\n<color=#3D1400>紧急休整：①</color><color=red>原地蹲踞10秒，免疫击退且不会被索敌。结束后，回满本体血量，无视植物突进2.5格，对沿途的每个植物造成500伤害、释放一次延时的玩偶匣爆炸</color>\n<color=#3D1400>②</color><color=red>只能紧急休整2次。首次休整时，免疫伤害</color>\n<color=#3D1400>③</color><color=red>同一队的队员全都处于此状态时，全体死亡</color>\n<color=#3D1400>词条1：</color><color=red>阿尔法小队的休整次数没有限制，休整时始终免疫伤害</color>\n<color=#3D1400>词条2：</color><color=red>究极阿尔法小队将会出现</color>"
         },
         {
             "theZombieType": 227,
@@ -862,13 +862,13 @@
             "theZombieType": 233,
             "name": "特种武装巨人",
             "introduce": "<color=#3D1400>特种武装巨人们总表示他们的交谊坚不可摧，但蓝眼总受到他们的排斥。“我们刚好可以组成信号灯，他来就多余了！”绿眼这么说。</color>",
-            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。拥有66%减伤</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>整合四种外表对应的对异常状态的免疫能力</color>"
+            "info": "全副武装的巨人僵尸，不同的眼睛颜色标示不同的抗性与能力。\n\n<color=#3D1400>韧性：</color><color=red>16000+16000（一类）</color>\n<color=#3D1400>特点：</color><color=red>不会扔出小鬼僵尸。锤击对僵尸伤害为3600。出场时随机获得一种外表，拥有外表对应的能力和抗性</color>\n<color=#3D1400>红眼：</color><color=red>免疫红温。护甲系数+2</color>\n<color=#3D1400>蓝眼：</color><color=red>免疫寒冷、冻结、击退。自身速度×2。每次锤击会对植物造成5次伤害判定</color>\n<color=#3D1400>黄眼：</color><color=red>免疫定身。锤击后，向前跳跃小段距离，并额外锤击一次</color>\n<color=#3D1400>绿眼：</color><color=red>免疫蒜毒。锤击后回复10%韧性的血量</color>\n<color=#3D1400>词条1：</color><color=red>整合四种外表对应的特殊能力</color>\n<color=#3D1400>词条2：</color><color=red>整合四种外表对应的对异常状态的免疫能力</color>"
         },
         {
             "theZombieType": 234,
             "name": "究极小鬼国王",
             "introduce": "<color=#3D1400>作为孩子们的老大，在小鬼头的世界里，他就是王。不必如学者僵尸一样知识渊博，无需像舞王僵尸一般风度翩翩，只要做让自己开心的事就好了：骑上心爱的快艇，给讨厌的植物们制造点大麻烦。那么，无需多言：出发，掌握你的冒险！</color>",
-            "info": "航路尽头的小鬼。乘坐金鸡豪艇，为大军保驾护航。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、水草值。快速碾压植物。在场时，领袖减伤固定为90%，所有僵尸增加20%速度，且受伤时有20%概率使伤害降为1。死亡时，将小鬼国王僵尸弹射至附近地面</color>"
+            "info": "航路尽头的小鬼。乘坐金鸡豪艇，为大军保驾护航。\n\n<color=#3D1400>韧性：</color><color=red>48000</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫定身、水草值。快速碾压植物。在场时，所有僵尸护甲系数+4，速度增加20%，且有33%概率使受伤降为1。死亡时，将小鬼国王僵尸弹射至附近地面</color>"
         },
         {
             "theZombieType": 235,
@@ -910,7 +910,7 @@
             "theZombieType": 241,
             "name": "特种黄金巨人",
             "introduce": "<color=#3D1400>特种黄金巨人很讨厌制式盔甲，他认为自己需要更加能彰显地位的装备、以便和其他铠甲巨人区分开。\n“这是不可能的。”埃德加博士断然拒绝了他的要求，“制式盔甲不仅制造方便，而且能有效防止你们这些巨人吃的太胖。”</color>",
-            "info": "重伤时变得诸法不侵，召唤分身，并在其掩护下获得震天撼地的力量。\n\n<color=#3D1400>韧性：</color><color=red>18000+18000（一类）</color>\n<color=#3D1400>锤击伤害：</color><color=red>4800</color>\n<color=#3D1400>移速：</color><color=red>慢，巨化后变为极慢</color>\n<color=#3D1400>特点：</color><color=red>免疫魅惑。本体血量首次低于1%时，回复10%韧性的血量。本体血量首次低于50%时，净化身上的红温、余烬、中毒、寒冷、冻结状态，每净化一项，回复10%本体韧性的血量，随后永久免疫这五种异常和定身。同时在本列每行召唤一个韧性为自身1/3倍的特种武装巨人分身，分身存在期间本体免疫伤害。若15秒后仍有分身存在，将其全部吸收然后巨化，并使自身韧性和攻击力翻倍，之后每次攻击将额外对全场所有植物造成攻击力20%×吸收分身数量的伤害</color>"
+            "info": "重伤时变得诸法不侵，召唤分身，并在其掩护下获得震天撼地的力量。\n\n<color=#3D1400>韧性：</color><color=red>18000+18000（一类）</color>\n<color=#3D1400>锤击伤害：</color><color=red>4800</color>\n<color=#3D1400>移速：</color><color=red>慢，巨化后变为极慢</color>\n<color=#3D1400>特点：</color><color=red>免疫魅惑、击退。本体血量首次低于1%时，回复5%韧性的血量。本体血量首次低于50%时，净化身上的红温、余烬、中毒、寒冷、冻结状态，每净化一项，回复5%韧性的血量，随后永久免疫这五种异常和定身。同时在本列每行召唤一个韧性为自身1/3倍的特种武装巨人分身，分身存在期间本体免疫伤害。若15秒后仍有分身存在，将其全部吸收然后巨化，并使自身韧性和攻击力翻倍，之后每次攻击将额外对全场所有植物造成攻击力20%×吸收分身数量的伤害</color>"
         },
         {
             "theZombieType": 242,
@@ -922,7 +922,13 @@
             "theZombieType": 243,
             "name": "究极阿尔法小队",
             "introduce": "<color=#3D1400>他们的利刃无坚不摧，他们能够渗透进一切防线，他们彼此之间的默契与配合早已达到巅峰，当他们出动之时，便成为足以扫平一切障碍的军团，花园所谓坚不可摧的防线在他们面前形如虚设。</color>",
-            "info": "集结为部队出动的精锐阿尔法僵尸。\n\n<color=#3D1400>近战伤害：</color><color=red>500×2（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>30000+30000（二类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>每行五个共为一组领袖僵尸，不会对秒杀伤害限伤。受到致命伤害时若本组有战友不处于濒死，则保留1血进入濒死（限2次），免疫伤害（仅限首次濒死）和击退，不会被索敌但阻挡子弹。10秒后回复满本体血量，无视植物突进2.5格，对碰到的每个植物造成500伤害并安装炸弹，稍后释放玩偶匣爆炸</color>"
+            "info": "集结整编的精锐阿尔法小队。\n\n<color=#3D1400>伤害：</color><color=red>500×2（非啃咬）</color>\n<color=#3D1400>韧性：</color><color=red>30000+30000（二类）</color>\n<color=#3D1400>移速：</color><color=red>慢</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸，但不会对秒杀级伤害限伤。以队伍的形式出场，一队有(行数×5)名队员。受到致命伤害时，可以保留1点血量并进行紧急休整</color>\n<color=#3D1400>紧急休整：①</color><color=red>原地蹲踞10秒，免疫击退且不会被索敌。结束后，回满本体血量，无视植物突进2.5格，对沿途的每个植物造成500伤害、释放一次延时的玩偶匣爆炸</color>\n<color=#3D1400>②</color><color=red>只能紧急休整2次。首次休整时，免疫伤害</color>\n<color=#3D1400>③</color><color=red>同一队的队员全都处于此状态时，全体死亡</color>"
+        },
+        {
+            "theZombieType": 244,
+            "name": "究极万年不化骨",
+            "introduce": "<color=#3D1400>是岁秋，有龙携剑分天，藤须为身，锁尸为侍，竖剑为标。见草木繁茂，曰：“吾万年前初得道时，不曾见此怪异。”以须指之，霎时见破，飘然去。今人不知其或尸或植或龙，只称万年不化骨。</color>",
+            "info": "拘器遣灵，敕令万万年不死长生。\n\n<color=#3D1400>韧性：</color><color=red>15000×4</color>\n<color=#3D1400>移速：</color><color=red>不会移动</color>\n<color=#3D1400>特点：</color><color=red>领袖僵尸。免疫击退、冻结、蒜毒、定身、换行、压扁。以被封印在剑匣中的形态出场，降临在地图右侧中央，由护剑人守护。剑匣会秒杀接触的魅惑僵尸。共有四个阶段，血量归零时，转换阶段，暂时免疫伤害并回满血量，在原地释放多次玩偶匣爆炸。在每个阶段，会夺取玩家的不同道具，并使用对应的能力。使用道具的频率会受寒冷减速幅度影响</color>\n<color=#3D1400>阶段一：</color><color=red>夺取锤子，攻击全场所有植物，伤害1000（非旅行模式为100）。此后每3秒一次，攻击每行血量最高的1株植物</color>\n<color=#3D1400>阶段二：</color><color=red>夺取手套，每4秒一次，将每行最右侧的1个非领袖非飞行僵尸向前挪动2格</color>\n<color=#3D1400>阶段三：</color><color=red>夺取铲子，每5秒一次，铲除卡牌阳光价值最低的1株植物</color>\n<color=#3D1400>阶段四：</color><color=red>破封而出，同时夺取上述三种道具，每5秒使用一次</color>\n<color=red>死亡时，以卡牌的形式解放所有被其铲除的植物</color>"
         },
         {
             "theZombieType": 300,
@@ -958,13 +964,13 @@
             "theZombieType": 305,
             "name": "黑橄榄副将",
             "introduce": "<color=#3D1400>作为黑橄榄将军最得力的辅助者，军队武官中的二号人物，黑橄榄副将一直备受上级的器重和下属的爱戴。他能力出群，忠心耿耿，对每一个指令都深信不疑，除了一件事：为什么表彰会上颁发的是勋章而不是新鲜的脑子？</color>",
-            "info": "将军的得力副手之一，近程攻击极其残忍。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退，寒冷，黄油。每3秒回复5%韧性的血量，啃咬会使植物1秒内无法回血且受到伤害×3</color>"
+            "info": "将军的得力副手之一，近程攻击极其残忍。\n\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退、寒冷、冻结、黄油。每3秒回复5%韧性的血量，啃咬会使植物1秒内无法回血且受到伤害×3</color>"
         },
         {
             "theZombieType": 306,
             "name": "黑橄榄机枪副将",
             "introduce": "<color=#3D1400>黑橄榄机枪副将在战场上所向披靡、铁面无私、令人生畏。而在战场外，他却是饱受士兵们喜爱的长官，他最喜欢向士兵们表演自己的绝技——旗帜藏子弹。</color>",
-            "info": "将军的得力副手之一，远程火力如雨倾泻。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退，寒冷，黄油。每0.1秒发射一发铁豌豆子弹</color>"
+            "info": "将军的得力副手之一，远程火力如雨倾泻。\n\n<color=#3D1400>子弹伤害：</color><color=red>80</color>\n<color=#3D1400>啃咬伤害：</color><color=red>200</color>\n<color=#3D1400>韧性：</color><color=red>24000+24000（一类）</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。免疫击退、寒冷、冻结、黄油。每0.1秒发射一发铁豌豆子弹</color>"
         },
         {
             "theZombieType": 307,
@@ -1054,19 +1060,19 @@
             "theZombieType": 321,
             "name": "舞装战车僵尸",
             "introduce": "<color=#3D1400>冲锋，再冲锋，碾压一切！舞装战车僵尸所向披靡，无人能挡，直到他遇到了草坪中间的大河。</color>",
-            "info": "驾驶坚固战车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。碾压植物，拥有50%减伤。死亡时始终生成一个舞王僵尸</color>"
+            "info": "驾驶坚固战车的舞王僵尸。\n\n<color=#3D1400>韧性：</color><color=red>6000</color>\n<color=#3D1400>特点：</color><color=red>1级僵尸。碾压植物。拥有1点护甲系数。死亡时始终生成一个舞王僵尸</color>"
         },
         {
             "theZombieType": 322,
             "name": "轻甲舞装战车僵尸",
             "introduce": "<color=#3D1400>“我们给车头配上了更多的分层！”新改装车让舞王僵尸爱不释手，唯一可惜的是每一层的夹缝不足以塞下更多的伴舞。</color>",
-            "info": "驾驶的舞装战车嵌套了一层备用轻胄外壳。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。碾压植物，拥有66%减伤。死亡时始终生成一个舞装战车僵尸</color>"
+            "info": "驾驶的舞装战车嵌套了一层备用轻胄外壳。\n\n<color=#3D1400>韧性：</color><color=red>12000</color>\n<color=#3D1400>特点：</color><color=red>2级僵尸。碾压植物。拥有2点护甲系数。死亡时始终生成一个舞装战车僵尸</color>"
         },
         {
             "theZombieType": 323,
             "name": "重甲舞装战车僵尸",
             "introduce": "<color=#3D1400>这辆车极为厚重的装甲为它赢得了“陆地战列舰”的美称。最近，舞王僵尸又诞生了一个改装构想：把底盘换成传动履带，在车上安装上层炮塔与长管火炮——他认为这将是伟大的新发明。</color>",
-            "info": "驾驶的舞装战车嵌套了两层备用重甲钢板。\n\n<color=#3D1400>韧性：</color><color=red>24000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。碾压植物，拥有75%减伤。死亡时始终生成一个轻甲舞装战车僵尸</color>"
+            "info": "驾驶的舞装战车嵌套了两层备用重甲钢板。\n\n<color=#3D1400>韧性：</color><color=red>24000</color>\n<color=#3D1400>特点：</color><color=red>3级僵尸。碾压植物。拥有3点护甲系数。死亡时始终生成一个轻甲舞装战车僵尸</color>"
         },
         {
             "theZombieType": 324,
