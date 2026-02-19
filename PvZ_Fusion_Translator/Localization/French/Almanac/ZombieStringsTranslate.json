@@ -719,6 +719,12 @@
             "name": "Vaisseau Amiral Kirov",
             "introduce": "<align=justified><size=36><color=black> Infiltration en haute altitude ! Reconnaissance et assaut intégrée ! Puissance de feu total ! Entièrement digitalisé et sans membre d'équipage ! Gfishtus Corps Vous présente fièrement le Kirov 2.0! C'est la bête ultime, à l'exception de sa ridiculement courte portée de vol qui le relocalise à être un vaisseau fille sous un plus gros vaisseau mère. Le vaisseau mère, bien sûr, est vendu séparément.</color>",
             "info": "<size=36>Une suprématie aérienne qui déploie rapidement un appui aérien rapproché.\n\n<color=black>Dégâts: </color><color=#4B0082>300/1.5s</color>\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Toutes les 3 secondes, fait apparaître 2 Bombardiers Supersonique pour rapidement décimer la ligne.\n<color=black>•</color> s'écrase après avoir pris 40 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 313,
+            "name": "Boomer Requin-marine",
+            "introduce": "<align=justified><size=36><color=black>Véritable maître des champs de bataille, ce sous-marin est le fruit de l'imagination d'Edgar et de Gfishtus Corps. Après avoir résolu le problème des missiles qui s'enfonçaient dans l'eau, il est désormais parfait, à l'exception des algues qui viennent parfois bloquer l'hélice.</color>",
+            "info": "<size=36>S'élève pour bombarder la ligne arrière avec des missiles de croisière.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color>Zombie évolué de Catégorie 3.\n<color=black>•</color> Entrez dans le champ submergé. Remonte à la surface lorsqu'il y a des plantes dans sa voie et cesse de bouger.\n<color=black>•</color> Lorsqu'il fait surface, il tire 2 missiles toutes les 1,5 secondes en direction de la dernière colonne. Le missile explose comme un Diable à ressort, mais peut être abattu s'il subit 1 000 points de dégâts en plein vol ou être repoussé par des Troufles.</color>"
         }
     ]
 }
