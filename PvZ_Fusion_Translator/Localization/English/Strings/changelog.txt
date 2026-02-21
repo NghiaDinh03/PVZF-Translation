@@ -70,6 +70,7 @@ Please visit our community for future updates and support.
 9. New QoL
 - Added "Skip Plant Selection" option in Endless modes.
 - Added hotkey B to open/close the Plant Selection screen (if applicable).
+- Added hotkey H to query the stats of a plant at the cursor's position.
 - Optimized underlying code to reduce lag, especially when zombie HP overlay are disabled.
 
 10. Balance Adjustments

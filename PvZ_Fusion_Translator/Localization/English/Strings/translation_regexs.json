@@ -15,6 +15,7 @@
   "难度：([^\\s]+)$": "Difficulty: {0}",
   "-------UI - Adventure Mode": "UI - Adventure Mode-------",
   "^第(\\d+)关": "Level {0}",
+  "^星辉无尽：危机泳池-第(\\d+)轮": "Endless Starbound: Pool | Round {0}",
   "^冒险模式(：)?(?:第)?(\\d+)(?:关)?": "Adventure Mode: Classic | Level {1}",
   "-------UI - Challenge Mode": "UI - Challenge Mode-------",
   "^([^\\s：]+)(：?挑战1?)$": "Fusion Challenge: {0}",
@@ -364,5 +365,6 @@
   "攻击间隔：([^\\s]+)秒": "Attack Interval: {0}s",
   "磁力数量：([^\\s]+)": "Magnetic Links: {0}",
   "光照等级：([^\\s]+)": "Lumos Level: {0}",
-  "属性倒计时：([^\\s]+)秒": "Ability CD: {0}s"
+  "属性倒计时：([^\\s]+)秒": "Ability CD: {0}s",
+  "生产间隔：([^\\s]+)秒": "Production CD: {0}s"
 }
