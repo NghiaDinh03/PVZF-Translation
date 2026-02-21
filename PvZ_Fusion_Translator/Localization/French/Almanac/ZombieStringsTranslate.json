@@ -713,6 +713,12 @@
             "name": "Vaisseau-Mère Kirov",
             "introduce": "<align=justified><size=36><color=black>Le Vaisseau-mère Kirov est un des produits phare de Gfishtus Corps, et l'entreprise affirme qu'il utilise une techologie de drone avant gardiste. Mais, si vous examinez les débris de ses larbins attentivement, Vous allez souvent trouver \"Recyclé\" peint en rouge.</color>",
             "info": "<size=36>Un Vaisseau-mère aérien qui déploie des Drones Kirovs .\n\n<color=black> Robustesse : </color><color=#4B0082>6000</color>\n<color=black> Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 2.\n<color=black>•</color> toutes les 3 secondes, Déploie un Drone Kirov avec 0.1× sa propre robustesse.\n<color=black>•</color> S'écrase après avoir pris 30 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 314,
+            "name": "Narval Marin",
+            "introduce": "<align=justified><size=36><color=black>L'innovation dont Edgar est le plus fier, conçue pour une accélération maximale. Tous les membres d'équipage doivent passer des tests de centrifugation brutaux pour résister à la force G. \"C'est comme si dix Gargantua c'était assis sur toi,\" dit un survivant.</color>",
+            "info": "<size=36>La lance d'acier des voies navigables.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Charge à une vitesse extrême, coupant à travers les plantes aquatiques.\n<color=black>•</color> Une fois par unité, 0,3 seconde après son apparition, double la vitesse de déplacement de tous les zombies dans une zone de 3×3 (cumulable jusqu'à 2 fois).</color>"
         }
     ]
 }

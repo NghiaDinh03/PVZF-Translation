@@ -291,8 +291,8 @@
     },
     "SuperChomper": {
         "achievement": 58,
-        "Name": "Découvrez Chewzilla",
-        "Text": "N'a pas l'air facile à intimider."
+        "Name": "Découvrez Mordzilla",
+        "Text": "Dur à cuir."
     },
     "UltimateChomper": {
         "achievement": 59,
@@ -311,8 +311,8 @@
     },
     "SuperSunNut": {
         "achievement": 62,
-        "Name": "Générez une noix géante à partir de Twin Solar-nut.",
-        "Text": "Donne-moi un peu de soleil."
+        "Name": "Générez Noix Solaire Géante à partir de Double Noix-solaire.",
+        "Text": "Voici le soleil."
     },
     "UltimatePumpkin": {
         "achievement": 63,
