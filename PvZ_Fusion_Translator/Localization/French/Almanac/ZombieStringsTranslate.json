@@ -332,21 +332,21 @@
         },
         {
             "theZombieType": 201,
-            "name": "Michael en Zomboni",
-            "introduce": "<size=30><color=black>Michael Zomboni n'est pas qu'un zombie ; c'est un effort d'équipe. Zomboni installe la salle, Bobsled Zombie assure les effets visuels et Michael Zombie... a été obligé de quitter la voiture car elle n'avait pas de permis de conduire pour saluer ses passionnés de plantes, mais les petits pois semblaient un peu trop excités. </color>",
-            "info": "<size=30>Défense et immunité au ralentissement extrêmement élevées.\n\n<color=black>Robustesse : </color><color=#4B0082>12000</color>\n<color=black>Spécial : </color><color=#4B0082>À la mort, génère automatiquement un Michael Zombie, un Zomboni et un Bobsled Zombie.</color>"
+            "name": "Zomboni Michael",
+            "introduce": "<align=justified><size=36><color=black>Zomboni Michael n'est pas qu'un zombie ; c'est un effort d'équipe. Zomboni installe la salle,  Bobsleigh ramène les stroboscope et les projecteurs, Michael Zombie... a été obligé de quitter la voiture car il n'avait techniquement pas de permis de conduire. Il voulait saluer ses plantes fans, mais les pisto-pois étaient un peu trop enthousiastes. </color>",
+            "info": "<size=36>Défense extrêmement élevé et immunisé au ralentissement\n\n<color=black>Robustesse : </color><color=#4B0082>12000</color>\n<color=black>Spécial : </color><color=#4B0082>Génère automatiquement un Michael Zombie, un Zomboni et un Zombie Bobsleigh lors de sa mort.</color>\n<color=black>Modificateurs D'Odyssée :\n</color><color=#4B0082>1. Zomboni Michael apparait maintenant à chaque vague et fait apparaitre un Michael Superstar à sa mort en plus des autres.\n2. Les Michael Zombonis et les Jackson Autour du monde ont leur vitesse de déplacement multipliée par 5.</color>"
         },
         {
             "theZombieType": 202,
-            "name": "Zombie Trident Ultra",
-            "introduce": "<size=31.5><color=black>\"Giga-trident Zombie est un pêcheur expérimenté connu pour sa précision exceptionnelle avec les quatre tridents qu'il lance, ce qui lui a valu le titre de roi des pêcheurs.\" \"En fait, j'étais lanceur de javelot à temps partiel...\" a admis le Giga-trident Zombie.</color>",
-            "info": "<size=31.5>Lance un grand nombre de tridents sur vos plantes à la fois.\n\n<color=black>Robustesse : </color><color=#4B0082>270+7500</color>\n<color=black>Spécial : </color><color=#4B0082>Lance 4 tridents, chacun causant des dégâts aux plantes égaux à 20% (minimum de 60) de leur Robustesse actuelle.</color>"
+            "name": "Giga-noix à Trident",
+            "introduce": "<align=justified><size=36><color=black>Zombie Giga-noix à Trident est un pêcheur expérimenté connu pour sa précision exceptionnelle avec ses quatre tridents qu'il lance, ce qui lui a valu le titre de roi des pêcheurs.\"En fait, j'étais lanceur de javelot à temps partiel...\" a admis le Zombie Giga-noix à Trident.</color>",
+            "info": "<size=36>Lance un grand nombre de tridents sur vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>6 à 9 secondes après être entré ou bloqué, lance 4 tridents, chacun causant des dégâts aux plantes égaux à 20% (minimum de 60) de leur Robustesse actuelle.</color>\n<color=black>Modificateurs D’odyssée:\n</color><color=#4B0082>1. Les dégâts des tridents multipliés par 5.\n2. Cible maintenant des plantes aléatoires en dehors de la portée minimum.</color>"
         },
         {
             "theZombieType": 203,
-            "name": "Zombie Journal Sulfateuse",
-            "introduce": "<size=28><color=black>\"Je vieillis...\" se lamentait le journal Sulfateuse à Cerises Zombie en marchant dans la rue. Malgré sa pression contenue, cela suffisait à contenir les plantes et les zombies. \"Seul ce type peut encore m'inspirer à me battre...\" marmonna-t-il en rangeant le journal et en continuant son chemin.</color>",
-            "info": "<size=29>Inflige d'immenses dégâts.\n\n<color=black>Dégâts : </color><color=#4B0082>400 → 1000 (Enragé)</color>\n<color=black>Robustesse : </color><color=#4B0082>1500+1500</color>\n<color=black>Spécial : </color><color=#4B0082>Devient temporairement invincible après que son journal soit cassé, en tirant des cerises explosives toutes les 0,125 secondes.</color>"
+            "name": "<size=30>Zombie-cerise-sulfateuse à Journal",
+            "introduce": "<align=justified><size=36><color=black>\"Je vieillis...\" se lamentait le Zombie-cerise-sulfateuse à Journal en marchant dans la rue. Malgré son impulsivité, cela suffisait à garder les plantes et les zombies sous contrôle. \"Personne ne peut encore aspirer à me battre...A part Satoru Gojo évidemment.\" marmonna-t-il en rangeant le journal et continuant son chemin.</color>",
+            "info": "<size=36>Inflige d'immenses dégâts.\n\n<color=black>Dégâts:</color><color=#4B0082>400 (Morsure) 1000 (Cerises)</color>\n<color=black>Robustesse: </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Spécial: </color><color=#4B0082>Invulnérable jusqu'à ce que son journal soit détruit.Devient invincible pendant un court lapse de temps puis tire 4 cerises explosives toutes les 0.5s.</color>\n<color=black>Modificateurs Odyssée:\n</color><color=#4B0082>1. Ignore maintenant les plantes quand il est enragé.\n2. Immunisé contre les effets de status.</color>"
         },
         {
             "theZombieType": 204,
@@ -458,15 +458,15 @@
         },
         {
             "theZombieType": 216,
-            "name": "Trident Hwacha",
-            "introduce": "<color=black></color>",
-            "info": "<size=34>Lance une salve de tridents à votre défense à chaque volée !\n\n<color=black>Résistance : </color><color=#4B0082>1350+4400</color>\n<color=black>Spécial : </color><color=#4B0082>Chaque attaque lance 14 tridents en succession rapide, puis après une brève pause, il tire 14 autres tridents, pour un total de deux volées. Les tridents ne ciblent pas directement les plantes ; au lieu de cela, ils sont lancés à un angle et à une vitesse fixes, infligeant des dégâts à toutes les plantes qu'ils touchent.</color>"
+            "name": "Hwacha Lance-trident",
+            "introduce": "<align=justified><size=36><color=black>Hwacha Lance-trident est un \"perfectionniste\" morts-vivants. Il trouve ses moyens de transport un peu minables, alors il commence à les remplir de tridents. Mais fidèle à sa nature perfectionniste, il ne s'arrêtera pas tant que chaque emplacement ne sera pas rempli.</color>",
+            "info": "<size=36>Lance une salve de tridents sur vos défenses à chaque volée!\n\n<color=black>Résistance : </color><color=#4B0082>1350 + 4400 (Type 1)</color>\n<color=black>Spécial: </color><color=#4B0082>Chaque attaque lance 4 tridents rapidement, puis après une brève pause, il tire 4 autres tridents, pour un total de deux volées. Les tridents ne ciblent pas directement les plantes ; au lieu de cela, ils sont lancés à un angle et à une vitesse fixes, infligeant des dégâts à toutes les plantes qu'ils touchent.</color>\n<color=black>Modificateur Odyssey:\n</color><color=#4B0082>1. Immunisé contre les Altérations, tire désormais 5 fois plus de tridents.\n2. Il est désormais possible de lancer des Tridents depuis l'extérieur de l'écran.</color>"
         },
         {
             "theZombieType": 217,
-            "name": "Super Dancing Zombie",
-            "introduce": "<color=black>Tous les zombies sont étonnés de voir à quel point le Super Dancing Zombie possède des compétences incroyables en saut à la perche. \"Oh, c'est juste mon talent\", dit le Super Dancing Zombie. Mais la vérité est qu'il fait deux boulots par jour, et comme on dit, \"deux fois le travail, double le saut\".</color>",
-            "info": "Peut sauter par-dessus deux tuiles.\n\n<color=black>Résistance : </color><color=#4B0082>3 000</color>Spécials : </color><color=#4B0082>Peut sauter par-dessus 2 tuiles mais peut être bloqué par les Tall-nuts</color>"
+            "name": "Super Zombie Danseur",
+            "introduce": "<align=justified><size=36><color=black>Les zombies applaudissent alors que Super Zombie Danseur défie une nouvelle fois la gravité. \"Oh, tu sais, juste du talent,\" dit-il en clignant de l'oeil. Mais derrière cette facilité apparente ? Il enchaîne deux séances d'entraînement par jour, s'entraînant jusqu'à ce que même ses jambes de mort-vivant lui fassent mal. Le secret de la grandeur ? \"Deux fois plus d'efforts, deux fois plus de temps dans les airs!\"</color>",
+            "info": "<size=36>Peut sauter par-dessus deux tuiles. Pouvant être bloqué par des plantes hautes.\n\n<color=black>Résistance : </color><color=#4B0082>3000</color>\n<color=black>Spécial: </color><color=#4B0082>Hérite de tous les autres traits de Michael Zombie.</color>"
         },
         {
             "theZombieType": 218,
@@ -677,6 +677,60 @@
             "name": "Zombie Échelle Maudite",
             "introduce": "<align=justified><size=36><color=black>\"Les forts ne se plaignent jamais de leur environnement, et moi je ne dépends jamais d’une échelle !\" déclare le Zombie Échelle Maudite en serrant son échelle. \"Ce truc dans ma main est un outil défensif, et celui que je pose reste mon arme contre les dégâts !\" Il pose l’échelle et écoute les noix se fissurer.</color>",
             "info": "<size=36>Manie une échelle en bois imprégnée d’une malédiction de lien vital.\n\n<color=black>Résistance : </color><color=#4B0082>720 + 1350 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Après avoir placé une échelle, tout dégât final infligé au poseur est intégralement transféré à la plante située sur la case de l’Échelle Maudit, entraînant une perte de PV équivalente. Si les dégâts transférés dépassent 8k ou si le poseur meurt d’une élimination instantanée, l’échelle est détruite.\n<color=black>•</color> L’Échelle de Lien Vital ne peut pas être attirée par les Champi-Aimants.</color>"
+        },
+        {
+            "theZombieType": 233,
+            "name": "Gargantua Élémentaire",
+            "introduce": "<align=justified><size=36><color=black>Il y a longtemps, le Maître Zomboss chercha à entraîner des soldats plus polyvalents en imprégnant ses Gargantuars des pouvoirs des quatre éléments — feu, eau, air et terre. L’expérience fut un succès… en grande partie. Tandis que les Gargantuars Forgés par les Flammes, Chargés par le Vent et Liés à la Terre se liaient rapidement grâce à leur nouvelle puissance, le Gargantuar Trempé par les Marées se retrouva mis à l’écart. \"Nous formons déjà un ensemble parfait de couleurs de signalisation sans toi\", grommelèrent les trois autres. \"Rouge, jaune, vert — tu es juste… un bleu en trop.\"</color>",
+            "info": "<size=36>Un Gargantuar entièrement armé dont la couleur des yeux indique son affinité élémentaire.\n\n<color=black>Robustesse : </color><color=#4B0082>16000 + 16000 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082></color>\n<color=black>•</color> Ne lance pas de diablotins. L’écrasement inflige 3600 dégâts aux zombies hypnotisés. Obtient l’une des quatre apparences (couleurs d’yeux) à l’apparition, chacune possédant une affinité élémentaire unique :\n<color=red>• Gargantuar Forgé par les Flammes :</color> Immunisé contre l’embrasement ; bénéficie d’une réduction de 66% des dégâts subis.\n<color=blue>• Gargantuar Trempé par les Marées :</color> Immunisé contre le froid, le gel et le recul ; vitesse doublée ; chaque écrasement compte comme 5 attaques.\n<color=yellow>• Gargantuar Chargé par le Vent :</color> Immunisé contre les étourdissements ; saute légèrement vers l’avant après chaque écrasement et effectue un écrasement supplémentaire.\n<color=green>• Gargantuar Lié à la Terre :</color> Immunisé contre le poison ; récupère 10% de ses PV max après un écrasement.\n<color=black>Modificateurs d’Odyssée :\n</color><color=#4B0082>1. L’apparence n’a plus d’importance, possède les quatre affinités simultanément\n2. La portée de l’attaque d’écrasement est augmentée de 1 case</color>"
+        },
+        {
+            "theZombieType": 301,
+            "name": "Zombie Diplômé Sulfateuse à Cerises",
+            "introduce": "<align=justified><size=36><color=black>Conférencier réputé en démolition à l’Université Internationale Zombie, le Zombie Diplômé Sulfateuse à Cerises n’a accepté de venir qu’après que le Professeur Cherryz lui a promis trois choses : de la tarte aux cerises, de grosses explosions et Zuma. \"Le bon vieux Cherryz ne s’était pas trompé,\" affirme-t-il.</color>",
+            "info": "<size=36>Tire des cerises explosives même avant d’être en colère.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>3000 + 3000 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 2.\n<color=black>•</color> Hérite des capacités du ou des paliers précédents.\n<color=black>•</color> Tire 4 cerises explosives toutes les 1.5s même avant de perdre son journal.</color>"
+        },
+        {
+            "theZombieType": 302,
+            "name": "Zombie Docteur Sulfateuse à Cerises",
+            "introduce": "<align=justified><size=36><color=black>Pour faire progresser les sciences explosives, le Zombie Docteur Sulfateuse à Cerises part à l’étranger. La réserve de tartes aux cerises attachée dans son dos ? Simplement une question de préparation.</color>",
+            "info": "<size=36>Diplômé magna cum bombis — prêt à le prouver.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>6000 + 6000 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 3.\n<color=black>•</color> Hérite des capacités du ou des paliers précédents.\n<color=black>•</color> Lorsqu’il est en colère, ramasse son pack de munitions et tire 1 cerise supplémentaire toutes les 0.5s.</color>"
+        },
+        {
+            "theZombieType": 327,
+            "name": "Bombardier Kirov",
+            "introduce": "<align=justified><size=36><color=black>Puisque les parties haut de gamme ne poussent pas sur les arbres, Gfishtus Corps a pensé à un moyen plus économique pour faire un modèle simplifié afin d'effectuer des attaques plus localisées. Fatalement, Ils ont juste fait un vaisseau qui est honteusement similaire au modèle original du Dr Edgar.\n\n- Écrit par Mr. Etc.</color>",
+            "info": "<size=36>Un véhicule aérien Kirov qui laisse périodiquement tomber des Diables à ressort.\n\n<color=black>Dégâts : </color><color=#4B0082>500/1.5s</color>\n<color=black>Robustesse : </color><color=#4B0082>3000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 1.\n<color=black>•</color> Heurte le sol après avoir pris 20 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 300,
+            "name": "Zombie Érudit Sulfateuse à Cerises",
+            "introduce": "<align=justified><size=36><color=black>\"Il y a toujours plus dans la vie que de simples énigmes mathématiques… comme le roseau derrière la fenêtre… ou le clair de lune de ce soir,\" marmonne le Zombie Érudit Sulfateuse à Cerises. \"Mais d’abord, il faut vraiment que je résolve ce Sudoku. Il est… étonnamment difficile.\"</color>",
+            "info": "<size=36>Tire une rafale rapide de projectiles explosifs à la cerise lorsqu’il est en colère.\n\n<color=black>Dégâts : </color><color=#4B0082>400 (morsure) 1000 (cerise explosive)</color>\n<color=black>Robustesse : </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie Évolué de Palier 1.\n<color=black>•</color> Hérite des capacités du Zombie Érudit.\n<color=black>•</color> Après avoir perdu son journal, tire 4 projectiles explosifs à la cerise toutes les 0.5s.</color>"
+        },
+        {
+            "theZombieType": 328,
+            "name": "Vaisseau-Mère Kirov",
+            "introduce": "<align=justified><size=36><color=black>Le Vaisseau-mère Kirov est un des produits phare de Gfishtus Corps, et l'entreprise affirme qu'il utilise une techologie de drone avant gardiste. Mais, si vous examinez les débris de ses larbins attentivement, Vous allez souvent trouver \"Recyclé\" peint en rouge.</color>",
+            "info": "<size=36>Un Vaisseau-mère aérien qui déploie des Drones Kirovs .\n\n<color=black> Robustesse : </color><color=#4B0082>6000</color>\n<color=black> Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué Catégorie 2.\n<color=black>•</color> toutes les 3 secondes, Déploie un Drone Kirov avec 0.1× sa propre robustesse.\n<color=black>•</color> S'écrase après avoir pris 30 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 329,
+            "name": "Vaisseau Amiral Kirov",
+            "introduce": "<align=justified><size=36><color=black> Infiltration en haute altitude ! Reconnaissance et assaut intégrée ! Puissance de feu total ! Entièrement digitalisé et sans membre d'équipage ! Gfishtus Corps Vous présente fièrement le Kirov 2.0! C'est la bête ultime, à l'exception de sa ridiculement courte portée de vol qui le relocalise à être un vaisseau fille sous un plus gros vaisseau mère. Le vaisseau mère, bien sûr, est vendu séparément.</color>",
+            "info": "<size=36>Une suprématie aérienne qui déploie rapidement un appui aérien rapproché.\n\n<color=black>Dégâts: </color><color=#4B0082>300/1.5s</color>\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Toutes les 3 secondes, fait apparaître 2 Bombardiers Supersonique pour rapidement décimer la ligne.\n<color=black>•</color> s'écrase après avoir pris 40 coups d'une Carambole Magnétique.</color>"
+        },
+        {
+            "theZombieType": 313,
+            "name": "Boomer Requin-marine",
+            "introduce": "<align=justified><size=36><color=black>Véritable maître des champs de bataille, ce sous-marin est le fruit de l'imagination d'Edgar et de Gfishtus Corps. Après avoir résolu le problème des missiles qui s'enfonçaient dans l'eau, il est désormais parfait, à l'exception des algues qui viennent parfois bloquer l'hélice.</color>",
+            "info": "<size=36>S'élève pour bombarder la ligne arrière avec des missiles de croisière.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color>Zombie évolué de Catégorie 3.\n<color=black>•</color> Entrez dans le champ submergé. Remonte à la surface lorsqu'il y a des plantes dans sa voie et cesse de bouger.\n<color=black>•</color> Lorsqu'il fait surface, il tire 2 missiles toutes les 1,5 secondes en direction de la dernière colonne. Le missile explose comme un Diable à ressort, mais peut être abattu s'il subit 1 000 points de dégâts en plein vol ou être repoussé par des Troufles.</color>"
+        },
+        {
+            "theZombieType": 314,
+            "name": "Narval Marin",
+            "introduce": "<align=justified><size=36><color=black>L'innovation dont Edgar est le plus fier, conçue pour une accélération maximale. Tous les membres d'équipage doivent passer des tests de centrifugation brutaux pour résister à la force G. \"C'est comme si dix Gargantua c'était assis sur toi,\" dit un survivant.</color>",
+            "info": "<size=36>La lance d'acier des voies navigables.\n\n<color=black>Robustesse: </color><color=#4B0082>12000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 3.\n<color=black>•</color> Charge à une vitesse extrême, coupant à travers les plantes aquatiques.\n<color=black>•</color> Une fois par unité, 0,3 seconde après son apparition, double la vitesse de déplacement de tous les zombies dans une zone de 3×3 (cumulable jusqu'à 2 fois).</color>"
         }
     ]
 }

@@ -345,10 +345,10 @@
         },
         {
             "seedType": 906,
-            "name": "Obisidienne Épineuse",
-            "introduce": "<size=36><color=black>Après avoir été baptisée par le feu et la glace, Obisidienne Épineuse est devenue dure comme l'acier, mais son tempérament est également devenu erratique. Ce changement est probablement dû à l'acier qui s'est condensé dans sa bouche, le rendant réticent à parler.</color></size>",
-            "info": "<size=36>Obisidienne Épineuse peut infliger d'énormes dégâts tout en encaissant plusieurs coups.\n\n<color=black>Robustesse : </color><color=#8B0000>6000</color>\n<color=black>Dégâts : </color><color=#8B0000>100*2/1 Secondes</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Spikecicle + Spikinferno</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Dégâts multipliés par 5\n2. Bénéficie d'une réduction de 95 % des DMG</color></size>",
-            "cost": ""
+            "name": "Ortie d'Obsidienne",
+            "introduce": "<align=justified><size=36><color=black>Après avoir été baptisée par le feu et la glace, l’Ortie d’Obsidienne est devenue dure comme l’acier, mais son tempérament est aussi devenu instable. Ce changement serait dû à l’acier qui s’est condensé dans sa bouche, la rendant peu encline à parler.</color></size>",
+            "info": "<size=36>L’Ortie d’Obsidienne peut infliger d’immenses dégâts tout en encaissant plusieurs pneus.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Dégâts : </color><color=#8B0000>300×2/1s</color>\n<color=black>Spécial : </color><color=#8B0000>Possède les caractéristiques de la Pierre Épineuse. Récupère 500 Robustesse toutes les 15s.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Dégâts ×5 | Sous-espèce Noix Piquante d’Obsidienne débloquée\n2. Obtient une réduction des dégâts de 95%</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Glace Épineuse + Lave Épineuse</color>"
         },
         {
             "seedType": 907,
@@ -359,10 +359,10 @@
         },
         {
             "seedType": 908,
-            "name": "Champi-Sulfat Glacé",
-            "introduce": "<size=36><color=black>Les petits Champi-gnons qui criaient un jour : \"Nous allons rejoindre l'armée !\" sont devenus des vétérans aux yeux résolus. Où et quand, la Compagnie Champi-stalactite Sulfateuse s'engage à ce que la mission soit accomplie.</color></size>",
-            "info": "<size=36>Peut être empilé trois fois pour tirer 12 stalactites en même temps !\n\n<color=black>Dégâts : </color><color=#8B0000>20*4*3/1.5 Secondes</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque coup ajoute 5 points Cryo. Les glaçons infligent 4 fois plus de dégâts aux ennemis gelés. Chaque glaçon peut percer 3 fois.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-gnon + Gatling Snow (Dans l'ordre)</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Augmentation de la pénétration des glaçons à 10 fois\n2. Augmentation des dégâts infligés aux zombies gelés par 10</color></size>",
-            "cost": ""
+            "name": "Sulfateuse Champi-stalactite",
+            "introduce": "<align=justified><size=36><color=black>Les petits Champi-gnon qui criaient autrefois \" Nous allons rejoindre l’armée ! \" sont devenus des vétérans au regard déterminé. En tout lieu et à tout moment, la Compagnie Sulfateuse Champi-stalactite veille à ce que la mission soit accomplie.</color></size>",
+            "info": "<size=36>Peut être empilée jusqu’à trois fois pour tirer 12 stalactites simultanément !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>20×4×3/1,5s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Chaque impact ajoute 5 points Cryo. Les stalactites infligent ×4 dégâts aux ennemis Gelé. Chaque stalactite peut perforer 2 fois.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. La perforation devient illimitée ; les 5 premiers impacts des tirs horizontaux se divisent chacun en 2 nouveaux projectiles à ±15°, infligeant (20 × nombre de divisions)% de dégâts supplémentaires.\n2. Dégâts contre les zombies Gelé et immunisés au Gel multipliés par 12 | Sous-espèce Sulfateuse Champi-rayon-solaire débloquée</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Sulfateuse à Pois-glacé > Champi-gnon×3</color>"
         },
         {
             "seedType": 909,
@@ -1634,9 +1634,9 @@
         {
             "seedType": 926,
             "name": "Aristochat",
-            "introduce": "<size=36><color=#3D1400>\"Je pense qu'il est préférable d'utiliser des poils d'animaux pour rester hors de l'eau plutôt que de compter, par exemple, sur une bouée !\" Aristochat reste fidèle à sa conviction. Hmm... Si vous pensez que cela est dû à ses faibles compétences académiques et à son incapacité à rester à flot sur la rivière, vous avez raison. Comment un chat pourrait-il nager ! Même si elle refuse d'être classée au hasard.</color>",
-            "info": "<size=36>Invoque des drones pour attaquer chaque fois qu'elle bat un zombie.\n\n<color=#3D1400>Dégâts : </color><color=red>160x2/1,5 secondes, pour chaque zombie tué, invoque un petit drone flottant sur la même rangée, tirant 30 pointes d'ortie infligeant 100 dégâts chacune.</color>\n<color=#3D1400>Spécial : </color><color=red>Plus il y a de zombies, moins il y en aura (hérite du trait de Neko Écraseur qui rembourse les cartes en cas de meurtre de zombies)</color>\n<color=black>Effets Odyssée :\n<color=#8B0000>1. Dégâts d'attaque de base x5.\n2. Dégâts d'attaque de drone x3.</color>",
-            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Cattail + Neko Écraseur"
+            "introduce": "<align=justified><size=36><color=black>\" Je pense qu’il vaut mieux utiliser mes propres poils pour rester à flot plutôt que de dépendre, par exemple, d’une bouée ! \" Aristochat reste fidèle à cette conviction. Hum… Si vous supposez que cela vient de ses faibles compétences académiques et de son incapacité à flotter sur la rivière, vous avez raison. Après tout, comment un chat pourrait-il nager ? Bien sûr, il refuse catégoriquement d’être catégorisé.</color>",
+            "info": "<size=36>Invoque des drones à chaque zombie vaincu.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>160×2/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Invoque un drone chaque fois qu’il élimine un zombie. Le drone dure 3s et tire 60 épines d’ortie infligeant chacune 160 dégâts ; ne peut pas cibler les zombies volants.</color>\n<color=black>Modificateurs Odyssée :\n<color=#8B0000>1. Dégâts des drones ×3\n2. Dégâts des attaques normales ×5 | Sous-espèce Lapin-tonnerre débloquée</color><size=36>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Nénu-chat + Chacrabouille</color>"
         },
         {
             "seedType": 927,
@@ -1654,10 +1654,10 @@
         },
         {
             "seedType": 929,
-            "name": "<size=36>Champi Sulfat-Ensoleillé ",
-            "introduce": "<color=#3D1400>\"La production fait aussi partie du combat !\" dit Champi Sulfat-Ensoleillé en essuyant sa sueur. Son peloton a été réorganisé en \" Sunshine Bay Construction Corps \", mais leur esprit combatif reste intact.</color>",
-            "info": "<size=36>Génère une grande quantité de soleil pour vous.\n\n<color=#3D1400>Dégâts : </color><color=red>20x4x3/1,5 secondes</color>\n<color=#3D1400>Spécial : </color><color=red>Sous-espèce de Champi-Sulfat Glacé. Vous pouvez alterner entre les deux avec Champi-glace ou Tournesol. Les tirs ne ralentissent plus mais génèrent 5 soleils en frappant le 1er et le 2ème zombies. Chaque perçage suivant inflige le double des dégâts mais nécessite 5 soleils par coup. En synergie avec l'effet Odyssée doublant la valeur solaire et les soleils tombés valent 15 chacun lorsque l'effet est actif.</color>",
-            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Champi-Sulfat Glacé + Tournesol"
+            "name": "Sulfateuse Champi-rayon-solaire",
+            "introduce": "<align=justified><size=36><color=black>\" Produire, c’est aussi combattre ! \" déclare la Sulfateuse Champi-rayon-solaire en essuyant sa sueur. Son peloton a été réorganisé en \" Corps de Construction de la Baie Ensoleillée \", mais son esprit combatif demeure intact.</color>",
+            "info": "<size=36>Génère une grande quantité de Soleil pour vous.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de la Sulfateuse Champi-stalactite</color>\n<color=black>Dégâts : </color><color=#8B0000>20×4×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Sulfateuse Champi-stalactite.\n<color=black>•</color> Les tirs ne ralentissent plus, mais génèrent 5 Soleil en touchant le 1er et le 2e zombie.\n<color=black>•</color> Chaque perforation supplémentaire inflige 20 dégâts supplémentaires mais requiert 5 Soleil par impact (ne consomme pas de Soleil si le total est inférieur à 15 000).\n<color=black>•</color> Synergie avec le Modificateur Odyssée de doublement du Soleil ; les Soleils générés valent 15 chacun lorsque ce modificateur est actif.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. La perforation devient illimitée ; les 5 premiers impacts des tirs horizontaux se divisent chacun en 2 projectiles à ±15°, infligeant (20 × nombre de divisions)% de dégâts supplémentaires.\n2. Sous-espèce Sulfateuse Champi-rayon-solaire débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Champi-glace <-> Tournesol</color>"
         },
         {
             "seedType": 930,
@@ -1787,10 +1787,10 @@
         },
         {
             "seedType": 931,
-            "name": "Bogue Obsidienne",
-            "introduce": "<size=36>",
-            "info": "<size=36>Une sous-espèce d'Obisidienne Épineuse\n\n<color=black>Résistance : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>Contre tout dommage reçu par le zombie qui l'a infligé. Récupère 1 500 points d’endurance toutes les 15 secondes. Bénéficie des modificateurs d'Obisidienne Épineuse.</color>",
-            "cost": "<size=36>\n<color=black>Formule de Fusion : </color><color=#8B0000>Obisidienne Épineuse + Noix</color>"
+            "name": "Noix Piquante d'Obsidienne",
+            "introduce": "<align=justified><size=36><color=black>La Noix Piquante d’Obsidienne adore les câlins. \" Une étreinte chaleureuse peut apaiser même les zombies les plus turbulents \", affirme-t-elle. Et en effet, tous les zombies qu’elle a enlacés reposent désormais paisiblement sur la pelouse… parfaitement immobiles.</color>",
+            "info": "<size=36>Se défend contre les zombies et les véhicules grâce à ses pics.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l’Ortie d’Obsidienne</color>\n<color=black>Robustesse : </color><color=#8B0000>16000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Ortie d’Obsidienne.\n<color=black>•</color> Renvoie 100 dégâts (500 après déverrouillage du Modificateur) aux zombies qui la mordent.\n<color=black>•</color> Les dégâts reçus sont plafonnés à 1000.\n<color=black>•</color> Récupère 1500 Robustesse toutes les 15s.\n<color=black>•</color> Peut crever les pneus, infligeant 50% de la Robustesse maximale au zombie véhicule et le repoussant.</color>\n<color=black>Modificateurs Odyssée :\n</color><color=#8B0000>1. Dégâts ×5 | Sous-espèce Noix Piquante d’Obsidienne débloquée\n2. Obtient une réduction des dégâts de 95%</color></size>",
+            "cost": "<size=36>\nFormule de Conversion : <color=#8B0000>Pierre Épineuse <-> Noix</color>"
         },
         {
             "seedType": 1179,
@@ -3625,6 +3625,174 @@
             "introduce": "<align=justified><size=36><color=black>Autrefois directrice bien-aimée de l’Orphelinat des Plantes, elle était bien plus qu’une simple gardienne — elle était une famille. Ses larges feuilles formaient le terrain de jeu idéal des jeunes pousses, offrant ombre, réconfort et joie. Ces jours sont passés, mais sa bonté demeure. \" Oh ? Tu veux goûter ce marshmallow, mon petit ? \" demande-t-elle, avec une chaleur toujours intacte.</color>",
             "info": "<size=36>Tire des lasers pour attaquer les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>300</color>\n<color=black>Limite d’énergie : </color><color=#8B0000>2000</color>\n<color=black>Portée de détection : </color><color=#8B0000>(2 × Niveau Lumos + 1) rangées</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Possède tous les traits de l’Ombrelle de Lumière.\n<color=black>•</color> Tire des lasers infligeant 100 % des dégâts chaque seconde. Priorise les zombies aériens et leur inflige ×3 dégâts. Peut attaquer jusqu’à 4 zombies simultanément.\n<color=black>•</color> Toutes les 2 s, consomme jusqu’à 10 % de l’énergie maximale pour soigner jusqu’à 2 plantes blessées dans une zone de 3×3, à hauteur de 5 % de leurs PV max (500 max). Les soins augmentent de 100 % par Niveau Lumos au-delà du niveau 1.\n<color=black>•</color> Lorsque deux Ombrelles de Pharos sont placées l’une au-dessus et l’autre en dessous, elles se lient : leur portée de détection couvre alors tout l’écran. Dans cet état, elles peuvent attaquer simultanément jusqu’à 6 zombies et leurs dégâts sont doublés. De plus, si exactement 6 zombies sont ciblés, une explosion 3×3 se produit toutes les 6 s sur la position d’un zombie aléatoire, infligeant 300 % de la puissance d’attaque.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Limite d’énergie ×10 | Vitesse de récupération ×20 | Vitesse de soin ×2\n2. Multiplicateur d’attaque normale → 300 % | Multiplicateur d’explosion → 1000 % | Intervalle d’attaque → 2 s</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Cactus Lumineux + Ombrelle de lumière</color>"
+        },
+        {
+            "seedType": 1249,
+            "name": "Spore de Mort",
+            "introduce": "<align=justified><size=36><color=black>Grandissant silencieusement sur la pelouse, Spore de Mort fredonne la berceuse apprise de Fleur de l’Apocalypse, rêvant de devenir un soleil levant… et de ne plus être confondu avec un vieux boulon rouillé.</color>",
+            "info": "<size=36>Une spore dormante irradiant une puissance destructrice — il suffit de lui laisser un peu de temps.\n\n<color=black>Spécial : </color><color=#8B0000>Met 30 s à éclore. Une fois mature, si un zombie entre dans son rayon d’explosion, elle détonne comme un Champi-mort.</color>",
+            "cost": "<size=36>"
+        },
+        {
+            "seedType": 978,
+            "name": "Pot Cornposteur",
+            "introduce": "<align=justified><size=36><color=black>Le Pot Cornposteur travaille à l’usine, enrobant de petits Écraseurs de couches de beurre, et a économisé une année entière de vacances. Mais lorsqu’il posa enfin le pied sur l’île dont il rêvait depuis si longtemps, il y trouva plus de touristes que de zombies — tellement qu’il faillit fondre comme du beurre. Contraint d’abandonner le voyage, il choisit plutôt de rester chez lui et de préparer son gâteau favori au beurre.</color>",
+            "info": "<size=36>Utilise quelques \"astuces glissantes\" pour ralentir les zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec le Modificateur de Ortie Cornvoyeuse</color><color=black>\nDégâts : </color><color=#8B0000>300 (Écraseur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de Ortie Cornvoyeuse. Plante basse.\n<color=black>•</color> Augmente la probabilité de beurre des plantes Lance-maïs placées dessus de 25% à 50%.\n<color=black>•</color> Peut générer des mini Écraseurs au Beurre (un seul peut exister à la fois par Cornposteur). Le mini Écraseur au Beurre bondit vers le zombie le plus proche jusqu’à 1.5 cases, puis atterrit en appliquant un étourdissement au beurre de 1 seconde à chaque zombie écrasé. Il peut rebondir jusqu’à 6 fois avant de disparaître.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Durée d’étourdissement au beurre du Pot Cornposteur ×3 | Sous-espèce du Pot Cornposteur déverrouillée\n2. Probabilité de beurre pour la plante au-dessus 50% → 100%</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Pot de Fleur</color>"
+        },
+        {
+            "seedType": 977,
+            "name": "Cryolina Reaper",
+            "introduce": "<align=justified><size=36><color=black>Il brûle d’un froid violet et glacial. Certaines plantes disent qu’il pleure en permanence ; Cryolina Reaper appelle simplement cela \"respirer.\"</color>",
+            "info": "<size=36>Accumule de l’énergie d’âme pour sauver les plantes dans les moments de crise et libérer des déferlements de glace et de feu.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable</color><color=black>\nRobustesse : </color><color=#8B0000>64k</color><color=black>\nDégâts : </color><color=#8B0000>3600 (Cremator)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Entre sur le terrain avec 1 charge d’âme. Peut en stocker jusqu’à 3 maximum. Gagne 1 charge pour chaque tranche de 500 zombies éliminés, quel que soit le camp.\n<color=black>•</color> Lorsqu’une plante subit des dégâts fatals, consomme 1 charge pour la laisser à 1 PV, puis :\n\t- Restaure 50% des PV max à toutes les plantes du terrain\n\t- Déclenche un effet de Jalapeño une fois dans chaque ligne (non affecté par la réduction des dégâts)\n\t- Déclenche un effet Champi-Gel une fois\n<color=black>•</color> À sa mort, déclenche un effet Piment Explosif une fois dans chaque ligne (non affecté par la réduction des dégâts), puis déclenche un effet Champi-glace une fois.</color>\n<color=black>Modificateurs d’Odyssée :</color>\n<color=#8B0000>1. Limite de charges d’âme augmentée à 10 ; gagne désormais 1 charge d’âme à chaque mort de Mini-boss\n2. Lorsqu’une charge d’âme est utilisée, confère également 1s d’invincibilité à toutes les plantes</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Jalapeño Geleur + Jalapeño Geleur</color>"
+        },
+        {
+            "seedType": 302,
+            "name": "Chou Sanguinolant",
+            "introduce": "<align=justified><size=36><color=black>Lorsque le ciel se pare d’une lumière rougeâtre, la guerre suit dans son sillage. Là où la paix ne peut subsister, elle descend. Elle est l’héraut du bain de sang, la messagère de la mort : la Déesse de la Lune de Sang.</color>",
+            "info": "<size=36>Née de la nuit, appelée au combat. Sous sa lune écarlate, des marées de zombies rouges se lèvent encore et encore.\n\n<color=blue>Forme déchaînée du Chou Sélène</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire ; Plante secrète (Easter Egg)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> A 2 % de chance de remplacer le Chou Sélène lors d’une fusion en environnement nocturne (Nuit, Brouillard, Toit nocturne). Le Chou Sanguinolant conserve tous les traits de base du Chou Sélène.\n<color=black>•</color> Tant que le Chou Sanguinolant est présent sur le terrain, les Mini-Lunes des Choux Sélène deviennent des Mini-Lunes de Sang. Elles ne soignent plus, mais invoquent à la place des Zombies Hypnotisés renforcés toutes les 10 s. La première invocation a un délai de 3 s.\n<color=black>•</color> Chaque Chou Sanguinolant confère un bonus de +50 % Robustesse et Dégâts aux zombies invoqués.\n<color=black>•</color> Le nombre et la position des invocations dépendent des \" cases stériles \", définies comme des cases sans Chou Sanguinolant ni Chou Sélène sur elles ou dans leur zone 3×3.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 303,
+            "name": "Orge-mimic",
+            "introduce": "<align=justified><size=36><color=black>L’Orge-Mimic est un maître de l’imitation. Depuis qu’il a rejoint un concours de sosies, même les originaux qu’il copie ne parviennent plus qu’à la deuxième place.</color>",
+            "info": "<size=36>Se transforme régulièrement en plantes offensives ou défensives proches, gagnant en puissance grâce au mimétisme.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Toutes les 30 s, se transforme en une plante aléatoire située dans une zone 3×3.\n<color=black>•</color> Gagne +100 % d’attaque et +50 % de PV max lors de la première transformation réussie ; chaque transformation suivante accorde un bonus supplémentaire de +30 % d’attaque et +20 % de PV max.\n<color=black>•</color> Peut se transformer en : plantes non volantes dont les dégâts ne sont pas nuls ou dont la robustesse dépasse 300, à l’exception des citrouilles, nénuphars, pots et autres plantes de type orge (ainsi que leurs formes transformées).</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 301,
+            "name": "Sulfateuse à Grenades Suralimentée",
+            "introduce": "<align=justified><size=36><color=black>Les autres plantes ne peuvent s’empêcher d’envier sa puissance explosive. Il hausse simplement les épaules : \" Je ne suis pas un génie. Ce n’est que du travail acharné et de la sueur. \" Bien sûr, il fait allusion au fait qu’il a discrètement récupéré l’équipement de tout le monde pour se l’attacher dessus.</color>",
+            "info": "<size=36>Plus redoutable que le plus redoutable des DPS.\n\n<color=blue>Forme déchaînée de la Sulfateuse à Grenades</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Dégâts : </color><color=#8B0000>300×6/0,5 s</color>\n<color=black>Spécial : </color><color=#8B0000>Tire des cerises explosives à une cadence terrifiante après un temps de charge de 1,5 s.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 234,
+            "name": "Mine en Diamant",
+            "introduce": "<align=justified><size=36><color=black>\" J’ai toujours été un faiblard en grandissant, incapable de rivaliser avec les zombies, et personne ne voulait jouer avec moi \", confie Mine en Diamant. \" Mais maintenant, enveloppé de diamant, je suis solide — et prêt à riposter. \" Il le faut bien : il a déjà accumulé une sacrée dette auprès de Souci.</color>",
+            "info": "<size=36>Une Mine-noix aussi dure et aussi rare que le diamant.\n\n<color=#4A2900>Condition d’utilisation : Odyssée : Aléatoire | Plante Easter Egg avec une probabilité d’apparition extrêmement faible</color>\n<color=black>Robustesse : </color><color=#8B0000>32000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse (esquive les projectiles tirés en ligne droite).\n<color=black>•</color> Anti-écrasement, ne subit pas plus de 200 dégâts par coup.\n<color=black>•</color> Produit 500 points lors des transitions de phase de dégâts et à sa destruction.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 304,
+            "name": "Nova-solaire Illuminée",
+            "introduce": "<align=justified><size=36><color=black>La légende raconte qu’elle servit jadis le Soleil lui-même, portant en son cœur l’éclat le plus ardent de l’astre. Lorsque le danger approche, Nova-solaire Illuminée transforme cette bénédiction en sentence — chaque rayon qu’elle projette devient un décret de feu sacré.</color>",
+            "info": "<size=36>Forge le soleil qu’elle produit ainsi que les projectiles alliés proches en jugements solaires qui s’abattent du ciel, provoquant des explosions de zone.\n\n<color=blue>Forme descellée de Princesse Nova-solaire</color>\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Production de Soleil : </color><color=#8B0000>50/3s</color>\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’elle produit du Soleil, si des zombies sont présents, celui-ci est converti en jugement solaire et tiré vers le zombie le plus proche.\n<color=black>•</color> Lorsqu’un jugement solaire est lancé, absorbe les projectiles alliés dans un rayon de 1,5 case et gagne +2% de dégâts par projectile absorbé.\n<color=black>•</color> Jugements Solaires : Tombent du ciel, infligent des dégâts de zone (rayon de 1,5 case) et génèrent 50 Soleil ; peuvent cibler les zombies volants.\n<color=black>Ultime : </color>Coûte 16000 Pièces ; tire 1 jugement solaire sur chaque zombie présent.</color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 1368,
+            "name": "Champi-glace Doré",
+            "introduce": "<align=justified><size=36><color=black>Monopole incontesté de la logistique sous chaîne du froid, Champi-glace Doré peut faire vaciller la température du marché d’une simple pluie de pièces. Après des années d’activité, sa fortune et sa renommée sont incalculables, et sa vie semble accomplie… mis à part cette paralysie faciale qu’aucune richesse ne parvient à guérir.</color>",
+            "info": "<size=36>Un Champi-glace stable et plaqué or qui répand un froid extrême moyennant finance.\n\n<color=black>Spécial : </color><color=#8B0000>Déclenche une fois l’effet Champi-glace à son apparition (ne disparaît pas ensuite).</color>\n<color=black>Ultime : </color><color=#8B0000>Coûte 3000 Pièces, Recharge : 2s ; répète les effets suivants 4 fois sur les cibles dans un rayon de 2,2 cases :\n\t- Inflige 200 dégâts, applique Gel et 25 points Cryo, et réduit le plafond Cryo de la cible de 100.\n\t- Tire un éclat de glace sur chaque cible infligeant 20 dégâts. Les éclats infligent ×2 dégâts aux zombies Gelés et ×4 aux zombies Congelés.</color>",
+            "cost": "\n<size=36>Coût d’amélioration : </color><color=#8B0000>3000 Pièces</color>"
+        },
+        {
+            "seedType": 1359,
+            "name": "Assommoir à Chou",
+            "introduce": "<align=justified><size=36><color=black>Après des années à lancer des choux sans réfléchir, voir le monde d’aussi haut donne matière à réflexion. Et si ces choux avaient une vie ? Des espoirs, des rêves ? Une famille ? Des enfants ? Toutes ces questions traversent l’esprit feuillu de l’Assommoir à Chou.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des choux.\n\n<color=black>Dégâts : </color><color=#8B0000>40×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-chou</color>"
+        },
+        {
+            "seedType": 1360,
+            "name": "Assommoir à Beurre",
+            "introduce": "<align=justified><size=36><color=black>L'Assommoir à Beurre s’est inscrit au Grand Spectacle du Jardin, rêvant d’incarner un OVNI sur scène… mais il n’a jamais été retenu. Il passait son temps à larguer du maïs et du beurre partout, suscitant l’hostilité de l’équipe technique — et provoquant même la chute spectaculaire du directeur qui le soutenait.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des grains de maïs ou du beurre.\n\n<color=black>Dégâts : </color><color=#8B0000>20×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante. A 25% de chances de larguer du beurre, infligeant 40 dégâts.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-maïs</color>"
+        },
+        {
+            "seedType": 1361,
+            "name": "Assommoir à Pastèque",
+            "introduce": "<align=justified><size=36><color=black>Les autres pastèques le traitent de paresseux, mais l'Assommoir à Pastèque se dit simplement efficace. \" Laisse la gravité faire le travail ! Lancer des projectiles, c’est épuisant ! \" Il semble toutefois ignorer que cette méthode réduit aussi considérablement sa portée.</color>",
+            "info": "<size=36>Fournit un soutien aérien à courte portée en larguant des pastèques.\n\n<color=black>Dégâts : </color><color=#8B0000>80×3/3s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>Sa case et les 2 cases adjacentes sur la même ligne</color>\n<color=black>Spécial : </color><color=#8B0000>Plante volante.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Troufle + Lance-pastèque</color>"
+        },
+        {
+            "seedType": 1373,
+            "name": "Pois Lumineux",
+            "introduce": "<align=justified><size=36><color=black>Pois Lumineux était autrefois un enfant qui adorait braquer des pointeurs laser sur tout le monde. Plus tard, l’Ombrelle de Pharos lui apprit à utiliser ce talent contre les zombies.</color>",
+            "info": "<size=36>Tire des lasers ciblés à haute fréquence ; absorbe l’énergie Lumos pour accroître sa puissance.\n\n<color=black>Dégâts : </color><color=#8B0000>10/0,2s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Après avoir verrouillé une cible, tire un laser infligeant des dégâts toutes les 0,2s.\n<color=black>•</color> Toutes les 0,5s, gagne une quantité d’énergie lumineuse égale au niveau Lumos actuel. Lorsqu’il inflige des dégâts, consomme [(énergie lumineuse actuelle/10) + 1] points d’énergie lumineuse afin d’augmenter cette instance de dégâts de ×(énergie consommée).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Planterne</color>"
+        },
+        {
+            "seedType": 1362,
+            "name": "Champi-amidon",
+            "introduce": "<align=justified><size=36><color=black>Après avoir accepté un partenariat de marque avec la Mine Patate, Champi-amidon a quitté son emploi en boulangerie. \" Rejoindre l’industrie des explosifs est la meilleure décision que j’aie jamais prise \", affirme-t-il. \" Pulvériser de l’amidon directement par la bouche, c’est bien plus efficace que faire lever du pain ! \"</color>",
+            "info": "<size=36>Les vapeurs qu’il projette dégagent une forte odeur de pomme de terre… parfois même explosive !\n\n<color=black>Dégâts : </color><color=#8B0000>30/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>Toutes les 10 attaques, déclenche une explosion de Mine Patate infligeant 300 dégâts à l’emplacement de chaque zombie touché.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Champi-fumée</color>"
+        },
+        {
+            "seedType": 1364,
+            "name": "Petit Cratère",
+            "introduce": "<align=justified><size=36><color=black>Chef en titre d’un restaurant de frites, Petit Cratère dirige sa cuisine d’une main ferme et sans compromis. Mais derrière cette brillante carrière tuberculaire se cache un drame personnel : son tempérament explosif l’empêche désormais de préparer de délicieuses frites.</color>",
+            "info": "<size=36>Se brise dans une explosion dévastatrice, dispersant cinq Mines Patate qui s’arment instantanément à l’atterrissage.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Crémateur)</color>\n<color=black>Spécial : </color><color=#8B0000>Plante basse. Lorsqu’il explose, déclenche également un effet Champi-mort, puis projette des éclats de patate sur 5 cases vides. Chaque éclat crée une Mine Patate armée à son atterrissage.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Mine Patate + Champi-mort</color>"
+        },
+        {
+            "seedType": 1358,
+            "name": "Champi-rayon",
+            "introduce": "<align=justified><size=36><color=black>\" Toutes les plantes que je croise portent des lunettes de soleil \", grogne Champi-rayon. \" C’est ridicule, tellement prétentieux ! \" Finalement, il met cela sur le compte d’une mode incompréhensible, tandis que les autres plantes s’accordent à dire que fixer directement un émetteur laser ultra-puissant n’est évidemment pas recommandé pour la vue…</color>",
+            "info": "<size=36>Tire un rayon laser perforant. Les dégâts diminuent avec la distance et augmentent avec le niveau Lumos.\n\n<color=black>Dégâts : </color><color=#8B0000>10/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Tire sur toute la ligne avec perforation illimitée.\n<color=black>•</color> Chaque niveau Lumos augmente les dégâts de +0,5×.\n<color=black>•</color> Les dégâts sont multipliés par 1,6×(5 - distance en colonnes jusqu’à la cible). Au niveau Lumos 3 ou supérieur, cela devient 0,8×(10 - distance en colonnes).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Planterne</color>"
+        },
+        {
+            "seedType": 1369,
+            "name": "Champi-rebond",
+            "introduce": "<align=justified><size=36><color=black>Le tennis de table est une passion partagée par les plantes et les zombies, et Champi-rebond est une véritable légende dans le monde zombie, ayant vaincu d’innombrables champions de cimetière. En signalant ses adversaires pour faute après avoir renvoyé la balle avec leur tête, il a remporté plus d’une douzaine de Championnats Plante-Zombie de Tennis de Table. Étrangement, ses adversaires peu perspicaces n’ont jamais remarqué qu’il commettait exactement la même faute.</color>",
+            "info": "<size=36>Traite les projectiles comme des balles de ping-pong, les renvoyant sans cesse vers la tête des zombies.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Lorsqu’un projectile lobé sur la même ligne touche un zombie devant lui, il rebondit vers Champi-rebond puis continue d’alterner entre les deux.\n<color=black>•</color> Un seul projectile peut être renvoyé à la fois ; la hauteur du rebond diminue progressivement jusqu’à ce qu’il touche le sol.\n<color=black>•</color> Ne renvoie pas les projectiles capables de rebondir par eux-mêmes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-fumée + Lance-chou</color>"
+        },
+        {
+            "seedType": 1365,
+            "name": "Champi-zodiaque",
+            "introduce": "<align=justified><size=36><color=black>Champi-zodiaque s’inquiète de la petite touffe duveteuse au sommet de son chapeau, craignant qu’elle ne le fasse paraître ridicule. Cela dit, la plupart des zombies ne comprendraient jamais pourquoi cela le tracasse.</color>",
+            "info": "<size=36>Les zombies qui le mordent sont hypnotisés et se transforment en lanceurs d’étoiles mobiles.\n\n<color=black>Spécial : </color><color=#8B0000>Lorsqu’il est mordu, hypnotise le zombie puis disparaît, l’amenant à tirer des étoiles en spirale : 60 salves (300 projectiles au total).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Carambole</color>"
+        },
+        {
+            "seedType": 1367,
+            "name": "Champi-glace Argenté",
+            "introduce": "<align=justified><size=36><color=black>Impitoyable. Froid. Voilà les étiquettes que l’on colle à Champi-glace Argenté — même les autres Champi-glace le trouvent trop glacial. Mais cela lui importe peu. Son succès repose précisément sur ce sang-froid ; dans le secteur de la logistique sous chaîne du froid, seuls les plus durs survivent.</color>",
+            "info": "<size=36>Un Champi-glace recouvert d’un givre argenté.\n\n<color=black>Spécial : </color><color=#8B0000>Gèle les ennemis 1 seconde de plus qu’un Champi-glace normal.</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Souci</color>"
+        },
+        {
+            "seedType": 1375,
+            "name": "Chou Glacé",
+            "introduce": "<align=justified><size=36><color=black>\" Vous n’avez aucune idée de à quel point cet endroit était terrifiant \", raconte Chou Glacé, encore secoué. \" Une terre de froid extrême, où d’innombrables plantes furent figées pour l’éternité. Si je n’avais pas risqué ma vie pour rouvrir la porte vers l’extérieur, nous, les plantes, y serions tous restés. \" Ah… il parle encore de son aventure dans le réfrigérateur de Dave.</color>",
+            "info": "<size=36>Lance des choux gelés et attaque plus rapidement lorsqu’il touche des ennemis congelés.\n\n<color=black>Dégâts : </color><color=#8B0000>40/3s</color>\n<color=#0077b6>Système Cryo : </color><color=#8B0000>Les attaques appliquent Gel, ajoutent 10 points Cryo et infligent ×4 dégâts aux zombies gelé.</color>\n<color=black>Spécial : </color><color=#8B0000>En touchant un zombie gelé, le projectile peut rebondir une fois, et la vitesse d’attaque de Chou Glacé est fortement augmentée pendant 3s. Cet effet ne peut se réactiver que 1,5s après sa fin.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-glace + Lance-chou</color>"
+        },
+        {
+            "seedType": 1229,
+            "name": "Écraseur-hypno",
+            "introduce": "<align=justified><size=36><color=black>\"J'ai enfin réalisé que les zombies étaient en fait nos amis,\"déclare l'Écraseur Hypno, ayant rejoint récemment le club des Zombies Gentils. Mais il y a un hic; sa façon extrême de montrer son amitié a refroidi plus d'un zombie, les poussant à devenir plus conservateurs. </color>",
+            "info": "<size=36>Un Écraseur faisant succomber les zombies à son charme.\n\n<color=black>Dégâts: </color><color=#8B0000>1800</color>\n<color=black>Spécial: </color><color=#8B0000>Il hypnotises les zombies qu'il écrase, leur inflige 1800 dégâts s'il ne peut pas les hypnotiser.</color>",
+            "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Écraseur + Champi-Hypno</color>"
+        },
+        {
+            "seedType": 1371,
+            "name": "Citrouille Maudite",
+            "introduce": "<align=justified><size=36><color=black>Citrouille Maudite vante sans cesse ses services pour une peau d’apparence plus saine, mais les inspecteurs de la santée végétal se plaignent régulièrement que ses traitements sont dangereusement radioactifs.</color>",
+            "info": "<size=36>Canalise la puissance du Champi-mort vers la plante qu’elle abrite.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Gagne 1% de charge toutes les 0,5s ; arrive sur le terrain avec une charge initiale aléatoire comprise entre 80% et 95%.\n<color=black>•</color> Lorsque la jauge atteint 100%, peut consommer toute la charge pour fusionner la plante présente sur sa case avec un Champi-mort (la plante résultante ne peut pas être une fusion Odyssée).</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-mort > Citrouille</color>"
+        },
+        {
+            "seedType": 1372,
+            "name": "Pot Piquant",
+            "introduce": "<align=justified><size=36><color=black>Toutes les plantes ayant passé du temps avec Pot Piquant se plaignent qu’il est beaucoup trop enthousiaste et ne respecte aucune limite personnelle. Seule la Noix Piquante d’Obsidienne ne s’en formalise pas, et la raison est simple : Pot Piquant est le seul prêt à l’aider à dérouiller sa carapace tranchante comme des lames de rasoir.</color>",
+            "info": "<size=36>Possède les traits de l’Ortie et renforce les défenses des plantes de type Noix Piquante.\n\n<color=black>Dégâts : </color><color=#8B0000>20/1s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante basse. Hérite des propriétés de l’Ortie (ignorée par les zombies mordants et crève les pneus).\n<color=black>•</color> Confère 50% de réduction des dégâts à la Noix Piquante et à la Noix Piquante d’Obsidienne placées dessus.\n<color=black>•</color> Devient anti-écrasement si la plante au-dessus est une Noix Piquante d’Obsidienne.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Ortie > Pot de Fleurs</color>"
+        },
+        {
+            "seedType": 973,
+            "name": "Lapin-tonnerre",
+            "introduce": "<align=justified><size=36><color=black>\" Nous sommes une bande de mages issus de la Tour de Magie du Givre. Regardez ces écharpes duveteuses. Rien n’est plus chaud que ça, pas même la magie de la foudre. \" Les Lapins-tonnerre agitent leurs longues oreilles… Quant à la raison de leur existence, ils laissent les taxonomistes du monde entier perplexes.</color>",
+            "info": "<size=36>Canalise la puissance d’équipe pour déclencher des éclairs en chaîne et aider Aristochat à invoquer des drones.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur d’Aristochat</color>\n<color=black>Dégâts : </color><color=#8B0000>100/1,5s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce d’Aristochat.\n<color=black>•</color> En appuyant sur un Lapin-tonnerre, il devient Chef d’Équipe (indiqué par son orbe électrique scintillant). Un seul Chef peut exister à la fois ; les autres deviennent Membres.\n<color=black>• Chef d’Équipe :</color> Frappe les zombies avec de l’électricité. À l’impact, l’éclair peut rebondir jusqu’à 5 fois vers d’autres zombies (le même zombie peut être ciblé à nouveau, mais pas consécutivement) dans un rayon de 2,2 cases. Les rebonds infligent 50% des dégâts initiaux.\n<color=black>• Membres :</color> N’attaquent pas. Chaque Membre augmente les dégâts du Chef de ×1,5 et ajoute 3 rebonds supplémentaires.\n<color=black>•</color> Lorsqu’un éclair élimine un zombie, un Aristochat aléatoire sur le terrain invoque un Drone affaibli qui tire uniquement 20 projectiles en ligne droite infligeant chacun 160 dégâts.</color>\n<color=black>Modificateurs Odyssée :\n<color=#8B0000>1. Le Drone invoqué n’est plus affaibli et tire 60 projectiles normalement\n2. Dégâts ×3 | Sous-espèce Lapin-tonnerre débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Nénu-chat <-> Amp-gnion</color>"
         }
     ]
 }
