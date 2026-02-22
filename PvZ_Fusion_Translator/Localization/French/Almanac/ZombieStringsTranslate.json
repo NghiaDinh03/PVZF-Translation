@@ -332,21 +332,21 @@
         },
         {
             "theZombieType": 201,
-            "name": "Michael en Zomboni",
-            "introduce": "<size=30><color=black>Michael Zomboni n'est pas qu'un zombie ; c'est un effort d'équipe. Zomboni installe la salle, Bobsled Zombie assure les effets visuels et Michael Zombie... a été obligé de quitter la voiture car elle n'avait pas de permis de conduire pour saluer ses passionnés de plantes, mais les petits pois semblaient un peu trop excités. </color>",
-            "info": "<size=30>Défense et immunité au ralentissement extrêmement élevées.\n\n<color=black>Robustesse : </color><color=#4B0082>12000</color>\n<color=black>Spécial : </color><color=#4B0082>À la mort, génère automatiquement un Michael Zombie, un Zomboni et un Bobsled Zombie.</color>"
+            "name": "Zomboni Michael",
+            "introduce": "<align=justified><size=36><color=black>Zomboni Michael n'est pas qu'un zombie ; c'est un effort d'équipe. Zomboni installe la salle,  Bobsleigh ramène les stroboscope et les projecteurs, Michael Zombie... a été obligé de quitter la voiture car il n'avait techniquement pas de permis de conduire. Il voulait saluer ses plantes fans, mais les pisto-pois étaient un peu trop enthousiastes. </color>",
+            "info": "<size=36>Défense extrêmement élevé et immunisé au ralentissement\n\n<color=black>Robustesse : </color><color=#4B0082>12000</color>\n<color=black>Spécial : </color><color=#4B0082>Génère automatiquement un Michael Zombie, un Zomboni et un Zombie Bobsleigh lors de sa mort.</color>\n<color=black>Modificateurs D'Odyssée :\n</color><color=#4B0082>1. Zomboni Michael apparait maintenant à chaque vague et fait apparaitre un Michael Superstar à sa mort en plus des autres.\n2. Les Michael Zombonis et les Jackson Autour du monde ont leur vitesse de déplacement multipliée par 5.</color>"
         },
         {
             "theZombieType": 202,
-            "name": "Zombie Trident Ultra",
-            "introduce": "<size=31.5><color=black>\"Giga-trident Zombie est un pêcheur expérimenté connu pour sa précision exceptionnelle avec les quatre tridents qu'il lance, ce qui lui a valu le titre de roi des pêcheurs.\" \"En fait, j'étais lanceur de javelot à temps partiel...\" a admis le Giga-trident Zombie.</color>",
-            "info": "<size=31.5>Lance un grand nombre de tridents sur vos plantes à la fois.\n\n<color=black>Robustesse : </color><color=#4B0082>270+7500</color>\n<color=black>Spécial : </color><color=#4B0082>Lance 4 tridents, chacun causant des dégâts aux plantes égaux à 20% (minimum de 60) de leur Robustesse actuelle.</color>"
+            "name": "Giga-noix à Trident",
+            "introduce": "<align=justified><size=36><color=black>Zombie Giga-noix à Trident est un pêcheur expérimenté connu pour sa précision exceptionnelle avec ses quatre tridents qu'il lance, ce qui lui a valu le titre de roi des pêcheurs.\"En fait, j'étais lanceur de javelot à temps partiel...\" a admis le Zombie Giga-noix à Trident.</color>",
+            "info": "<size=36>Lance un grand nombre de tridents sur vos plantes.\n\n<color=black>Robustesse : </color><color=#4B0082>720 + 7500 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>6 à 9 secondes après être entré ou bloqué, lance 4 tridents, chacun causant des dégâts aux plantes égaux à 20% (minimum de 60) de leur Robustesse actuelle.</color>\n<color=black>Modificateurs D’odyssée:\n</color><color=#4B0082>1. Les dégâts des tridents multipliés par 5.\n2. Cible maintenant des plantes aléatoires en dehors de la portée minimum.</color>"
         },
         {
             "theZombieType": 203,
-            "name": "Zombie Journal Sulfateuse",
-            "introduce": "<size=28><color=black>\"Je vieillis...\" se lamentait le journal Sulfateuse à Cerises Zombie en marchant dans la rue. Malgré sa pression contenue, cela suffisait à contenir les plantes et les zombies. \"Seul ce type peut encore m'inspirer à me battre...\" marmonna-t-il en rangeant le journal et en continuant son chemin.</color>",
-            "info": "<size=29>Inflige d'immenses dégâts.\n\n<color=black>Dégâts : </color><color=#4B0082>400 → 1000 (Enragé)</color>\n<color=black>Robustesse : </color><color=#4B0082>1500+1500</color>\n<color=black>Spécial : </color><color=#4B0082>Devient temporairement invincible après que son journal soit cassé, en tirant des cerises explosives toutes les 0,125 secondes.</color>"
+            "name": "<size=30>Zombie-cerise-sulfateuse à Journal",
+            "introduce": "<align=justified><size=36><color=black>\"Je vieillis...\" se lamentait le Zombie-cerise-sulfateuse à Journal en marchant dans la rue. Malgré son impulsivité, cela suffisait à garder les plantes et les zombies sous contrôle. \"Personne ne peut encore aspirer à me battre...A part Satoru Gojo évidemment.\" marmonna-t-il en rangeant le journal et continuant son chemin.</color>",
+            "info": "<size=36>Inflige d'immenses dégâts.\n\n<color=black>Dégâts:</color><color=#4B0082>400 (Morsure) 1000 (Cerises)</color>\n<color=black>Robustesse: </color><color=#4B0082>1500 + 1500 (Type 2)</color>\n<color=black>Spécial: </color><color=#4B0082>Invulnérable jusqu'à ce que son journal soit détruit.Devient invincible pendant un court lapse de temps puis tire 4 cerises explosives toutes les 0.5s.</color>\n<color=black>Modificateurs Odyssée:\n</color><color=#4B0082>1. Ignore maintenant les plantes quand il est enragé.\n2. Immunisé contre les effets de status.</color>"
         },
         {
             "theZombieType": 204,
