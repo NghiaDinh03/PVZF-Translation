@@ -415,10 +415,10 @@
         },
         {
             "seedType": 916,
-            "name": "Parapluie d'Émeraude",
-            "introduce": "<size=36><color=black>D'après son apparence, vous pouvez dire que Parapluie d'Émeraude a le don pour les affaires. \"C'est vrai, mon chapeau d'émeraude était un objet d'échange que j'échangeais avec quelqu'un d'un endroit plein de blocs...\"</color>",
-            "info": "<size=36>Une combinaison de Parapluie de Diamant et de Umbrella Kale.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de ses deux matériaux. Permet également aux projectiles de toucher les zombies dans les deux rangées ci-dessous. Son ultime Grain de Café peut tuer instantanément les zombies dont la santé est inférieure à 50 %.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie de Diamant + Umbrella Kale</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Les projectiles rebondiront continuellement le long des autres Parapluie d'Émeraude jusqu'au dernier. Chaque rebond augmente les dégâts du projectile de 1,8x.\n2. Active automatiquement l'ultime si des zombies sont proches. Temps de recharge de 7,5 secondes | Aegis Umbrella Sous-espèce débloqué</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle de Midas",
+            "introduce": "<align=justified><size=36><color=black>Rien qu’à son apparence, on devine que l’Ombrelle de Midas a le sens des affaires. \" Exact, mon chapeau d’émeraude était un objet d’échange obtenu auprès de quelqu’un venant d’un monde rempli de blocs… \"</color>",
+            "info": "<size=36>Combinaison de l’Ombrelle Alchimiste et Ombrelle Chou.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Possède les caractéristiques de ses deux composants.\n<color=black>•</color> Subit 75% de dégâts en moins des Tridents.\n<color=black>•</color> Les projectiles renvoyés voient désormais leurs dégâts augmentés de 100%.\n<color=black>•</color> Permet également aux projectiles d’atteindre les zombies dans les deux lignes adjacentes.\n<color=black>•</color> Hérite de l’Ultime de l’Ombrelle Alchimiste et peut éliminer instantanément les zombies sous 50% de leurs PV max.</color>\n<color=black>Modificateurs Odyssée :</color><color=#8B0000>\n1. Bonus de dégâts des projectiles renvoyés 100% → 300%\n2. Active automatiquement l’Ultime sans coût si des zombies sont proches, temps de recharge 7,5s | Sous-espèce Ombrelle Égide débloquée</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle Alchimiste + Ombrelle Chou</color>"
         },
         {
             "seedType": 917,
@@ -464,10 +464,10 @@
         },
         {
             "seedType": 923,
-            "name": "Parapluie de Rubis",
-            "introduce": "<size=36><color=black>Beaucoup remettent en question la relation entre Parapluie d'Émeraude et Aegis Umbrella. \" Nous sommes frères ! \" \" déclare Aegis avec confiance, en frappant sa verrière. \"Mon cher frère aîné traverse juste une période difficile émotionnellement.\"</color>",
-            "info": "<size=36>Reflète les projectiles des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de la Parapluie d'Émeraude. Vous pouvez basculer entre les deux avec les Lance-pastèques et les Lance-chous. Aegis perd la capacité d'améliorer les projectiles lancés, mais bénéficie désormais d'une réduction des dégâts de 90 % et peut refléter les projectiles de zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie d'Émeraude + Lance-pastèque</color>",
-            "cost": ""
+            "name": "Ombrelle Égide",
+            "introduce": "<align=justified><size=36><color=black>Beaucoup s’interrogent sur le lien entre l’Ombrelle de Midas et l’Ombrelle Égide. \" Nous sommes frères ! \" affirme Égide avec assurance en frappant sa toile. \" Mon cher grand frère traverse simplement une période émotionnellement compliquée. \"</color>",
+            "info": "<size=36>Renvoie les projectiles des zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l’Ombrelle de Midas</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Ombrelle de Midas.\n<color=black>•</color> Perd la capacité d’améliorer les projectiles lobés et d’attirer les tridents. À la place, gagne une Réduction des dégâts de 90% et la capacité de renvoyer les projectiles (sauf les tridents) des zombies.</color>\n<color=black>Modificateurs Odyssée :</color><color=#8B0000>\n2. Active automatiquement l’Ultime sans coût si des zombies sont proches, temps de recharge 7,5s | Sous-espèce Ombrelle Égide débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Lance-chou <-> Lance-pastèque</color>"
         },
         {
             "seedType": 924,
