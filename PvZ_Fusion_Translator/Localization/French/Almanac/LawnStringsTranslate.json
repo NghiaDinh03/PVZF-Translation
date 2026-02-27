@@ -1871,7 +1871,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Champi-Explosion",
+            "name": "Champi-explosion",
             "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de me lâcher, parfois\" , avoue-t-il. \"Mais… j’ai peur qu’on me crie dessus.\"</color>",
             "info": "<size=36>Facilement effrayé, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’il prend peur, il se cache et explose comme une Cerise Explosive, infligeant 600 dégâts sur une zone 3X3.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-peureux + Cerise Explosive</color>"
