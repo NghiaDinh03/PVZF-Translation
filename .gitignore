@@ -408,3 +408,5 @@ ToolMod.dll
 
 GIT_WORKFLOW.md
 *.dll
+
+/.idea
