@@ -869,13 +869,6 @@
             "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Algue + Torche</color>"
         },
         {
-            "seedType": 1057,
-            "name": "Écraseur Doré",
-            "introduce": "<size=36><color=black>火焰窝瓜总是一个接一个从窝炬里跳出来。\"炼瓜炉\"几个金色的火焰窝瓜一起喊道。</color></size>",
-            "info": "<size=36>他只是一个金色的窝瓜.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": ""
-        },
-        {
             "seedType": 1058,
             "name": "Triple Pisto-pois Brûlé",
             "introduce": "<align=justified><size=36><color=black>\"Pourquoi Jalapeño reçoit toujours tout le mérite?\" s'exclame Triple Pisto-brûlé, de la fumée s'échappant de sa bouche. \"S'ils savaient seulement qu'en fusionnant avec Jalapeño, cela brûle mes pois.\" Il se tourne vers Torche avec un air sérieux. \"Crois-moi, Tu ne voudras pas croquer des pois carbonisés !\"</color></size>",
@@ -1553,20 +1546,6 @@
             "introduce": "<align=justified><size=36><color=black>Avez-vous entendu ? L'Aimant Solaire rayonne de richesse ces derniers temps ! \" Je ne produis pas de fer ; je ne fais que la lumière \", dit-il fièrement. \" C’est le fruit d’années de dur labeur. \" On raconte même qu’il a ouvert une entreprise au-delà de la pelouse !</color></size>",
             "info": "<size=36>Produit des objets métalliques et transforme les objets métalliques en Soleil.\n\n<color=black>Production de Soleil : </color><color=#8B0000>25/25s</color>\n<color=black>Spécial : </color><color=#8B0000>Produit un objet métallique aléatoire toutes les 30 secondes. Faites glisser un objet métallique dessus et il produira 25 Soleil. Les objets produits sont automatiquement envoyés à Grenadier Aimant, Hypno Aimant ou Charmatron placés directement devant.</color></size>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Aimant</color></size>"
-        },
-        {
-            "seedType": 1155,
-            "name": "Ortie Dorée",
-            "introduce": "<size=36><color=black>总有人分不清火炬生产的地刺和普通地刺的区别，但火炬地刺本身很清楚：这再明显不过了，我让他们所走的道路成为了一条更加阳光明亮的康庄大道。</color>",
-            "info": "<size=36>火焰地刺？他也许跟地刺没有太多区别。\n\n<color=black>Robustesse : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>？</color>\n<couleur=noir>",
-            "cost": ""
-        },
-        {
-            "seedType": 1156,
-            "name": "Algue Dorée",
-            "introduce": "<size=36><color=black>火焰缠绕水草一直泡在水里，但这压根不影响它给植物们烤海带吃。呃，味道很奇怪就是了。</color>",
-            "info": "<size=36>火焰缠绕水草？他也许跟缠绕水草没有太多区别。\n\n<color=black>Robustesse : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>？</color>\n<couleur=noir>",
-            "cost": ""
         },
         {
             "seedType": 1157,
