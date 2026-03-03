@@ -31,7 +31,7 @@
     },
     "BigWallNut": {
         "achievement": 6,
-        "Name": "Placez un Noix sur un autre Noix.",
+        "Name": "Placez une Noix sur une autre Noix.",
         "Text": "Comment s'est-il enfui ?"
     },
     "CherryPaper95": {
@@ -46,17 +46,17 @@
     },
     "SunBomb": {
         "achievement": 8,
-        "Name": "Utilisez Sun Bomb pour faire exploser 10 zombies à la fois.",
-        "Text": "Une lumière par jour"
+        "Name": "Utilisez Bombe Solaire pour faire exploser 10 zombies à la fois.",
+        "Text": "Un flash, un jour"
     },
     "BigWallNut2": {
         "achievement": 10,
-        "Name": "Utilisez une Noix pour écraser 10 zombies à la fois.",
+        "Name": "Utilisez une Noix Géante pour écraser 10 zombies à la fois.",
         "Text": "Boule de destruction"
     },
     "BigWallNut3": {
         "achievement": 11,
-        "Name": "Utilisez une Noix pour infliger 20 000 dégâts au même zombie.",
+        "Name": "Utilisez une Noix Géante pour infliger 20 000 dégâts au même zombie.",
         "Text": "Noix roulante"
     },
     "HypnoShroom": {
@@ -206,7 +206,7 @@
     },
     "UltimateGatling": {
         "achievement": 41,
-        "Name": "Découvrez Gatling Cherrybomber.",
+        "Name": "Découvrez la Sulfateuse à Grenades.",
         "Text": "Bombardier de pelouse"
     },
     "HypnoEmperor": {
@@ -286,8 +286,8 @@
     },
     "WallNut": {
         "achievement": 57,
-        "Name": "Utilisez Noix pour vous défendre contre les zombies.",
-        "Text": "Accrocheur"
+        "Name": "Utilisez une Noix pour vous défendre contre les zombies.",
+        "Text": "VOUS NE PASSEREZ PAS !"
     },
     "SuperChomper": {
         "achievement": 58,
@@ -296,18 +296,18 @@
     },
     "UltimateChomper": {
         "achievement": 59,
-        "Name": "Découvrez Cherryzilla",
-        "Text": "Bête écarlate"
+        "Name": "Découvrez Cerizilla",
+        "Text": "Dieu de la guerre"
     },
     "UltimateTallNut": {
         "achievement": 60,
-        "Name": "Utilisez Obsidian-nut pour vous défendre contre les explosions.",
-        "Text": "Défi du seau de glace"
+        "Name": "Utilisez Noix d’Obsidienne pour vous défendre contre les explosions.",
+        "Text": "Ice Bucket Challenge"
     },
     "SuperMachineNut": {
         "achievement": 61,
         "Name": "Soignez Méga Mecha-noix jusqu'à ce que sa santé dépasse 1 million.",
-        "Text": "C'est une boulette de poisson ?"
+        "Text": "Méga ex Machina"
     },
     "SuperSunNut": {
         "achievement": 62,
@@ -326,8 +326,8 @@
     },
     "IronNut": {
         "achievement": 65,
-        "Name": "Découvrez Buck-nut",
-        "Text": "Vas-y, amène-toi."
+        "Name": "Découvrez Noix Renforcée",
+        "Text": "Equipement Acquis"
     },
     "Sub": {
         "achievement": 999,

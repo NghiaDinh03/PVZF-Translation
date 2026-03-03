@@ -303,10 +303,10 @@
         },
         {
             "seedType": 900,
-            "name": "Champi-impératrice",
-            "introduce": "<size=36><color=black>Champi-impératrice a une grande affection pour ses subordonnés zombies. \"Ils ont contribué de manière significative à mon ascension en tant qu'impératrice\", a-t-elle exprimé. Malheureusement, ces puissants zombies suscitent la peur chez les autres plantes, ce dont Champi-impératrice ignore complètement.</color></size>",
-            "info": "<size=36>Invoquez les zombies qui se battent pour vous.\n\n<color=black>Spécial : </color><color=#8B0000>Sélectionne aléatoirement 1 des zombies suivants à invoquer :\nZombie rugby-écrou | Zombie du journal Cherryshooter | Zomboni | Zombie érudit</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-hypno + Champi-hypno</color>\n<color=black>Buffs d'Odyssée :\n</color><color=#8B0000>1. Intervalle d'invocation → 10 secondes | Champi-enchanteresse Sous-espèce Débloqué\n2. Peut désormais invoquer des zombies ultimes</color></size>",
-            "cost": ""
+            "name": "Impécratrice-champi",
+            "introduce": "<align=justified><size=36><color=black>L'Impécratrice-champi éprouve une grande affection pour ses subordonnés zombies. \" Ils ont largement contribué à mon ascension en tant qu’Impératrice \", déclare-t-elle. Malheureusement, ces puissants zombies inspirent la peur aux autres plantes — un détail dont l'Impécratrice-champi n’a absolument pas conscience.</color></size>",
+            "info": "<size=36>Invoque des zombies qui combattront pour vous.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Hypnotise les zombies mordants jusqu’à 5 fois.\n<color=black>•</color> Toutes les 30 secondes, sélectionne aléatoirement 1 des zombies suivants à invoquer :\nZombie Noix-Quarterback | Zombie Journaliste Cerise Enragée | Commando Pois Quarterback | Zomboni Bobsleigh | Zombie Érudit | Zombarine.\n<color=black>•</color> Invoque instantanément un zombie lorsqu’une Enchanteresse-champi meurt dans un rayon de 3×3 cases.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Intervalle d’invocation → 10s | Sous-espèce Enchanteresse-champi débloquée\n2. Peut désormais invoquer les versions Ultimes correspondantes</color></size>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-hypno + Champi-hypno</color>"
         },
         {
             "seedType": 901,
@@ -415,31 +415,31 @@
         },
         {
             "seedType": 916,
-            "name": "Parapluie d'Émeraude",
-            "introduce": "<size=36><color=black>D'après son apparence, vous pouvez dire que Parapluie d'Émeraude a le don pour les affaires. \"C'est vrai, mon chapeau d'émeraude était un objet d'échange que j'échangeais avec quelqu'un d'un endroit plein de blocs...\"</color>",
-            "info": "<size=36>Une combinaison de Parapluie de Diamant et de Umbrella Kale.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>A les caractéristiques de ses deux matériaux. Permet également aux projectiles de toucher les zombies dans les deux rangées ci-dessous. Son ultime Grain de Café peut tuer instantanément les zombies dont la santé est inférieure à 50 %.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie de Diamant + Umbrella Kale</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Les projectiles rebondiront continuellement le long des autres Parapluie d'Émeraude jusqu'au dernier. Chaque rebond augmente les dégâts du projectile de 1,8x.\n2. Active automatiquement l'ultime si des zombies sont proches. Temps de recharge de 7,5 secondes | Aegis Umbrella Sous-espèce débloqué</color>",
-            "cost": "<size=36>"
+            "name": "Ombrelle de Midas",
+            "introduce": "<align=justified><size=36><color=black>Rien qu’à son apparence, on devine que l’Ombrelle de Midas a le sens des affaires. \" Exact, mon chapeau d’émeraude était un objet d’échange obtenu auprès de quelqu’un venant d’un monde rempli de blocs… \"</color>",
+            "info": "<size=36>Combinaison de l’Ombrelle Alchimiste et Ombrelle Chou.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Possède les caractéristiques de ses deux composants.\n<color=black>•</color> Subit 75% de dégâts en moins des Tridents.\n<color=black>•</color> Les projectiles renvoyés voient désormais leurs dégâts augmentés de 100%.\n<color=black>•</color> Permet également aux projectiles d’atteindre les zombies dans les deux lignes adjacentes.\n<color=black>•</color> Hérite de l’Ultime de l’Ombrelle Alchimiste et peut éliminer instantanément les zombies sous 50% de leurs PV max.</color>\n<color=black>Modificateurs Odyssée :</color><color=#8B0000>\n1. Bonus de dégâts des projectiles renvoyés 100% → 300%\n2. Active automatiquement l’Ultime sans coût si des zombies sont proches, temps de recharge 7,5s | Sous-espèce Ombrelle Égide débloquée</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Ombrelle Alchimiste + Ombrelle Chou</color>"
         },
         {
             "seedType": 917,
-            "name": "Champi-enchanteresse",
-            "introduce": "<size=36><color=black>Les sujets de la Champi-impératrice sont captivés par le pouvoir mystérieux de la Champi-enchanteresse. Elle n'est pas seulement ma conseillère ; elle est la force qui fait prospérer notre royaume. Sa magie n'est pas seulement puissante, elle est explosive, a déclaré la Champi-impératrice. En vérité, la Champi-enchanteresse se plaît tout simplement à faire exploser tous les dissidents indisciplinés qui osent résister à son charme.</color>",
-            "info": "<size=36>Invoque des zombies journal pisto-cerise sulfateuse pour se battre à vos cotés.\n\n<color=black>Spécial : </color><color=#8B0000>Le même que Champi-impératrice, mais n'invoque que les zombies du journal Sulfateuse à Cerises. Bénéficie des buffs de Champi-impératrice et invoque immédiatement lorsqu'une Champi-impératrice meurt dans un rayon de 3*3, Champi-impératrice également lorsqu'une Champi-enchanteresse à proximité meurt.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Champi-impératrice + Cerise Explosive</color>",
-            "cost": ""
+            "name": "Enchanteresse-champi",
+            "introduce": "<align=justified><size=36><color=black>Les sujets de la Impératrice-champi sont fascinés par le pouvoir mystérieux de l'Enchanteresse-champi. \" Elle n’est pas seulement ma conseillère ; elle est la force qui fait prospérer notre royaume. Sa magie n’est pas seulement puissante — elle est explosive \", déclara l’Impératrice. En vérité, l'Enchanteresse-champi prend surtout plaisir à faire exploser tout dissident indiscipliné qui oserait résister à son charme.</color>",
+            "info": "<size=36>Invoque exclusivement des zombies explosifs pour combattre à vos côtés !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l'Impératrice-champi</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Identique à l'Impératrice-champi, mais invoque uniquement : Zombie Journaliste Cerise / Zombarine / Zombie Journaliste Gatling Cerise / Zombie Gatling Explode-o-rider.\n<color=black>•</color> Invoque immédiatement un zombie lorsqu’une Impératrice-champi meurt dans un rayon de 3×3 cases.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Intervalle d’invocation → 10s | Sous-espèce Enchanteresse-champi débloquée\n2. Peut désormais invoquer les versions Ultimes correspondantes</color>",
+            "cost": "<size=36>Formule de Conversion : <color=#8B0000>Champi-hypno <-> Cerise Explosive</color>"
         },
         {
             "seedType": 918,
             "name": "Triple Pisto-pois Cendré",
-            "introduce": "<size=36><color=black>Les flammes consument son corps brisé, chaque souffle est un tourment, mais le Ashen Triple Pisto-pois se tient debout. Il croit que le feu intérieur atteindra la gloire éternelle dans une dernière et grande explosion.</color>",
-            "info": "<size=36>Ashen Triple Pistopois attend sa renaissance.\n\n<color=black>Spécial : </color><color=#8B0000>Perd ses capacités d'attaque après avoir été complètement brûlé.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Triple Pisto-pois Scorched + Jalapeño</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Les flammes consument son corps brisé, chaque souffle est un supplice, et pourtant le Triple Pisto-pois Cendré demeure droit. Il croit que le feu qui l’habite atteindra une gloire éternelle dans une ultime et grandiose explosion.</color>",
+            "info": "<size=36>Le Triple Pisto-pois Cendré attend sa renaissance.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Spécial : </color><color=#8B0000>Perd toute capacité d’attaque après avoir été entièrement consumé par les flammes.</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois Brûlé + Jalapeño</color>"
         },
         {
             "seedType": 919,
             "name": "Triple Pisto-pois Phénix",
-            "introduce": "<size=36><color=black>Personne ne sait si le feu fait réellement renaître les plantes : ce n'est qu'une légende. Ceux qui l'ont poursuivi se sont transformés en cendres, jusqu'à ce qu'il devienne une nouvelle légende. Je ne sais pas combien de fois je dois endurer les flammes pour réussir, mais pour elles, je dois le faire.</color>",
-            "info": "<size=36>Du feu renaît !\n\n<color=black>Dégâts : </color><color=#8B0000>160x3/1.5 Secondes</color>\n<color=black>Spécial : </color><color=#8B0000>Incendie toute la pelouse à l'entrée, les projectiles infligent le debuff Enflammé, transpercent trois fois avec des dégâts doublés après passage d'Écras-torche Infernale.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Ashen Triple Pisto-pois + Jalapeño</color>\n<color=black>Buffs d'Odyssée :\n<color=#8B0000>1. Multiplicateur de dégâts enflammés → 150 %, et les pois enflammés peuvent désormais infliger le debuff\n2. Les balles peuvent désormais percer à l'infini</color>",
-            "cost": ""
+            "introduce": "<align=justified><size=36><color=black>Nul ne sait si le feu offre réellement une renaissance aux plantes — ce n’est qu’une légende. Ceux qui l’ont poursuivie sont devenus cendres… jusqu’à ce qu’il devienne la nouvelle légende. \" Je ne sais pas combien de fois je devrai endurer les flammes pour réussir, mais pour eux, je le dois. \"</color>",
+            "info": "<size=36>Renaît des flammes !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Dégâts : </color><color=#8B0000>160×3/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Enflamme toute la pelouse lors de son entrée en jeu.\n<color=black>•</color> Les projectiles appliquent l’Altération Enflammé et perforent 2 fois.\n<color=black>•</color> Ses dégâts sont doublés après avoir traversé un Écraseur Infernal.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts contre les cibles Enflammées 50% → 150%, et les projectiles enflammés standards peuvent désormais appliquer l’altération\n2. Les Pois Phénix perforent désormais à l’infini et provoquent des explosions Enflammées | Sous-espèce Drone Phénix débloquée</color>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Triple Pisto-pois Cendré + Jalapeño</color>"
         },
         {
             "seedType": 920,
@@ -464,10 +464,10 @@
         },
         {
             "seedType": 923,
-            "name": "Parapluie de Rubis",
-            "introduce": "<size=36><color=black>Beaucoup remettent en question la relation entre Parapluie d'Émeraude et Aegis Umbrella. \" Nous sommes frères ! \" \" déclare Aegis avec confiance, en frappant sa verrière. \"Mon cher frère aîné traverse juste une période difficile émotionnellement.\"</color>",
-            "info": "<size=36>Reflète les projectiles des zombies.\n\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>Une variante de la Parapluie d'Émeraude. Vous pouvez basculer entre les deux avec les Lance-pastèques et les Lance-chous. Aegis perd la capacité d'améliorer les projectiles lancés, mais bénéficie désormais d'une réduction des dégâts de 90 % et peut refléter les projectiles de zombies.</color>\n<color=black>Formule de Fusion : </color><color=#8B0000>Parapluie d'Émeraude + Lance-pastèque</color>",
-            "cost": ""
+            "name": "Ombrelle Égide",
+            "introduce": "<align=justified><size=36><color=black>Beaucoup s’interrogent sur le lien entre l’Ombrelle de Midas et l’Ombrelle Égide. \" Nous sommes frères ! \" affirme Égide avec assurance en frappant sa toile. \" Mon cher grand frère traverse simplement une période émotionnellement compliquée. \"</color>",
+            "info": "<size=36>Renvoie les projectiles des zombies.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l’Ombrelle de Midas</color>\n<color=black>Robustesse : </color><color=#8B0000>4000</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Ombrelle de Midas.\n<color=black>•</color> Perd la capacité d’améliorer les projectiles lobés et d’attirer les tridents. À la place, gagne une Réduction des dégâts de 90% et la capacité de renvoyer les projectiles (sauf les tridents) des zombies.</color>\n<color=black>Modificateurs Odyssée :</color><color=#8B0000>\n2. Active automatiquement l’Ultime sans coût si des zombies sont proches, temps de recharge 7,5s | Sous-espèce Ombrelle Égide débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Lance-chou <-> Lance-pastèque</color>"
         },
         {
             "seedType": 924,
@@ -869,15 +869,8 @@
             "cost": "\n<size=36>Formule de Fusion: </color><color=#8B0000>Algue + Torche</color>"
         },
         {
-            "seedType": 1057,
-            "name": "Écraseur Doré",
-            "introduce": "<size=36><color=black>火焰窝瓜总是一个接一个从窝炬里跳出来。\"炼瓜炉\"几个金色的火焰窝瓜一起喊道。</color></size>",
-            "info": "<size=36>他只是一个金色的窝瓜.\n\n<color=black>Dégâts : </color><color=#8B0000>1800</color></size>",
-            "cost": ""
-        },
-        {
             "seedType": 1058,
-            "name": "Triple Pisto-brûlé",
+            "name": "Triple Pisto-pois Brûlé",
             "introduce": "<align=justified><size=36><color=black>\"Pourquoi Jalapeño reçoit toujours tout le mérite?\" s'exclame Triple Pisto-brûlé, de la fumée s'échappant de sa bouche. \"S'ils savaient seulement qu'en fusionnant avec Jalapeño, cela brûle mes pois.\" Il se tourne vers Torche avec un air sérieux. \"Crois-moi, Tu ne voudras pas croquer des pois carbonisés !\"</color></size>",
             "info": "<size=36>Un Triple Pisto-pois qui ne peut pas fusionner parce qu'il est brûlé.\n\n<color=black>Dégâts: </color><color=#8B0000>40×3/1.5 s</color>\n<color=black>Spécial: </color><color=#8B0000>Lors de la fusion avec Jalapeño il produit une ligne de flammes infligeant 1800 (Crémateur) de dégâts sur trois rangées.</color></size>",
             "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Triple Pisto-pois + Jalapeño</color></size>"
@@ -1555,20 +1548,6 @@
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Tournesol + Champi-Aimant</color></size>"
         },
         {
-            "seedType": 1155,
-            "name": "Ortie Dorée",
-            "introduce": "<size=36><color=black>总有人分不清火炬生产的地刺和普通地刺的区别，但火炬地刺本身很清楚：这再明显不过了，我让他们所走的道路成为了一条更加阳光明亮的康庄大道。</color>",
-            "info": "<size=36>火焰地刺？他也许跟地刺没有太多区别。\n\n<color=black>Robustesse : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>？</color>\n<couleur=noir>",
-            "cost": ""
-        },
-        {
-            "seedType": 1156,
-            "name": "Algue Dorée",
-            "introduce": "<size=36><color=black>火焰缠绕水草一直泡在水里，但这压根不影响它给植物们烤海带吃。呃，味道很奇怪就是了。</color>",
-            "info": "<size=36>火焰缠绕水草？他也许跟缠绕水草没有太多区别。\n\n<color=black>Robustesse : </color><color=#8B0000>300</color>\n<color=black>Spécial : </color><color=#8B0000>？</color>\n<couleur=noir>",
-            "cost": ""
-        },
-        {
             "seedType": 1157,
             "name": "Aimant Charmant",
             "introduce": "<align=justified><size=36><color=black>Après d'innombrables jours et nuits de recherche, Aimant Charmant a finalement maîtrisé l'art du champ de charme magnétique. \"Maintenant, je peux mieux persuader mes amis zombies de se battre à nos côtés\", a-t-il déclaré. \"Certains pensent que je les menace avec des outils métalliques, mais un jour, la vérité éclatera au grand jour.'</color>",
@@ -1647,10 +1626,10 @@
         },
         {
             "seedType": 928,
-            "name": "<size=36>Champi-Cataclysme ",
-            "introduce": "<color=#3D1400>Tout le monde se demande comment le champi-calamité soumet des créatures massives pour qu'elles la servent. Une destruction sans fin devrait apporter le silence... Lorsqu'elle est interrogée, elle est assise seule au sommet d'une tour, sirotant son breuvage de rêve : \"L'oubli ? Non, je leur accorde simplement la renaissance au sein des illusions.\"</color>",
-            "info": "<size=36>Renversez le cours de la bataille !\n\n<color=#3D1400>Spécial : </color><color=red>Charme les zombies à portée (comme Champi-mort) et les fait exploser à leur mort, infligeant des dégâts comme Champi-mort.</color>\n<color=black>Effets Odyssée :\n<color=#8B0000>1. Les explosions Champi-mort ne laissent désormais aucun cratère.\n2. Invoque 3 gargantues blindés charmés lors de l'explosion. Chaque zombie charmé invoque également un Zomboni.</color>",
-            "cost": "<size=36>\nFormule de Fusion : <color=#8B0000>Curse-shroom + Champi-mort"
+            "name": "Champi-calamité",
+            "introduce": "<align=justified><size=36><color=black>Tout le monde se demande comment le Champi-calamité parvient à soumettre d’immenses créatures pour les mettre à son service. Une destruction sans fin devrait apporter le silence… Interrogée à ce sujet, il reste assis seul au sommet d’une tour, sirotant sa potion onirique : \" L’oubli ? Non. Je leur accorde simplement une renaissance au sein d’illusions. \"</color>",
+            "info": "<size=36>Renverse le cours de la bataille !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Spécial : </color><color=#8B0000>Hypnotise tous les zombies dans sa zone d’effet (identique au Champi-mort) et les fait exploser à leur mort comme des Champi-mort.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Toutes les explosions de Champi-mort ne créent plus de cratère | Sous-espèce Champi-avare débloquée\n2. Fait désormais apparaître 3 Gargantuars et Zombonis hypnotisés supplémentaires lors de son explosion</color><size=36>",
+            "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Champi-maudit + Champi-mort</color>"
         },
         {
             "seedType": 929,
@@ -1871,7 +1850,7 @@
         },
         {
             "seedType": 1274,
-            "name": "Champi-Explosion",
+            "name": "Champi-explosion",
             "introduce": "<align=justified><size=36><color=black>La plus douce des cerises de la famille : pas de crises, pas de hurlements, tout le monde l’adore. \"J’ai… un peu envie de me lâcher, parfois\" , avoue-t-il. \"Mais… j’ai peur qu’on me crie dessus.\"</color>",
             "info": "<size=36>Facilement effrayé, mais provoque une explosion quand cela arrive.\n\n<color=black>Dégâts : </color><color=#8B0000>40/1.5s</color>\n<color=black>Special: </color><color=#8B0000>Lorsqu’il prend peur, il se cache et explose comme une Cerise Explosive, infligeant 600 dégâts sur une zone 3X3.</color>",
             "cost": "\n<size=36>Formule de Fusion: <color=#8B0000>Champi-peureux + Cerise Explosive</color>"
@@ -3793,6 +3772,69 @@
             "introduce": "<align=justified><size=36><color=black>\" Nous sommes une bande de mages issus de la Tour de Magie du Givre. Regardez ces écharpes duveteuses. Rien n’est plus chaud que ça, pas même la magie de la foudre. \" Les Lapins-tonnerre agitent leurs longues oreilles… Quant à la raison de leur existence, ils laissent les taxonomistes du monde entier perplexes.</color>",
             "info": "<size=36>Canalise la puissance d’équipe pour déclencher des éclairs en chaîne et aider Aristochat à invoquer des drones.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur d’Aristochat</color>\n<color=black>Dégâts : </color><color=#8B0000>100/1,5s</color>\n<color=black>Portée d’attaque : </color><color=#8B0000>5×5</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce d’Aristochat.\n<color=black>•</color> En appuyant sur un Lapin-tonnerre, il devient Chef d’Équipe (indiqué par son orbe électrique scintillant). Un seul Chef peut exister à la fois ; les autres deviennent Membres.\n<color=black>• Chef d’Équipe :</color> Frappe les zombies avec de l’électricité. À l’impact, l’éclair peut rebondir jusqu’à 5 fois vers d’autres zombies (le même zombie peut être ciblé à nouveau, mais pas consécutivement) dans un rayon de 2,2 cases. Les rebonds infligent 50% des dégâts initiaux.\n<color=black>• Membres :</color> N’attaquent pas. Chaque Membre augmente les dégâts du Chef de ×1,5 et ajoute 3 rebonds supplémentaires.\n<color=black>•</color> Lorsqu’un éclair élimine un zombie, un Aristochat aléatoire sur le terrain invoque un Drone affaibli qui tire uniquement 20 projectiles en ligne droite infligeant chacun 160 dégâts.</color>\n<color=black>Modificateurs Odyssée :\n<color=#8B0000>1. Le Drone invoqué n’est plus affaibli et tire 60 projectiles normalement\n2. Dégâts ×3 | Sous-espèce Lapin-tonnerre débloquée</color>",
             "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Nénu-chat <-> Amp-gnion</color>"
+        },
+        {
+            "seedType": 975,
+            "name": "Ombrelle Boréale",
+            "introduce": "<align=justified><size=36><color=black>La froideur est le trait distinctif de l’Ombrelle Boréale. Elle se présente comme une vengeresse, verrouillant avec précision chaque zombie chargé de péchés pour décocher des flèches qu’elle appelle Jugement. Bien que son attitude glaciale effraie et isole les jeunes pousses, elle fait discrètement des dons à l’Orphelinat des Plantes depuis dix ans sans jamais faillir. Ce bâtiment familier lui rappelle la vie heureuse qu’elle a autrefois connue.</color>",
+            "info": "<size=36>Diffuse une lumière glaciale et tire des pics de glace traqueurs ; peut consommer de l’énergie pour passer en mode monocible à très hauts dégâts.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l’Ombrelle de Pharos</color>\n<color=black>Robustesse : </color><color=#8B0000>1000</color>\n<color=black>Dégâts : </color><color=#8B0000>80/0,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Ombrelle de Pharos. Hérite des traits de la Planterne.\n<color=black>•</color> Cible sa propre ligne ainsi que les 2 lignes adjacentes. Priorise le zombie le plus proche ; peut cibler les unités aériennes.\n<color=black>•</color> Tire des pics de glace : inflige ×2 dégâts aux cibles Gelées et ×4 aux cibles avec Gel Profond ; projette également un rayon Cryo appliquant Gel pendant 5s.\n<color=black>•</color> Pour les 10 premiers niveaux Lumos, chaque niveau augmente les dégâts des projectiles de +20.\n<color=black>•</color> Mode Dispersion : Peut cibler jusqu’à 6 ennemis. Gagne 1 énergie par cycle d’attaque. Passe en Mode Focalisation à 40 énergie.\n<color=black>•</color> Mode Focalisation : Ne cible qu’un seul ennemi. Consomme 2 énergie par cycle d’attaque et multiplie les dégâts des projectiles par 6. Revient en Mode Dispersion lorsque l’énergie est épuisée.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Les dégâts en Mode Dispersion augmentent linéairement jusqu’à ×4, Dégâts en Mode Focalisation ×4 | Sous-espèce Ombrelle Boréale débloquée\n2. Le rayon Cryo en Mode Focalisation applique désormais Congélation pendant 1s</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Planterne <-> Champi-glace</color>"
+        },
+        {
+            "seedType": 935,
+            "name": "Citrouille Mécanique",
+            "introduce": "<align=justified><size=36><color=black>Après une refonte mécanique complète, la Citrouille Mécanique était devenue une forteresse sur roues. Blindage composite ? Validé. Renforts en acier ? Doublement validé. Interface tactique ? Évidemment. Tout était parfait… jusqu’à ce qu’il aperçoive son reflet. Un crabe. Ils l’ont transformé en crabe. \" Les gars, sérieusement ?! Un petit avertissement, ça aurait été sympa ! \"</color>",
+            "info": "<size=36>Une citrouille aux multiples fonctions.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>8000</color>\n<color=black>Spécial : </color>\n<color=#8B0000>Plante Métallique. Possède de nombreux traits.\n<color=black>•</color> Immunisée contre les explosions des Diable à ressort.\n<color=black>•</color> Force les Zombies Mineurs à émerger prématurément.\n<color=black>•</color> Subit moitié moins de dégâts des explosions de Cerise.\n<color=black>•</color> Permet d’utiliser des objets en Fer pour restaurer de la Robustesse.</color>\n<color=black>Modificateurs Odyssée : </color><color=#8B0000>À déterminer</color>",
+            "cost": "<size=36>\nFormule de Fusion : </color><color=#8B0000>Champi-aimant > Citrouille Magnétique</color>"
+        },
+        {
+            "seedType": 976,
+            "name": "Quasar",
+            "introduce": "<align=justified><size=36><color=black>\" Il est temps de devenir une GROSSE Carambole ! \" crie Quasar avec enthousiasme chaque fois qu’il est soulevé par le Gant de Jardinage. Même si son armure est bricolée à partir de fragments de météorites récupérés, bien insuffisants pour soutenir son rêve de voler, il savoure chaque instant passé dans les airs. Évitez simplement de lui dire qu’il ressemble à un crabe… ou à un insecte.</color>",
+            "info": "<size=36>Intègre les traits de plusieurs variantes magnétiques de Carambole.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec la Citrouille Omnisciente</color>\n<color=black>Dégâts : </color><color=#8B0000>160×5/1,5s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Citrouille Mécanique.\n<color=black>•</color> Ne peut pas être ciblé par les zombies et est ignoré. Immunisé contre l’écrasement.\n<color=black>•</color> Tire des projectiles Quasar infligeant des dégâts de zone dans un rayon d’1 case (ligne unique), sans réduction avec la distance.\n<color=black>•</color> Les Étoile Polaire appartenant au même système magnétique qu’un Quasar tirent un projectile Quasar supplémentaire lorsqu’ils attaquent, infligeant des dégâts équivalents à la puissance d’attaque du Quasar.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. À son entrée en jeu, réinitialise et confère aux Plantes Magnétiques connectées un bonus d’attaque supplémentaire de 0,5% × nombre de Plantes Magnétiques\n2. Compte désormais double dans le total des Plantes Magnétiques</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Citrouille <-> Carambole</color>"
+        },
+        {
+            "seedType": 942,
+            "name": "Escouade de Champi-seau",
+            "introduce": "<align=justified><size=36><color=black>La pire crainte des Champi-seau s’est enfin réalisée : ils se sont bel et bien retrouvés collés à un Champi-aimant, et personne n’a réussi à les en détacher. Mais c’est peut-être une bénédiction déguisée. Grâce à tous les matériaux récupérés par le Champi-aimant, ils ont amélioré leur équipement et sont devenus un véritable \" Bataillon d’Acier \".</color>",
+            "info": "<size=36>Une escouade polyvalente experte en tir rapide, défense anti-aérienne et tir de précision !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Sélection initiale</color>\n<color=black>Robustesse : </color><color=#8B0000>6000</color>\n<color=black>Dégâts : </color><color=#8B0000>80×4/1s (Mitrailleuse) ; 240/2s (Canon Flak) ; 400/3s (Sniper)</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Plante Métallique.\n<color=black>•</color> Les tirs de mitrailleuse repoussent les cibles et infligent des dégâts supplémentaires basés sur les PV actuels de leur Armure de Type 2.\n<color=black>•</color> Le canon Flak cible uniquement les unités aériennes de sa ligne, inflige un recul et des dégâts de zone sur la case d’impact.\n<color=black>•</color> L’attaque de sniper partage les mêmes propriétés que le Champi-sniper.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Le sniper inflige toujours un tir à la tête avec 1/3 de chance de déclencher un tir rapide, mais le temps de recharge passe à 7,5s\n2. Recul du canon Flak ×2, dégâts de zone ×3 | Sous-espèce Escadron d’As-seau débloquée</color>",
+            "cost": "<size=34>\nFormule de Fusion : <color=#8B0000>Champi-aimant > Champi-seau×3</color>"
+        },
+        {
+            "seedType": 961,
+            "name": "Escadron d’As-seau",
+            "introduce": "<align=justified><size=36><color=black>Après l’installation des tout derniers dispositifs de suspension magnétique, l’Escadron d’As-seau est enfin devenu une unité de frappe de précision. En raison de limitations techniques, ils ne peuvent plus utiliser d’armes lourdes et doivent désormais compter sur leurs mitrailleuses, mais leur détermination à frapper les zombies avec vitesse et liberté reste intacte.</color>",
+            "info": "<size=36>Une unité Champi-seau hautement mobile, prête à suivre les ordres et frapper partout sur le terrain.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de l’Escouade de Champi-seau</color>\n<color=black>Robustesse : </color><color=#8B0000>6000</color>\n<color=black>Dégâts : </color><color=#8B0000>80 (240 après déverrouillage du Modificateur)×3/0,16s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de l’Escouade de Champi-seau.\n<color=black>•</color> Cliquer sur le Contrôleur de Troufle permet de déployer une unité d’As-seau sur n’importe quelle case située à sa gauche. Maintenez Ctrl pour déployer toutes les unités simultanément.\n<color=black>•</color> Lorsque des zombies se trouvent sur la case ciblée ou ses cases adjacentes, l’unité d’As-seau tire de petits Pois de Fer, infligeant un recul ainsi que des dégâts supplémentaires équivalents aux PV d’Armure de Type 2 de la cible.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Dégâts d’attaque ×3\n2. Dégâts d’attaque ×3 | Sous-espèce Escardon d'As-seau débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Champi-aimant <-> Troufle</color>"
+        },
+        {
+            "seedType": 938,
+            "name": "Champi-avare",
+            "introduce": "<align=justified><size=36><color=black>\" On lui avait dit de ne pas l’ouvrir. Évidemment, il l’a ouverte. \" Le Champi-avare fit glisser un doigt le long du couvercle orné, doré et vibrant d’une tentation sourde. Des murmures s’en échappaient — faim, envie, ambition — tous suppliant d’être libérés. Avec un sourire trop assuré pour être innocent, il brisa le sceau. Ce qui en sortit n’était pas l’espoir. C’était le profit. \" Bienvenue, petit monstre \", murmura-t-il, tandis que l’abîme s’éveillait et qu’une nouvelle fortune se  frayait son chemin vers la surface.</color>",
+            "info": "<size=36>Peut invoquer des zombies Mini-boss !\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur de la Champi-calamité</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce de la Champi-calamité.\n<color=black>•</color> Invoque un Zombie Mini-boss selon le terrain :\nJour : Professeur Cherryz | Nuit : Frappeur Giga Quarterback | Piscine : Jackson Worldwide | Brouillard : Mécha-Planeur Céleste | Toit Jour : Pozéidon | Toit Crépuscule : Clown Jill-surprise | Toit Nuit : Ultra Mécha-noix\n<color=black>•</color> Invoque simultanément sa variante Odyssée ordinaire sur toutes les lignes.\n<color=black>•</color> Vaincre le Zombie Mini-boss rapporte une grande quantité de Soleil, de Pièces et de points.\n<color=black>•</color> Vaincre une variante Odyssée ordinaire confère 1 Cadeau Florale.\n<color=black>•</color> Ne peut être invoquée qu’une seule fois par manche. Cette plante ne peut pas apparaître via un Cadeau Florale.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Sous-espèce Champi-avare débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Champi-mort <-> Souci</color>"
+        },
+        {
+            "seedType": 962,
+            "name": "Drone Phénix",
+            "introduce": "<align=justified><size=36><color=black>\" Il est temps d’être à la hauteur de mon nom \", déclara le Drone Phénix. Pendant des années, il est resté cloué au sol, mais il peut enfin s’élever comme un véritable phénix. Même s’il est légèrement frustré que le Drone à Grenades l’ait devancé dans les airs, conquérir le ciel reste une immense joie.\n\n</color>",
+            "info": "<size=36>Déploie ses ailes comme un véritable phénix.\n\n<color=#4A2900>Condition d’utilisation : Mode Odyssée | Déverrouillable avec un Modificateur du Triple Pisto-pois Phénix</color>\n<color=black>Dégâts : </color><color=#8B0000>160×3/3s</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Sous-espèce du Triple Pisto-pois Phénix.\n<color=black>•</color> Plante volante. Les projectiles appliquent l’Altération Enflammé et perforent 2 fois.\n<color=black>•</color> À sa mort, déclenche l’effet Jalapeño sur sa ligne et les 2 lignes adjacentes.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Bonus de dégâts contre les cibles Enflammées 50% → 150%, et les projectiles enflammés standards peuvent désormais appliquer l’Altération Enflammé\n2. Les pois Phénix perforent désormais à l’infini et provoquent des explosions Enflammées | Sous-espèce Drone Phénix débloquée</color>",
+            "cost": "\n<size=36>Formule de Conversion : <color=#8B0000>Pelle <-> Troufle</color>"
+        },
+        {
+            "seedType": 223,
+            "name": "Pomme Copieuse",
+            "introduce": "<align=justified><size=36><color=black>\" Paix et joie ! \" lance joyeusement la Pomme Copieuse à chaque plante qui passe. Les zombies, eux, reçoivent un message spécial : \" En cette saison de gratitude, joyeux Halloween ! \", soigneusement adapté à leur calendrier truffé d’erreurs.</color>",
+            "info": "<size=36>Écarte les catastrophes et garde vos \" pommes \" en sécurité.\n\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Commence avec 0 énergie. Énergie maximale limitée à 4000. Régénère 1 énergie toutes les 0,02s. Lorsqu’elle subit des dégâts ou que de l’énergie est consommée, la régénération est interrompue pendant 1s. Lorsque l’énergie est totalement épuisée, la régénération est interrompue pendant 5s.\n<color=black>•</color> Consomme une quantité d’énergie équivalente aux dégâts reçus pour bloquer les dégâts des plantes dans une zone de 3×3 cases.</color>",
+            "cost": "<size=36>Coût : <color=#8B0000>150</color>\nRecharge : <color=#8B0000>50s</color>"
+        },
+        {
+            "seedType": 305,
+            "name": "Champi-suprématie",
+            "introduce": "<align=justified><size=36><color=black>La Champi-suprématie vient des abysses les plus profonds et les plus densément peuplés, et commande les paysages oniriques les plus insaisissables. En lui, l’équilibre du yin et du yang s’accomplit parfaitement, et même les monstres les plus redoutables ont été domptés par sa main. En privé, il est aussi un collectionneur chevronné de figurines zombies.</color>",
+            "info": "<size=36>Invoque un Zombie Mini-boss hypnotisé pour combattre à vos côtés.\n\n<color=#4A2900>Condition d’utilisation : Mode Récolte | Plante Odyssée Légendaire</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> 1,5s après son apparition, invoque aléatoirement un Zombie Mini-boss hypnotisé parmi les suivants. Le Mini-boss invoqué ne peut pas être repoussé par les Hypno Troufle ni capturé par la Citrouille de Capture.\n<color=black>•</color> Gargantua Abyssal : confère également une Réduction des dégâts subis de 90% à toutes les plantes tant qu’il est présent.\n<color=black>•</color> Frappeur Giga Quarterback : soigne toutes les plantes d’un montant égal à 0,2× leurs PV max toutes les 3s tant qu’il est présent.\n<color=black>•</color> Professeur Cherryz : immobile. Tire une cerise explosive toutes les 0,1s. Perd son journal à l’apparition et convertit jusqu’à 30 zombies non Mini-boss et non Gargantuars présents sur le terrain (des deux côtés) en Zombies Journal Sulfateuse Cerise hypnotisés et enragés.</color>",
+            "cost": "\n" 
         }
     ]
 }
