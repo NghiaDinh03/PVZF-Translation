@@ -2166,7 +2166,7 @@
         {
             "seedType": 1150,
             "name": "Gold Magnet",
-            "introduce": "<align=justified><size=36><color=black>After working countless hours at an accoutant firm, the Gold Magnet realized its terrifying attracting potential and switched careers to become a fighter. 'Honestly, this is way more fun than counting money,' it remarks. 'After all, money doesn't grow on trees, but they do somehow from crops.' That said, its plant companions often end up suffering from its antics.</color>",
+            "introduce": "<align=justified><size=36><color=black>After working countless hours at an accountant firm, the Gold Magnet realized its terrifying attracting potential and switched careers to become a fighter. 'Honestly, this is way more fun than counting money,' it remarks. 'After all, money doesn't grow on trees, but they do somehow from crops.' That said, its plant companions often end up suffering from its antics.</color>",
             "info": "<size=36>Attracts projectiles!\n\n<color=black>Special: </color><color=#8B0000>Attracts straight-shooting projectiles from adjacent lanes and produces a 25 Coin for every projectile attracted.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Magnet-shroom + Marigold</color>"
         },
