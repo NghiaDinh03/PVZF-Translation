@@ -3849,6 +3849,13 @@
             "introduce": "<color=#3D1400>Au milieu des crépitements des feux d’artifice, l’année s’achève et la douce brise du printemps apporte un nouveau souffle de vie. La Fête du Printemps est le moment le plus joyeux pour toutes les plantes. Le seul petit incident concerna le Piment Souffle-du-Dragon : en allumant des feux d’artifice, il mit accidentellement le feu à la scène où les Tournesols interprétaient \" Gong Xi Fa Cai \".</color>",
             "info": "Crache des flammes, invoque des dragons et repousse les zombies dans un spectacle enflammé.\n\n<color=#3D1400>Condition d’utilisation : Mode Odyssée</color>\n<color=#3D1400>Dégâts : </color><color=red>200</color>\n<color=#3D1400>Portée : </color><color=red>5 cases vers l’avant</color>\n<color=#3D1400>Spécial : <color=#8B0000>\n<color=black>•</color> Toutes les 4s, crache un souffle de feu couvrant 5 cases, infligeant des dégâts de feu toutes les 0,02s à tous les zombies touchés (y compris les unités aériennes) et déclenchant un recul ainsi qu’une petite explosion de Cerise toutes les 0,2s.\n<color=black>•</color> Lorsqu’il cesse de cracher du feu, le Piment Souffle-du-Dragon invoque un mini Bamboom volant qui repousse les zombies et déclenche une petite explosion de Cerise sur chaque zombie touché toutes les 0,02s. Peut cibler les unités aériennes.</color>\n<color=black>Modificateurs Odyssée :</color>\n<color=#8B0000>1. Fréquence des explosions ×2\n2. Chaque zombie touché par le souffle augmente les dégâts du coup suivant de cette même attaque de 1%, cumulable jusqu’à 400%</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Bamboom + Piment d'Espelette</color>"
+        },
+        {
+            "seedType": 1366,
+            "name": "Écraseur Pois",
+            "introduce": "<align=justified><size=36><color=black>\"Dois-je bondir pour écraser les zombies, ou simplement devenir un tireur comme les autres ?\" Cette question a hanté Écraseur Pois pendant toute son adolescence. Finalement, il a choisi le mode de vie plus traditionnel des Écraseurs. Mais chaque fois qu'il frappe le sol, ces petites bosses vertes sur son corps tirent instinctivement des pois malgré lui.</color>",
+            "info": "<size=36>Déclenche une tempête de pois lorsqu'il s'écrase au sol.\n\n<color=black>Dégâts : </color><color=#8B0000>1800 (Écraseur)</color>\n<color=black>Portée de détection : </color><color=#8B0000>0.5 case à gauche ; 1 case à droite</color>\n<color=black>Spécial : </color><color=#8B0000>À l'atterrissage, libère 3 anneaux de projectiles de pois (108 pois au total).</color>",
+            "cost": "<size=36>Formule de Fusion : <color=#8B0000>Pisto-pois + Écraseur</color>"
         }
     ]
 }
