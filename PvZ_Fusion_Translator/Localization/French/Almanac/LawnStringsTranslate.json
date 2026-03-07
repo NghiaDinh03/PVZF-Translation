@@ -3891,6 +3891,13 @@
             "introduce": "<align=justified><size=36><color=black>Ce ne sont que trois gamins venus réclamer des bonbons. La seule chose inhabituelle, c’est que si vous refusez leur demande… vous pourriez ressentir un peu de \" pression \".</color>",
             "info": "<size=36>De petits Écraseurs pleins d’énergie qui bondissent et écrasent leurs ennemis.\n\n<color=black>Dégâts : </color><color=#8B0000>300 (Écrasement)</color>\n<color=black>Portée de détection : </color><color=#8B0000>2 cases à gauche et à droite</color>\n<color=black>Spécial : </color><color=#8B0000>\n<color=black>•</color> Écrase une fois toutes les 1s et ne disparaît pas après l’impact ; lorsqu’il ne cible aucun zombie, il saute pour revenir sur sa case d’origine.\n<color=black>•</color> Vulnérable aux attaques des zombies pendant 0,6s après chaque écrasement.\n<color=black>•</color> Immunisé contre l’écrasement. Lorsqu’il est écrasé, il subit 500 dégâts toutes les 0,02s. Lorsqu’il écrase, il subit des dégâts équivalents à ceux qu’un zombie hypnotisé subirait dans la même situation.</color>",
             "cost": "\n<size=36>Formule de Fusion : <color=#8B0000>Écraseur > Champi-gnon</color>"
+        },
+        {
+            "seedType": 1377,
+            "name": "Algue-piquante",
+            "introduce": "<color=#3D1400>Algue-piquante est très vigilante. Elle vit seule, se nourrissant uniquement dans les eaux peu profondes. Si nécessaire, elle se cache même sous les zombies pour échapper aux prédateurs. Elle dort d'un oeil ouvert, ce qui n'est pas simple pour une plante avec un seul oeil.</color>",
+            "info": "<size=36>Quand elle entre en contact avec un zombie, Algue-piquante explose et s'attache à d'autres zombies pour se multiplier.\n\n<color=black>Dégâts: </color><color=#8B0000>20 × 30</color>\n<color=black>Spécial: </color><color=#8B0000>Quand un zombie entre en contact ave Algue-piquante, elle éclatera en 30 projectiles d'algues qui infligent 1 point d'Entrave avant de disparaître. Si un zombie est tué par un projectile d'algues, une Algue-piquante supplémentaire apparaîtra sur cette tuile (si possible).</color>",
+            "cost": "\n<size=36>Formule de fusion: <color=#8B0000>Champi-gnon > Algue</color>"
         }
     ]
 }
