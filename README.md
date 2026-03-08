@@ -17,7 +17,7 @@ The download links for the Multi-language Mod and the translation files of the M
 ------ | ------ | ------
 **\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
 **Multi-Language 3.4.2 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.4.2_beta)
-**English 3.4.1 Beta by Joseph Franci** | Android | [MEGA](https://mega.nz/file/sRFV2YbL#eSAadL1QY2nePWhEg42tWxGOsjQdlK-xrhdzYmK7dME) [Google Drive](https://drive.google.com/file/d/1CQfbEakrvw6aS-G-CMPlkTCVZ7Z9ZEcQ/view?usp=sharing) [Mediafire](https://www.mediafire.com/file/fzrepi026vnima2/PvZFusion3.4.1-Translation-Beta1.5.apk/file)
+**English 3.4.2 by Joseph Franci** | Android | [MEGA](https://mega.nz/file/JAcRzBrC#_L1gMBMoV-11gyw1Gbypr5aGRZGk1fXZWGofHKJfJ_M) [Google Drive](https://drive.google.com/file/d/1BxvoA5SGFVH1DqEJYnrIJqv67RSPENxp/view) [Mediafire](https://www.mediafire.com/file/oyt1vcvi1sd97a2/PvZFusion3.4.2-Translation-Beta1.8.apk/file)
 **Chinese 3.4.1** | PC | [MEGA](https://mega.nz/file/FmMjiRCa#hh6uSjknqOuWT0JHWS3O3xNLzvGcrA0hwtbLZqAq7P0) [Google Drive](https://drive.google.com/file/d/1NOfhZYhG_h29Bcnet_vKPb6jtDa3EC5P/view?usp=sharing)
 **Chinese 3.4.1** | Android | [MEGA](https://mega.nz/file/2cZkRYYZ#QdyzemCsjMvVxvykCaC2cnL4LKkBeAQOoqpJtsk0Oys) [Google Drive](https://drive.google.com/file/d/1Z5d3WzpwwgMVKq_Feubs2iCDEbaWeYJx/view?usp=sharing)
 **Chinese 3.3.1** | PC | [MEGA](https://mega.nz/file/2ARFyJiQ#kIwsSq6_73owM97-mMVz5X4ZrAAG1zA42VIJUMIVy5I) [Google Drive](https://drive.google.com/file/d/156fYlSjoajtvb6ybcob9DPM1Ts-Nb0Le/view?usp=sharing)
@@ -98,7 +98,7 @@ __The Blooms Community__  | Translation ideas and assistance
 **Language** | **Members** | **Inactive Members**
 ------ | ------ | ------
 English | Mamoru-kun, Cassidy, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
-[French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Lyolia](./Docs/french-contributor/lyolia.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md), [Ink Stolas](./Docs/french-contributor/ink-stolas.md), AnthonyGourmand | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
+[French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md) | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
 Italian | No active translator | Dyna, Pasuqlaw, Daka
 German | No active translator | Stevenzocker, Dynagi
 Spanish | Xabdi, Teyliu | Hairy Nugget, Moonlight, Arooming
