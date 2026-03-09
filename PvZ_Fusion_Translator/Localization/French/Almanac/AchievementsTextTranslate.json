@@ -112,7 +112,7 @@
     "MagnetShroom": {
         "achievement": 22,
         "Name": "Utilisez le système magnétique.",
-        "Text": "Recherche en largeur"
+        "Text": "Algorithme de parcours en largeur"
     },
     "CornCabbage": {
         "achievement": 23,
