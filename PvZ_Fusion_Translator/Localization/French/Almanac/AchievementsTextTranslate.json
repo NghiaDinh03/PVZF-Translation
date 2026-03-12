@@ -106,8 +106,8 @@
     },
     "StarBlover": {
         "achievement": 21,
-        "Name": "Utilisez Starblover pour attirer les projectiles étoiles.",
-        "Text": "Attracteur d'étoiles"
+        "Name": "Utilisez Troufle d'Étoiles pour attirer les projectiles étoiles.",
+        "Text": "Manoeuvre gravitationnelle"
     },
     "MagnetShroom": {
         "achievement": 22,
