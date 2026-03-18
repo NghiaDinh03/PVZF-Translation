@@ -749,6 +749,42 @@
             "name": "Destroyeur Requin-marin",
             "introduce": "<align=justified><size=36><color=black>\"Sans défaut\" les armes sont surestimées. La véritable victoire réside dans les tirs de missiles qui pleuvent du ciel. Ce sous-marin minier améliorer sert de lance-missiles mobile sous l'eau, il est à l'origine de cet incendie.</color>",
             "info": "<size=36>Lance un bombe en continue sur la ligne de front.\n\n<color=black>Robustesse: </color><color=#4B0082>6000</color>\n<color=black>Spécial: </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Tire une bombe toutes les 1.5 secondes en visant 2 cases devant lui. La bombe explose comme un Diable à ressort mais peut être détruite si elle subit 1 000 de dégats en plein vol.</color>"
+        },
+        {
+            "theZombieType": 51,
+            "name": "Lanceur de Trident de la Légion",
+            "introduce": "<align=justified><size=36><color=black>Aux 5èmes Jeux Olympiques d'hiver des Morts-Vivants, Lanceur de Trident de la Légion est sous les feux de la rampe. Il compte utiliser ses gains pour acheter une nouvelle luge pour lui et son équipe, et peut-être même leur offrir un massage des pieds luxueux pour compenser les dégâts causés par les Orties.</color>",
+            "info": "<size=36>Des plaines enneigées surgit le Lanceur de Trident de la Légion, réduisant ses ennemis au silence à chaque lancer glacé !\n\n<color=black>Robustesse :</color><color=#4B0082>720</color>\n<color=black>Spécial :</color><color=#4B0082>\n<color=black>•</color> Immunisé contre le froid et le gel. Vulnérable au Froid Profond.\n<color=black>•</color> Hérite des caractéristiques du Zombie au Trident. Les Tridents de glace ne sont pas attirés par les parapluies et appliquent Silence pendant 5 secondes à l'impact.</color>"
+        },
+        {
+            "theZombieType": 58,
+            "name": "Zombie Mineur-en-or",
+            "introduce": "<align=justified><size=36><color=black>\"Je ne veux pas vivre dans ce monde,\" se lamente Zombie Mineur-en-or, n'éprouvant aucune joie dans sa vie monotone. Il veut juste extraire assez d'obsidienne pour construire un portail et partir. Sans compter que l'autre côté du portail est encore plus dangereux et monotone, et qu'il n'a aucune chance d'allumer le portail. Le seul outil d'allumage connu est gardé au plus profond d'anciennes pyramides que l'on trouve dans seulement deux endroits du monde, où errent des zombies porte-torche.</color>",
+            "info": "<size=36>Manipule une pioche aléatoire pour percer tes défences.\n\n<color=black>Dégâts: </color><color=#4B0082>50 (sans morsure)</color>\n<color=black>Robustesse : </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Les attaques accumulent des progression minières contre les plantes défensive, et détruise instantanément la plante dès qu'elle atteint 100%. \n<color=black>•</color> Progression minière = (nombre d'attaques × dégâts de la pioche) / PV de la plante.\n<color=black>•</color> En apparence, reçois une pioche aléatoire avec des pouvoirs de pioches aléatoires. Lorsqu'il cible des plantes dont la robustesse est inférieure à la puissance de sa pioche, les dégâts de la pioche sont multipliés par 5. \n<color=black>•</color>Type de Pioche:\n\tPioche en Or: 150 de dégâts | 4 000 de puissance\n\tPioche en Fer: 50 de dégâts | 16 000 de puissance\n\tPioche en Diamant: 100 de dégâts | 32 000 de puissance\n<color=black>•</color> Plantes défensives : Noix, Citrouilles, Canon Burger, Poirmafrost.</color>"
+        },
+        {
+            "theZombieType": 61,
+            "name": "Zombie Footballeur-dauphin",
+            "introduce": "<align=justified><size=36><color=black>Ce type se déplace comme un poisson dans l'eau sur un terrain de football. Attendez ! C'est censé être une métaphore ! Qui a dit qu'on pouvait pas inonder la pelouse ?!</color>",
+            "info": "<size=36>Se déplace sur le terrain avec des enjambées agiles, impatient de montrer son casque stylé.\n\n<color=black>Résistance : </color><color=#4B0082>720 + 1400 (Type 1)</color>\n<color=black>Spécial : </color><color=#4B0082>Immunisé contre les effets d'étourdissement. Ignore les collisions avec les plantes lorsqu'il porte son casque. Lorsqu'il atteint la première colonne ou le bord de la pelouse, il récupère tous ses PV, s'équipe d'un nouveau casque et change de direction.</color>"
+        },
+        {
+            "theZombieType": 52,
+            "name": "Zombie Porteur-chrono",
+            "introduce": "<align=justified><size=36><color=black>Qui a-t-il exactement derrière le portail tenu par Porteur-chrono Zombie? Aucun zombie ne sait vraiment — ni ne cherchent à savoir. Mais quand ces vieux compagnons sortent en rampant les uns après les autres, ils sont ravis de s'avancer pour demander s'il y a des cerveaux frais à l'intérieur.</color>",
+            "info": "<size=36>Une force qui dépasse le temps et l'espace, tiré des recoins de la réalité elle-même.\n\n<color=black>Dégâts: </color><color=#4B0082>20/1.5 secondes</color>\n<color=black>Robustesse: </color><color=#4B0082>270 + 200 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>Lance des pois chrono sur tes défenses. Toutes les 6 secondes, invoque aléatoirement un zombie, un zombie cône , un zombie seau, ou le Zombie Moustiquaire depuis le portail. Lâche un noyau chrono à sa mort.</color>"
+        },
+        {
+            "theZombieType": 59,
+            "name": "Zombie-dauphin Journal",
+            "introduce": "<align=justified><size=36><color=black>Il a rêvé un jour de devenir une sirène, mais le chirurgien qui devait l'opérer à complètement mélanger le haut et le bas de son corps.</color>",
+            "info": "<size=36>S'énerve quand sa lecture est interrompue... puis rentre chez lui pour aller chercher un autre journal à sensation.\n\n<color=black>Robustesse : </color><color=#4B0082>720 + 720 (Type 2)</color>\n<color=black>Spécial : </color><color=#4B0082>Après avoir perdu son journal à sensation, augmente considérablement la vitesse et change de direction. Au moment de sortir à droite, un tout nouveau Zombie-Dauphin journal apparaît. Cela ne se produit pas s'il est hypnotisé.</color>"
+        },
+        {
+            "theZombieType": 312,
+            "name": "Chargeur Requin-marin",
+            "introduce": "<align=justified><size=36><color=black>Le seul but de ce sous-marin à propulsion turbo : charger, désorganise les lignes ennemis et créer des points faibles que les alliés peuvent exploiter. Les critiques disent que c'est trop de sacrifice pour la vitesse, mais Edgar hausse les épaules—\"Tout ce dont j'ai besoin est d'avancer, à tout prix.\"</color>",
+            "info": "<size=36>Il file à toute allure dans les couloirs aquatiques.\n\n<color=black>Robustesse : </color><color=#4B0082>6000</color>\n<color=black>Spécial : </color><color=#4B0082>\n<color=black>•</color> Zombie évolué de Catégorie 2.\n<color=black>•</color> Se précipite à grande vitesse le long du couloir aquatique.</color>"
         }
     ]
 }
