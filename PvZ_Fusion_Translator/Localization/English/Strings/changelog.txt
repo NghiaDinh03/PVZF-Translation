@@ -35,7 +35,7 @@ Please visit our community for future updates and support.
     - Mammon Plantern (Tycoonwood + Plantern)
     - Wicked Undertaker (Grim Arbiter + Potato Mine)
   - Epic:
-    - Soulshatterer Bamboo (Lifereaver Spruce + Bamblock)
+    - Soulrender Bamboo (Lifereaver Spruce + Bamblock)
     - Fungularity (Maelonstrom + Doom-shroom)
     - Photon Splitter (Split Lumos + Chrono Pea)
 - Special/Misc:
