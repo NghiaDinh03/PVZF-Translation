@@ -2853,7 +2853,7 @@
             "seedType": 1241,
             "name": "Lumos Angler",
             "introduce": "<align=justified><size=36><color=black>They say Lumos Angler has never gone hungry—not once. Every chomp lands a juicy zombie. He even published a book sharing his secrets: \"Wiggle... wiggle... zombies love a gentle glow.\" — From his work Lantern.</color>",
-            "info": "<size=36>Lures in zombies to snack on with his lophos.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digestion time by 10s to a minimum of 10s.</color>\n<color=black>Special: </color><color=#8B0000>Upon successful digestion, pulls a nearby zombie from adjacent lanes to its lane.</color>",
+            "info": "<size=36>Lures in zombies to snack on with his lophos.\n\n<color=black>Damage: </color><color=#8B0000>Insta-kill (Devour)</color>\n<color=black>Digestion Time: </color><color=#8B0000>40s</color>\n<color=#99582a>Lumos System: </color><color=#8B0000> Each Lumos level reduces digestion time by 10s to a minimum of 10s.</color>\n<color=black>Special: </color><color=#8B0000>Upon successful digestion, pulls a nearby zombie from adjacent lanes to its lane, if there are no zombies in its lane.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Plantern</color>"
         },
         {
